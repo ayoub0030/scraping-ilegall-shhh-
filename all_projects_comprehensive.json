@@ -1,0 +1,6106 @@
+[
+    {
+        "title": "FrostByte",
+        "url": "https://devpost.com/software/frostbyte-gij7ab",
+        "tagline": "Surviving the frost, together.",
+        "tags": [
+            "groq",
+            "google-places",
+            "openweathermap",
+            "expo.io",
+            "react-native",
+            "firebase",
+            "node.js",
+            "express.js",
+            "twilio",
+            "javascript",
+            "json"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Air mouse",
+        "url": "https://devpost.com/software/air-mouse-qxb3h4",
+        "tagline": "Built the Convenience Air Mouse, a handheld peripheral that frees your workflow from the desk by mapping natural hand gestures to pinpoint 2D navigation",
+        "tags": [
+            "c",
+            "python",
+            "esp32",
+            "imu"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "DRISHTI",
+        "url": "https://devpost.com/software/drishti-kih0f4",
+        "tagline": "An assistive navigation device aimed at providing independence to the visually impaired",
+        "tags": [
+            "python",
+            "kotlin",
+            "raspberry-pi"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Improving Our Fallen Star",
+        "url": "https://devpost.com/software/improving-our-fallen-star",
+        "tagline": "Private Arduino automation: monitors temp, security, &amp; air quality. Get real-time alerts via a secure web dashboard.",
+        "tags": [
+            "arduino"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "The Vault",
+        "url": "https://devpost.com/software/the-vault-n9i5v0",
+        "tagline": "Your best security in the AI age.",
+        "tags": [
+            "lidar",
+            "camera",
+            "ros2",
+            "flask",
+            "react"
+        ],
+        "like_count": 2,
+        "comment_count": 1
+    },
+    {
+        "title": "NeuroDetect",
+        "url": "https://devpost.com/software/neurodetect-rst574",
+        "tagline": "“Neuro Detect is an AI-powered assistant that helps radiologists analyze brain MRI scans faster with clear, explainable insights.”",
+        "tags": [
+            "render",
+            "fastapi",
+            "html",
+            "css",
+            "javascript",
+            "kaggle",
+            "geminiapi",
+            "tensorflow"
+        ],
+        "like_count": 4,
+        "comment_count": 4
+    },
+    {
+        "title": "LetsHelp",
+        "url": "https://devpost.com/software/auralis-12p087",
+        "tagline": "Understand your entire device with AI, Control it by voice.\r\n\r\nCode: 04841D970D922443",
+        "tags": [
+            "typescript",
+            "javascript",
+            "react",
+            "electron",
+            "next.js",
+            "python",
+            "gemini",
+            "elevenlabs"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Aestha Ai",
+        "url": "https://devpost.com/software/aestha-ai",
+        "tagline": "Real-time, Unified, Effortless",
+        "tags": [
+            "swift",
+            "react",
+            "ios",
+            "web",
+            "gemini",
+            "whisper"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "IDRAK Prototype 1 ",
+        "url": "https://devpost.com/software/idrak",
+        "tagline": "While companies race towards human-replacement, we are building human-centric technology that augments the human experience and productivity. ",
+        "tags": [
+            "python",
+            "opencv",
+            "fastapi",
+            "vue",
+            "openai",
+            "anthropic",
+            "librosa",
+            "whisper"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "GreenHoyas",
+        "url": "https://devpost.com/software/greenhoyas",
+        "tagline": "GreenHoyas turns sustainability into verified currency. We gamify waste reduction by verifying reusables at events and campus-based restaurants, stopping plastic usage EVEN before it starts.",
+        "tags": [
+            "next.js",
+            "node.js",
+            "express.js",
+            "mongodb",
+            "tailwindcss",
+            "lucide-react",
+            "javascript"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "TapRoot",
+        "url": "https://devpost.com/software/taproot",
+        "tagline": "Find Your Path To Wellness... Connecting clinical and community wellness resources",
+        "tags": [
+            "next.js",
+            "mapbox",
+            "scrapy",
+            "jinaai",
+            "openai",
+            "supabase",
+            "python",
+            "javascript",
+            "react"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Brailliant",
+        "url": "https://devpost.com/software/brailliant-k23hei",
+        "tagline": "You too can grow your brailliant mind",
+        "tags": [
+            "esp-32",
+            "c++",
+            "love",
+            "elevenlabs",
+            "groq",
+            "pyttsx3",
+            "serial",
+            "python",
+            "pizza"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "SignHero",
+        "url": "https://devpost.com/software/signhero",
+        "tagline": "Compete, have fun, and master ASL, one beat at a time.",
+        "tags": [
+            "t3",
+            "opencv",
+            "mongodb",
+            "next.js",
+            "tailwindcss",
+            "mediapipe"
+        ],
+        "like_count": 10,
+        "comment_count": 0
+    },
+    {
+        "title": "lockblock",
+        "url": "https://devpost.com/software/lockblock-9ct281",
+        "tagline": "Smart security that works while you sleep. Your door locks automatically when it sees a stranger. Unlock from your phone. Get instant alerts. Peace of mind, no strings attached.",
+        "tags": [
+            "python",
+            "flask",
+            "opencv",
+            "javascript",
+            "sqlite",
+            "html",
+            "css"
+        ],
+        "like_count": 5,
+        "comment_count": 2
+    },
+    {
+        "title": "FortBox",
+        "url": "https://devpost.com/software/fortbox",
+        "tagline": "Fortnite Duels in Roblox",
+        "tags": [
+            "lua",
+            "javascript",
+            "elevenlabs",
+            "mongodb",
+            "gemini",
+            "digitalocean",
+            "github"
+        ],
+        "like_count": 34,
+        "comment_count": 11
+    },
+    {
+        "title": "StudyVerse",
+        "url": "https://devpost.com/software/studyverse-mxbws8",
+        "tagline": "StudyVerse brings students together in a real-time virtual campus where studying feels shared and socially present.",
+        "tags": [
+            "supabase",
+            "nextjs",
+            "typescript",
+            "javascript",
+            "html",
+            "css",
+            "react",
+            "realtime",
+            "tailwind"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Rosetta",
+        "url": "https://devpost.com/software/rosetta-hq6aby",
+        "tagline": "Removing language barriers from lectures.\r\n\r\n",
+        "tags": [
+            "react",
+            "typescript",
+            "fastapi",
+            "postgresql",
+            "chromadb",
+            "webspeechapi",
+            "websockets",
+            "elevenlabs",
+            "openrouter",
+            "claude",
+            "bert",
+            "tiptap",
+            "weasyprint",
+            "docker",
+            "zustand",
+            "tanstack"
+        ],
+        "like_count": 18,
+        "comment_count": 2
+    },
+    {
+        "title": "ATC-Trainer",
+        "url": "https://devpost.com/software/atc-trainer",
+        "tagline": "Proceed To Runway",
+        "tags": [
+            "godot",
+            "gdscript",
+            "python",
+            "websockets",
+            "elevenlabs",
+            "gemini"
+        ],
+        "like_count": 10,
+        "comment_count": 2
+    },
+    {
+        "title": "Talkio",
+        "url": "https://devpost.com/software/talkio",
+        "tagline": "Talkio helps sales reps keep context across multiple calls by organizing post-call insights into a clear client history, so every conversation builds on the last and moves deals forward.",
+        "tags": [
+            "twilio",
+            "mongodb",
+            "nextjs",
+            "tailwind",
+            "css",
+            "radixui",
+            "gemini",
+            "react",
+            "digitalocean",
+            "clerk",
+            "typescript",
+            "elevenlabs",
+            "openrouter",
+            "javascript",
+            "opus"
+        ],
+        "like_count": 10,
+        "comment_count": 4
+    },
+    {
+        "title": "MEALCRAFT",
+        "url": "https://devpost.com/software/mealcraft",
+        "tagline": " Turning \"What's in my fridge?\" into \"What's for dinner?\"—one photo at a time.",
+        "tags": [
+            "next.js",
+            "react",
+            "typescript",
+            "tailwind",
+            "gemini",
+            "cursor",
+            "openrouter",
+            "vitest",
+            "playwright",
+            "jsdom",
+            "node.js",
+            "claude",
+            "lucide",
+            "vt323-font",
+            "piskel"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Greenspace",
+        "url": "https://devpost.com/software/greenspace-myh31p",
+        "tagline": "The world has a plastic problem. Greenspace is an app that inspires people to rally around environmental issues and encourages all of us to make our greenspaces a little more green. 03D012481A8B1680",
+        "tags": [
+            "react",
+            "replit",
+            "gemini",
+            "node.js",
+            "typescript",
+            "vite"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "ReStory",
+        "url": "https://devpost.com/software/restory",
+        "tagline": "Wearable face/audio identity linker for people with Alzheimer’s",
+        "tags": [
+            "python",
+            "fastapi",
+            "websockets",
+            "raspberry-pi-5",
+            "cuda",
+            "cudnn",
+            "pytorch",
+            "chromadb",
+            "whisperx",
+            "speechbrain",
+            "opencv",
+            "gemini",
+            "openrouter",
+            "embeddings",
+            "numpy"
+        ],
+        "like_count": 15,
+        "comment_count": 1
+    },
+    {
+        "title": "EduTag",
+        "url": "https://devpost.com/software/edutag",
+        "tagline": "We're working on a project that aligns standard codes with textbook content by looking at how they're defined.",
+        "tags": [
+            "kaggle",
+            "python",
+            "gemini",
+            "huggingface",
+            "tensorflow",
+            "bert",
+            "transformer",
+            "pandas",
+            "numpy",
+            "sklearn",
+            "torch"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Symra",
+        "url": "https://devpost.com/software/symra",
+        "tagline": "Symra is a local-first advocate bridging the women’s health gap. We turn messy logs into clinical reports and \"bridge\" questions for doctors, ensuring total privacy via on-device storage.",
+        "tags": [
+            "react",
+            "vite",
+            "indexdb",
+            "gemini"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "TurtleTalk",
+        "url": "https://devpost.com/software/turtletalk-41dr7t",
+        "tagline": "TurtleTalk is an AI-powered platform that helps Indigenous communities preserve endangered languages through lessons, AI conversation, pronunciation feedback, stories, and offline access.",
+        "tags": [
+            "python",
+            "typescript",
+            "react.js",
+            "html",
+            "css"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "AirBenders",
+        "url": "https://devpost.com/software/airbenders",
+        "tagline": "Our project is a virtual DJ deck that lets users mix like a pro using intuitive hand gestures via webcam, without needing expensive software or hardware.",
+        "tags": [
+            "python",
+            "opencv",
+            "mediapipe",
+            "pygame"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Katilix",
+        "url": "https://devpost.com/software/katilix",
+        "tagline": "Katilix is a tool designed to help users with disabilities stay focused and productive online. It uses AI-powered customizable support for conditions like ADHD, dyslexia, visual impairment, and more.",
+        "tags": [
+            "javascript",
+            "typescript",
+            "gemini",
+            "azure",
+            "express.js",
+            "postgresql",
+            "chrome",
+            "tailwindcss",
+            "react"
+        ],
+        "like_count": 7,
+        "comment_count": 1
+    },
+    {
+        "title": "R'Cane + R'Accessible",
+        "url": "https://devpost.com/software/r-cane",
+        "tagline": "R'Accessible is a mobile-friendly web application to report accessibility issues in public spaces. R'Cane is a smart mobility aid designed to enhance spatial awareness for those visually impaired.",
+        "tags": [
+            "html5",
+            "css3",
+            "view3",
+            "byte",
+            "google-apps-script",
+            "google-sheets",
+            "google-drive",
+            "arduino",
+            "c++",
+            "csv",
+            "leaflet.js",
+            "javascript",
+            "openstreetmap",
+            "api"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "CERBERUS",
+        "url": "https://devpost.com/software/cerberus-afm1zu",
+        "tagline": "CERBERUS is a cybersecurity platform that stops coordinated attacks in real time by detecting anomalies and automatically isolating compromised DERs and large loads before they destabilize the grid.",
+        "tags": [
+            "react",
+            "node.js",
+            "django",
+            "python",
+            "vercel",
+            "gemini",
+            "auth0",
+            "vultr",
+            "javascript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "RabbitReview",
+        "url": "https://devpost.com/software/rabbitreview",
+        "tagline": "Automated PR vulnerability detection through CodeRabbit unit tests and secure sandbox execution with Daytona. ",
+        "tags": [
+            "daytona",
+            "coderabbit",
+            "python",
+            "typescript",
+            "css",
+            "javascript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "i18n meet",
+        "url": "https://devpost.com/software/i18n-meet",
+        "tagline": "Your personal translation agent for video calls. Speak any language, everyone hears their own.",
+        "tags": [
+            "next.js",
+            "drizzle"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Your First Week Here",
+        "url": "https://devpost.com/software/your-first-week-here",
+        "tagline": "Onboarding can be tough. Ray is your AI onboarding buddy who creates personalized 5-day plan for you to get up to speed in no time.",
+        "tags": [
+            "next"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "CutOS",
+        "url": "https://devpost.com/software/cutos",
+        "tagline": "AI-powered video editor. Edit with natural language and just tell it what you want. Automatic dubbing, voice isolation, and semantic smart search. Professional results, zero learning curve.\r\n",
+        "tags": [
+            "nextjs",
+            "supabase",
+            "elevenlabs",
+            "twelvelabs",
+            "kling",
+            "v0",
+            "vercel",
+            "gemini",
+            "claude",
+            "openai",
+            "framer",
+            "vercelsdk",
+            "tailwind",
+            "radix",
+            "shadcn",
+            "ffmpeg",
+            "webgl",
+            "canvasapi",
+            "mediarecorderapi"
+        ],
+        "like_count": 11,
+        "comment_count": 2
+    },
+    {
+        "title": "OffTrails",
+        "url": "https://devpost.com/software/offtrails",
+        "tagline": "OffTrails is an off-trail path finding program that combines USGS elevation, vegetation, and water data via an AI-optimized algorithm to maximizes safety, efficiency, and speed in wilderness travel.",
+        "tags": [
+            "openstreetmap",
+            "python",
+            "usgs",
+            "javascript",
+            "html",
+            "css",
+            "leaflet.js",
+            "rasterio",
+            "ai"
+        ],
+        "like_count": 5,
+        "comment_count": 2
+    },
+    {
+        "title": "CaseForwardAI",
+        "url": "https://devpost.com/software/caseforwardai",
+        "tagline": "CaseForward uses an AI round table orchestrator to process uploads, emails, and transcripts. Specialists deliberate to generate action cards, bridging AI analysis and human legal expertise.",
+        "tags": [
+            "next.js",
+            "react",
+            "typescript",
+            "mongodb",
+            "gemini",
+            "cloudflare",
+            "auth0",
+            "tailwind"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Pay Pals",
+        "url": "https://devpost.com/software/project-c1nomzfei7a0",
+        "tagline": "What makes saving more fun? Doing it with friends",
+        "tags": [
+            "react",
+            "fastapi",
+            "python",
+            "json",
+            "mongodb",
+            "solana",
+            "gemini",
+            "copilot",
+            "tailwindcss",
+            "nessie",
+            "railway"
+        ],
+        "like_count": 2,
+        "comment_count": 1
+    },
+    {
+        "title": "First30.ai",
+        "url": "https://devpost.com/software/first30-ai",
+        "tagline": "Web app that tells you exactly what to do when someone needs emergency help so you can act accordingly where every minute matters the most.",
+        "tags": [
+            "react",
+            "typescript",
+            "tailwindcss",
+            "supabase"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "BeePrepared",
+        "url": "https://devpost.com/software/beeprepared",
+        "tagline": "Transform 2h lectures into elite study kits in 3 mins. Get AI notes, cards, and mock exams on a node-based canvas. Watch bee agents build your knowledge &amp; earn Honey Points. Learn with intention!",
+        "tags": [
+            "next.js-16.1",
+            "react-19.2",
+            "typescript-5.7",
+            "tailwindcss-4.0",
+            "gsap-3.14",
+            "framer-motion-11.15",
+            "react-flow-12.3",
+            "tanstack-query-5.62",
+            "zustand-5.0",
+            "radix-ui",
+            "lucide-react",
+            "fastapi",
+            "python-3.11",
+            "supabase-postgresql",
+            "google-gemini-2.0",
+            "pymupdf",
+            "python-pptx",
+            "ffmpeg",
+            "vercel"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "DLLM Checkmate",
+        "url": "https://devpost.com/software/llm-checker",
+        "tagline": "Our DLLM Checkmate protects AI apps from hacking. We scan LLM code for vulnerabilities, explain risks, suggest fixes, and store insights in Snowflake Cortex for security analytics.",
+        "tags": [
+            "rag",
+            "python",
+            "mitre",
+            "nist-800",
+            "snowflake"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Neighborhood Signals: Predicting RevPAR Winners",
+        "url": "https://devpost.com/software/broadvail",
+        "tagline": "Redefining neighborhood value in a post-COVID world.",
+        "tags": [
+            "numpy",
+            "pandas",
+            "scikit-learn",
+            "mongodb",
+            "python",
+            "gemini",
+            "xgboost",
+            "seaborn",
+            "matplotlib",
+            "pgeocode"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Phantom Busters",
+        "url": "https://devpost.com/software/phantom-busters",
+        "tagline": "Phantom Busters hunts invisible energy drains and cyber threats in data centers before they become costly failures. AI shouldn't power ghosts.",
+        "tags": [
+            "react",
+            "next.js",
+            "typescript",
+            "css",
+            "python",
+            "javascript",
+            "vite",
+            "gemini",
+            "elevenlabs",
+            "express.js",
+            "tailwind",
+            "postcss",
+            "recharts",
+            "scikit-learn",
+            "cors",
+            "dotenv"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "NeuroBeat",
+        "url": "https://devpost.com/software/neurobeat",
+        "tagline": "Movement limitations shouldn't mean losing control. We transform messy brain waves into clear actions, giving users the power to control prosthetics and games just by thinking.",
+        "tags": [
+            "python",
+            "randomforest",
+            "sklearn",
+            "torch",
+            "resnet1d",
+            "eegnet"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "gatorlator",
+        "url": "https://devpost.com/software/live-translation-extension",
+        "tagline": "A Chrome extension that enable ESL students to listen to lectures in their native language, powered by DeepL for translation and ElevenLabs' voice models for TTS. No web or desktop app needed.",
+        "tags": [
+            "html",
+            "css",
+            "javascript",
+            "gemini",
+            "elevenlabs",
+            "deepl"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "AppliScan",
+        "url": "https://devpost.com/software/team-nars",
+        "tagline": "AI Appliance Savings Advisor: Save Smart, Save Big",
+        "tags": [
+            "typescript",
+            "javascript",
+            "html/css",
+            "next.js",
+            "react",
+            "tailwind",
+            "css",
+            "context",
+            "api",
+            "ocr.space",
+            "elevenlabs",
+            "browser",
+            "mediadevices",
+            "node.js",
+            "github",
+            "vs",
+            "energystar",
+            "vapi"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "TerraWatt",
+        "url": "https://devpost.com/software/the-test-test",
+        "tagline": "For farmers, by AI: draw your land, set your plan. TeraWatt maps crops and solar with cost and energy estimates in under a minute.",
+        "tags": [
+            "typescript",
+            "auth0",
+            "gemini",
+            "11labs",
+            "3d"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "WattsUp",
+        "url": "https://devpost.com/software/wp-fn35se",
+        "tagline": "WattsUp optimizes home energy through smart monitoring and actionable savings tips. Boost your savings and outshine neighbors on our competitive leaderboard.",
+        "tags": [
+            "api",
+            "python",
+            "vultr",
+            "react-native",
+            "expo.io",
+            "fastapi",
+            "auth0",
+            "json",
+            "csv",
+            "postgresql",
+            "gemini"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Extracta",
+        "url": "https://devpost.com/software/extracta",
+        "tagline": "Finds what you’d miss.",
+        "tags": [
+            "kotlin",
+            "sqlite",
+            "gemini",
+            "java",
+            "gradle"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Embers",
+        "url": "https://devpost.com/software/concord-d6txpr",
+        "tagline": "Embers is an offline Mesh Network with Edge-AI sentry nodes that detect wildfires in real-time using Computer Vision and a self-healing mesh.",
+        "tags": [
+            "raspberry-pi",
+            "python",
+            "tensorflowlite",
+            "computervision",
+            "mongodb",
+            "react",
+            "express.js",
+            "node.js",
+            "railway",
+            "netify"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "CodeAncestry",
+        "url": "https://devpost.com/software/codeancestory",
+        "tagline": "Turn Git commit history into a searchable knowledge base.",
+        "tags": [
+            "python",
+            "fastapi",
+            "react",
+            "vite",
+            "snowflake",
+            "cortex",
+            "1password",
+            "github",
+            "oauth",
+            "rag",
+            "gemini"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Nexus",
+        "url": "https://devpost.com/software/nexus-g349ko",
+        "tagline": "Nexus is an AI-native, vertically built platform designed specifically for student clubs to make event planning easy through integrations with many tools such as slack, google sheets, github and more!",
+        "tags": [
+            "next.js",
+            "mongodb",
+            "voltr",
+            "shadcn",
+            "tailwind",
+            "radix",
+            "lucide",
+            "react",
+            "typescript",
+            "python",
+            "fastapi",
+            "uvicorn",
+            "langchain",
+            "langgraph",
+            "redis",
+            "httpx",
+            "motor",
+            "asyncio"
+        ],
+        "like_count": 4,
+        "comment_count": 3
+    },
+    {
+        "title": "MarketMind",
+        "url": "https://devpost.com/software/marketmind-vlobg1",
+        "tagline": "Sandbox world of financial AI agents to help you learn trading.",
+        "tags": [
+            "python",
+            "gemini",
+            "typescript",
+            "react",
+            "fastapi",
+            "recharts",
+            "openrouter",
+            "lovable"
+        ],
+        "like_count": 10,
+        "comment_count": 0
+    },
+    {
+        "title": "Student Hub",
+        "url": "https://devpost.com/software/student-hub-2mprzi",
+        "tagline": "Sheridan's MyStudent Centre but Better!",
+        "tags": [
+            "nextjs",
+            "tailwindcss",
+            "html5",
+            "css",
+            "typescript",
+            "react",
+            "lucide",
+            "elevenlabs"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "MelaNone",
+        "url": "https://devpost.com/software/melanone",
+        "tagline": "Portable melanoma tracker and detector.",
+        "tags": [
+            "python",
+            "c",
+            "pytorch",
+            "react",
+            "flask",
+            "vite",
+            "cv",
+            "solidworks"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "SpeakCode",
+        "url": "https://devpost.com/software/speakcode-mxv98c",
+        "tagline": "SpeakCode helps developers practice technical interviews by evaluating both how they code and how they communicate.",
+        "tags": [
+            "node.js",
+            "passport-js"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Octheia",
+        "url": "https://devpost.com/software/octheia",
+        "tagline": "Octheia unlocks a \"new\" internet for the visually impaired. Our smart ai extension detects text and dynamically adjusts website visuals, turning unreadable pages into clear digital workspaces.",
+        "tags": [
+            "javascript",
+            "html",
+            "css"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "VibeSense",
+        "url": "https://devpost.com/software/vibesense",
+        "tagline": "Sense emotions beyond sight: VibeSense converts facial expressions into audio patterns so blind people can perceive emotions in real-time.",
+        "tags": [
+            "flask",
+            "python",
+            "presage",
+            "swift",
+            "sdk",
+            "arduino",
+            "deepface"
+        ],
+        "like_count": 7,
+        "comment_count": 1
+    },
+    {
+        "title": "Reachround",
+        "url": "https://devpost.com/software/roundreach",
+        "tagline": "AI that finds investors who fund companies like yours and writes personalized outreach that gets responses.",
+        "tags": [
+            "typescript",
+            "javascript",
+            "sql",
+            "html/css",
+            "next.js-14",
+            "react-18",
+            "tailwind-css",
+            "shadcn/ui",
+            "radix-ui",
+            "lucide-react",
+            "react-hook-form",
+            "zod",
+            "next.js-api-routes",
+            "node.js",
+            "vercel",
+            "supabase",
+            "postgresql",
+            "anthropic-claude-3.5-sonnet",
+            "gmail-api",
+            "google-oauth-2.0",
+            "googleapis",
+            "git",
+            "github",
+            "npm",
+            "eslint",
+            "compiler"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "BuildPulse",
+        "url": "https://devpost.com/software/buildpulse-6va4hk",
+        "tagline": "See the delay before it sees you.",
+        "tags": [
+            "next.js",
+            "mongodb",
+            "auth0",
+            "tailwind",
+            "tailwindcss",
+            "react",
+            "react-three-fiber",
+            "gemini",
+            "opennote"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Entropy",
+        "url": "https://devpost.com/software/entropy-36yt4l",
+        "tagline": "Entropy is an AI security tester with no setup. All you do is paste a website URL, and an AI agent navigates your website in front of you, testing for security issues like XSS and SQL injection.",
+        "tags": [
+            "react",
+            "firebase",
+            "gemini",
+            "python",
+            "javascript",
+            "html",
+            "css",
+            "vite",
+            "tailwind",
+            "fastapi",
+            "browser-use",
+            "langchain"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "MBTA Transit Planner ",
+        "url": "https://devpost.com/software/mbta-transit-planner",
+        "tagline": "MBTA Transit Planner is an AI-powered web app that shows the smartest route in real time using live congestion, transfer buffers, and instant alternatives for stress-free MBTA commutes.",
+        "tags": [
+            "node.js",
+            "html",
+            "css",
+            "gemini",
+            "javascript",
+            "tsx",
+            "mbta",
+            "github"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "MedEasy ",
+        "url": "https://devpost.com/software/medeasy-w831ah",
+        "tagline": "Accessible medicine for all",
+        "tags": [
+            "html",
+            "css",
+            "python",
+            "flask",
+            "mongodb",
+            "javascript",
+            "gemini"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Study Royale ",
+        "url": "https://devpost.com/software/study-royale-1iak3c",
+        "tagline": "Turn studying into a real-time competition — powered by your notes.",
+        "tags": [
+            "python",
+            "javascript",
+            "opennoteapi",
+            "gemini-api",
+            "fastapi",
+            "socket.io",
+            "react",
+            "vite",
+            "feynman"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "CleverCourse",
+        "url": "https://devpost.com/software/clever-course-9lc0aw",
+        "tagline": "Education wasn't built for ADHD. We're fixing that. Bite-sized learning for distracted minds.",
+        "tags": [
+            "next.js",
+            "react",
+            "drizzle",
+            "turso(sqlite)",
+            "gemini",
+            "gamification",
+            "zustand",
+            "tailwind",
+            "radix",
+            "framer"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "MakerSafe",
+        "url": "https://devpost.com/software/makersafe",
+        "tagline": "MakerSafe aims to make makerspaces safer and more productive for hobbyists by detecting safety violations and providing a dashboard to track machine availability. Build confidently with MakerSafe.",
+        "tags": [
+            "supabase",
+            "viam",
+            "flask",
+            "python",
+            "javascript",
+            "react",
+            "tailwind",
+            "shadcn",
+            "raspberry-pi",
+            "postgresql"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Rehabify",
+        "url": "https://devpost.com/software/rehabify-y2f5mu",
+        "tagline": "AI-powered physical therapy coaching with real-time form correction.",
+        "tags": [
+            "typescript",
+            "neon",
+            "javascript",
+            "sql",
+            "mediapipe",
+            "vapi",
+            "deepgram",
+            "elevenlabs",
+            "vercel",
+            "react"
+        ],
+        "like_count": 8,
+        "comment_count": 2
+    },
+    {
+        "title": "Completely Safe Airdrop",
+        "url": "https://devpost.com/software/completely-safe-airdrop",
+        "tagline": "Using lattice structures to absorb impact and protect space returned samples.",
+        "tags": [
+            "solidwork",
+            "autodesk",
+            "3dprinting"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Perch",
+        "url": "https://devpost.com/software/perch-eq5sim",
+        "tagline": "The TA on your shoulder 👀 ",
+        "tags": [
+            "python",
+            "mongodb",
+            "nextjs",
+            "fastapi",
+            "gemini"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "BizBot",
+        "url": "https://devpost.com/software/bizbot-1m45lk",
+        "tagline": "A robot event photographer that captures moments, curates the best frames, and publishes them instantly so guests can relive the event in real time.",
+        "tags": [
+            "fastapi",
+            "pytorch",
+            "yolo",
+            "opencv",
+            "supabase",
+            "gemini",
+            "arduino"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "UnSilenced",
+        "url": "https://devpost.com/software/unsilenced-8nfq1u",
+        "tagline": "UnSilenced helps people discover high quality voices that algorithms overlook, exposing how scale and platform incentives shape what we see, and what we don’t.",
+        "tags": [
+            "javascript",
+            "python"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Puck Buddy",
+        "url": "https://devpost.com/software/air-hockey-with-yourself",
+        "tagline": "Meet Puck Buddy: the Al air hockey opponent that never tires. Custom 3D-printed with real-time tracking, it tests your reflexes with a genuine challenge, anytime.",
+        "tags": [
+            "c++",
+            "qnx",
+            "ipc",
+            "3dprinting"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Champanzee",
+        "url": "https://devpost.com/software/2026champs",
+        "tagline": "Champanzee turns surveys into real-time quiz rooms, generating richer responses. Data flows to SurveyMonkey with AI-powered sentiment analysis and scoring insights.",
+        "tags": [
+            "mongodb",
+            "golang",
+            "docker",
+            "typescript",
+            "redis",
+            "websocket",
+            "css",
+            "json",
+            "javascript",
+            "next.js",
+            "node.js",
+            "gemini-api"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "MBTA &amp; Role Playing Game with Solana Blockchain",
+        "url": "https://devpost.com/software/mbta-transit-planner-and-role-play-game-on-solana-blockchain",
+        "tagline": "A real-time MBTA planner where Pokémon GO meets Maps—gamifying fares and leveling up your commute.",
+        "tags": [
+            "react",
+            "javascript",
+            "gemini",
+            "api",
+            "mbta",
+            "react-native",
+            "html",
+            "tailwind",
+            "copilot",
+            "git"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Emergency Eye",
+        "url": "https://devpost.com/software/emergency-eye",
+        "tagline": "Turn any smartphone into a live emergency camera, providing first responders with real-time eyes on incidents where traditional CCTV is unavailable.",
+        "tags": [
+            "python",
+            "react",
+            "typescript",
+            "vercel",
+            "render",
+            "loveable",
+            "api",
+            "leaflet.js"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "CyberSea",
+        "url": "https://devpost.com/software/cybersea-h5kgvf",
+        "tagline": "AI-powered tactical intelligence platform that lets commanders visualize, analyze, and simulate Arctic patrol operations in real-time.                                                               ",
+        "tags": [
+            "next.js",
+            "sketchfab",
+            "tailwindcss",
+            "gemini",
+            "three.js",
+            "gsap",
+            "pandas",
+            "numpy"
+        ],
+        "like_count": 6,
+        "comment_count": 2
+    },
+    {
+        "title": "Dance CV",
+        "url": "https://devpost.com/software/dance-cv",
+        "tagline": "A software that uses computer vision, AI, and voice dictation to help you improve your dance skills. Just submit any reference video you want, and dance away!",
+        "tags": [
+            "vite",
+            "react",
+            "opencv",
+            "gemini",
+            "typescript",
+            "tailwind",
+            "mediapipe"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "NeuRizz",
+        "url": "https://devpost.com/software/neurizz",
+        "tagline": "NeuRizz is a date-preparation and mentorship platform designed to help neurodivergent and autistic users navigate social interactions through real-time feedback and AI coaching.",
+        "tags": [
+            "svelte",
+            "typescript",
+            "docker",
+            "mongodb",
+            "gemini",
+            "snowflake",
+            "elevenlabs",
+            "tailwind"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "Impartial Prejudice",
+        "url": "https://devpost.com/software/impartial-prejudice",
+        "tagline": "Tiktok Algorithm Curator",
+        "tags": [
+            "python",
+            "selenium",
+            "fasttext",
+            "clip",
+            "nltk",
+            "numpy",
+            "matplotlib",
+            "html",
+            "css",
+            "javascript",
+            "openai"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Smart Appetite manager",
+        "url": "https://devpost.com/software/smart-appetite-manager",
+        "tagline": "An AI-powered food inventory and appetite management system that scans grocery receipts, tracks fridge inventory, and helps users reduce food waste while making smarter eating decisions.",
+        "tags": [
+            "python",
+            "solace-agent-mesh",
+            "event-driven-architecture",
+            "agent-based-systems",
+            "ai/llm-text-processing",
+            "postgresql",
+            "docker",
+            "rest-apis",
+            "yaml"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Noteva",
+        "url": "https://devpost.com/software/notevi",
+        "tagline": "The ultimate productivity browser for daily tasks catering to academia.",
+        "tags": [
+            "electron",
+            "chromium",
+            "typescript",
+            "react",
+            "vite",
+            "tailwind",
+            "framer",
+            "mongoose",
+            "mongodb",
+            "gemini",
+            "elevenlabs"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "ListenMe",
+        "url": "https://devpost.com/software/anomiaaid",
+        "tagline": "ListenMe is an AI \"Word Finder\" for stroke survivors. Using Gemini Live, it listens to descriptions of forgotten words and provides instant suggestions, turning frustration into conversation.",
+        "tags": [
+            "google-gemini-live-api",
+            "react",
+            "typescript",
+            "fastapi",
+            "vite",
+            "vercel",
+            "tailwind-css",
+            "web-audio-api",
+            "firebase",
+            "indexeddb",
+            "oauth"
+        ],
+        "like_count": 1,
+        "comment_count": 1
+    },
+    {
+        "title": "The Time I Reincarnated as a Teleporting Goat in a 2D Puz…",
+        "url": "https://devpost.com/software/ttiraatgia2dpp",
+        "tagline": "A pixel-art 2D puzzle platformer where you play as a teleporting goat, solving environmental puzzles across handcrafted and Gemini-generated levels using smart positioning and creative mechanics.",
+        "tags": [
+            "python",
+            "pygame",
+            "gemini"
+        ],
+        "like_count": 8,
+        "comment_count": 0
+    },
+    {
+        "title": "TrueNorth",
+        "url": "https://devpost.com/software/truenorth-cl3x5j",
+        "tagline": "TrueNorth is an AI &amp; data-driven platform that helps Canadian companies uncover overlooked challenges, providing actionable insights and strategies to better serve people across Canada.",
+        "tags": [
+            "astro",
+            "javascript",
+            "typescript",
+            "html/css",
+            "tailwind",
+            "gemini",
+            "mapbox",
+            "git",
+            "json"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Eco Shelf - Table 9",
+        "url": "https://devpost.com/software/eco-shelf",
+        "tagline": "Waste less, eat smarter.",
+        "tags": [
+            "python",
+            "flask",
+            "pytorch",
+            "pymem",
+            "torchvision",
+            "keras",
+            "yolo",
+            "opencv",
+            "pygui",
+            "ml",
+            "relu",
+            "alexnet",
+            "haarcascaades",
+            "r-cnn",
+            "svm",
+            "map",
+            "numpy",
+            "ultralytics"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "SignEd",
+        "url": "https://devpost.com/software/signed",
+        "tagline": "SignEd connects learners with sign language education while empowering the Deaf community through inclusive design.",
+        "tags": [
+            "javascript",
+            "python",
+            "css",
+            "html5"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Restaurant Commander/26",
+        "url": "https://devpost.com/software/restaurant-commander",
+        "tagline": "Kitchen Management System",
+        "tags": [
+            "python",
+            "gemini",
+            "fastapi",
+            "themealdb"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Rubric",
+        "url": "https://devpost.com/software/herculesai",
+        "tagline": "A better way to navigate through your course materials",
+        "tags": [
+            "digitalocean",
+            "athena",
+            "typescript",
+            "express.js",
+            "react"
+        ],
+        "like_count": 1,
+        "comment_count": 2
+    },
+    {
+        "title": "Ascend",
+        "url": "https://devpost.com/software/ascend-eaiqno",
+        "tagline": "Autonomous UI Agent",
+        "tags": [
+            "fast-api",
+            "gemini",
+            "agentic-ai",
+            "react"
+        ],
+        "like_count": 4,
+        "comment_count": 1
+    },
+    {
+        "title": "FirstWaveAI",
+        "url": "https://devpost.com/software/firstwaveai",
+        "tagline": "AI-powered emergency intake with human oversight for dispatchers",
+        "tags": [
+            "langgraph",
+            "langchain",
+            "next.js",
+            "fastapi",
+            "groq",
+            "python",
+            "typescript"
+        ],
+        "like_count": 5,
+        "comment_count": 2
+    },
+    {
+        "title": "SIY - Style It Yourself",
+        "url": "https://devpost.com/software/siy-style-it-yourself",
+        "tagline": "Your closet, reimagined. SIY gamifies styling through digitally building, scoring, and trying on outfits from your closet. Turn decision fatigue into confident fun.",
+        "tags": [
+            "python",
+            "gemini",
+            "next.js",
+            "tailwind",
+            "supabase",
+            "typescript",
+            "fastapi"
+        ],
+        "like_count": 8,
+        "comment_count": 1
+    },
+    {
+        "title": "Predictify",
+        "url": "https://devpost.com/software/oracle-news-project",
+        "tagline": "From global volatility to merchant certainty.",
+        "tags": [
+            "node.js",
+            "elevenlabs",
+            "gemini",
+            "solana",
+            "polymarket-api",
+            "shopify-api",
+            "react"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "MIRR.AI",
+        "url": "https://devpost.com/software/fashion-mxr7e3",
+        "tagline": "try on anything, anytime, anywhere",
+        "tags": [
+            "gemini",
+            "google-cloud",
+            "react",
+            "plasmo",
+            "flask",
+            "node.js",
+            "vertex-ai",
+            "mongodb",
+            "typescript"
+        ],
+        "like_count": 22,
+        "comment_count": 2
+    },
+    {
+        "title": "WaterYouDoin",
+        "url": "https://devpost.com/software/wateryourdoin",
+        "tagline": "Are you entirely dependent with AI? Water you doing? Save a bit of water for the rest of us",
+        "tags": [
+            "typescript",
+            "javascript",
+            "vite",
+            "node.js",
+            "vitest"
+        ],
+        "like_count": 12,
+        "comment_count": 2
+    },
+    {
+        "title": "Synthframe",
+        "url": "https://devpost.com/software/synthframe-3c9qkb",
+        "tagline": "From napkin sketch to wireframe in seconds.",
+        "tags": [
+            "python",
+            "athena",
+            "geminiapi",
+            "mongodb",
+            "javascript",
+            "figma"
+        ],
+        "like_count": 14,
+        "comment_count": 0
+    },
+    {
+        "title": "goAction",
+        "url": "https://devpost.com/software/goaction",
+        "tagline": "goAction is your second brain for real life: capture conversations, remember every detail, and automatically turn ideas into actions, hands-free.",
+        "tags": [
+            "autho",
+            "gumloop",
+            "typescript",
+            "next.js",
+            "gemini"
+        ],
+        "like_count": 20,
+        "comment_count": 8
+    },
+    {
+        "title": "Market Wizard",
+        "url": "https://devpost.com/software/market-wizard",
+        "tagline": "We built a real-time market regime classifier that detects unstable market conditions using microstructure data, helping trading systems adapt before losses happen instead of reacting after crashes.",
+        "tags": [
+            "python",
+            "react",
+            "xgboost",
+            "node.js",
+            "cloud",
+            "ai"
+        ],
+        "like_count": 6,
+        "comment_count": 2
+    },
+    {
+        "title": "Care Compass",
+        "url": "https://devpost.com/software/care-compass-zmpdn5",
+        "tagline": "Find the fastest route to the care you need. We analyze location, traffic, wait times, and medical urgency to find the best hospitals and clinics for your needs. Your health, on time.",
+        "tags": [
+            "react",
+            "css",
+            "javascript",
+            "typescript",
+            "google-maps",
+            "athenaai",
+            "nextjs"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "NestFinder",
+        "url": "https://devpost.com/software/nestfinder",
+        "tagline": "\"AI-powered apartment finder that calculates real commute times for all transport modes and optimizes for couples. Stop juggling tabs—let our agents find your perfect nest.\"",
+        "tags": [
+            "python",
+            "solace-agent-mesh",
+            "yellowcakeapi",
+            "typescript",
+            "css",
+            "react",
+            "next.js"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Salus",
+        "url": "https://devpost.com/software/salus-9javs3",
+        "tagline": "Salus: Protecting identity, restoring health. We stack insurance &amp; aid locally to cut medical bills to $0. A zero-trust engine where your data never leaves your device.",
+        "tags": [
+            "python",
+            "typescript",
+            "next.js",
+            "javascript",
+            "fastapi",
+            "langgraph",
+            "tailwind-css",
+            "1password",
+            "mongodb",
+            "gemini",
+            "vercel"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Argus",
+        "url": "https://devpost.com/software/argus-fgtsu5",
+        "tagline": "Git for quantitative researchers",
+        "tags": [
+            "solana",
+            "vultr",
+            "gemini",
+            "python",
+            "rust",
+            "textual"
+        ],
+        "like_count": 14,
+        "comment_count": 2
+    },
+    {
+        "title": "Bloomscroll",
+        "url": "https://devpost.com/software/brain-rejuvenate",
+        "tagline": "Doomscrolling was added to the Dictionary in 2025, a clear shift in how we consume information, instead of fighting it, we thought, what if we designed an app to help you study whilst Doom scrolling. ",
+        "tags": [
+            "gumloop",
+            "mongodb",
+            "svelte",
+            "tailwind",
+            "javascript"
+        ],
+        "like_count": 3,
+        "comment_count": 1
+    },
+    {
+        "title": "LookBack",
+        "url": "https://devpost.com/software/lookback-n8eap4",
+        "tagline": "Never walk in blind.",
+        "tags": [
+            "python",
+            "swift",
+            "flask",
+            "gemini"
+        ],
+        "like_count": 9,
+        "comment_count": 1
+    },
+    {
+        "title": "Rewind",
+        "url": "https://devpost.com/software/rewind-xw4iy6",
+        "tagline": "Learn more about SG's past and relive your memories",
+        "tags": [
+            "react",
+            "gemini",
+            "openai",
+            "three.js"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "ORBIT",
+        "url": "https://devpost.com/software/orbit-b1t3np",
+        "tagline": "Organizational Relationship &amp; Board Interconnection Tracker",
+        "tags": [
+            "node.js",
+            "typescript"
+        ],
+        "like_count": 29,
+        "comment_count": 1
+    },
+    {
+        "title": "ClairMail",
+        "url": "https://devpost.com/software/clairmail",
+        "tagline": "Un site web bilingue et accessible qui aide les aînés à détecter instantanément les courriels frauduleux grâce à l’IA, des réponses claires et le texte en gros caractère.",
+        "tags": [
+            "css",
+            "javascript",
+            "html",
+            "geminiapi",
+            "openai",
+            "gemini",
+            "www3schools",
+            "youtube"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Metabolism - 13",
+        "url": "https://devpost.com/software/metabolism-whr7fc",
+        "tagline": "Identify and locate allergy-free foods in real-time via AR &amp; GenAI.\r\n\r\n\r\n",
+        "tags": [
+            "cloudflare",
+            "digitalocean",
+            "auth0",
+            "mongodb",
+            "solana",
+            "elevenlabs",
+            "generativeai",
+            "computervision",
+            "llama3.2",
+            "fastapi",
+            "react",
+            "python"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Rate My Dorm",
+        "url": "https://devpost.com/software/rate-my-dorm-yz5if0",
+        "tagline": "Choosing a home doesn't have to be a hassle.",
+        "tags": [
+            "mongodb",
+            "figma",
+            "python",
+            "auth0",
+            "fastapi",
+            "render",
+            "jinja",
+            "html5",
+            "css",
+            "javascript"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "ELI5",
+        "url": "https://devpost.com/software/eli5-ohxzv3",
+        "tagline": "The ELI5 project is a tool with the goal of explaining a topic to someone with any level of experience, whether you know absolutely nothing about it or are a seasoned professional.",
+        "tags": [
+            "html",
+            "css",
+            "java",
+            "javascript",
+            "openapi",
+            "springboot",
+            "visual-studio",
+            "github",
+            "maven"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Insights",
+        "url": "https://devpost.com/software/creatoros-kvlqg9",
+        "tagline": "Plateforme de visualisation de statistique et de recommandation IA pour les micro-influenceurs.",
+        "tags": [
+            "lovable",
+            "featherlessai",
+            "rag",
+            "instagram",
+            "python",
+            "next.js"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "PhishGuard",
+        "url": "https://devpost.com/software/phishguard-qxkr2l",
+        "tagline": "91% of cyberattacks start with phishing. PhishGuard uses 4 AI agents to analyze emails instantly—detecting typosquatting, manipulation tactics, and malicious URLs. Transparent AI you can trust.",
+        "tags": [
+            "python",
+            "fastapi",
+            "langgraph",
+            "langchain",
+            "anthropic",
+            "claude",
+            "chromadb",
+            "sentence-transformers",
+            "next.js",
+            "react",
+            "typescript",
+            "tailwindcss",
+            "postgresql",
+            "neon",
+            "chrome",
+            "virustotal",
+            "urlhaus"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "UNSENT",
+        "url": "https://devpost.com/software/unsent-o2xqkj",
+        "tagline": "What if every unsent message became a star? UNSENT maps anonymous emotion into a constellation. When two strangers resonate, they share an Ephemeral Knot, then vanish. No trace.",
+        "tags": [
+            "javascript",
+            "typescript",
+            "python",
+            "next.js",
+            "flask",
+            "html5",
+            "socket.io",
+            "supabase",
+            "natural-language-processing",
+            "api",
+            "vercel",
+            "render",
+            "github"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Spectra",
+        "url": "https://devpost.com/software/s-e-n-t-r-a",
+        "tagline": "Spectra is a real-time AI agent monitoring solution for DeFi and crypto markets. It offers anomaly detection, kill switches, and compliance, ensuring safe, efficient, and transparent agent deployment.",
+        "tags": [
+            "frontend:-next.js-15",
+            "react-19",
+            "three.js-backend:-node.js",
+            "fastapi-blockchain:-solana",
+            "vercel",
+            "github",
+            "github-actions-devops-&-performance:-aws",
+            "solana",
+            "typescript",
+            "tailwind-css",
+            "sqlite",
+            "webgl",
+            "shadcn/ui",
+            "postgresql",
+            "supabase"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "Echo.io",
+        "url": "https://devpost.com/software/echo-io",
+        "tagline": "AI voice changer that turns you into a VTuber with just your voice! Stay anonymous and hassle-free with our ground-breaking tool.",
+        "tags": [
+            "fastapi",
+            "react",
+            "tailwindcss",
+            "digitalocean",
+            "vite",
+            "gemini",
+            "elevenlabs"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "WPI First-Year Sim",
+        "url": "https://devpost.com/software/wpi-frosh-sim",
+        "tagline": "Play as a WPI first-year in their first term at WPI in this AI-enhanced resource manager!",
+        "tags": [
+            "javascript",
+            "elevenlabs",
+            "gemini",
+            "gamemaker"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "LawSync.io",
+        "url": "https://devpost.com/software/law-sync-io",
+        "tagline": "Agents that monitor, submit, and analyze—so you stay compliant.",
+        "tags": [
+            "react",
+            "amazon-web-services",
+            "tonic.ai",
+            "youtori.com",
+            "cline"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Signal - Bloomberg terminal for prediction markets",
+        "url": "https://devpost.com/software/signal-bloomberg-terminal-for-prediction-markets",
+        "tagline": "Signal is the Bloomberg Terminal for prediction markets : An automated trading engine that turns social media noise into actionable alpha on platforms like Kalshi.",
+        "tags": [
+            "nextjs",
+            "express.js",
+            "react",
+            "yutori",
+            "anthropic",
+            "kalshi"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "NGenesis ",
+        "url": "https://devpost.com/software/ngenesis",
+        "tagline": "NGenesis is an intelligent multi-tool AI orchestration platform that automatically coordinates different AI services to accomplish complex tasks from a single natural language prompt.",
+        "tags": [
+            "cline",
+            "agentql",
+            "tinyfish",
+            "mino",
+            "freepik-mystic-api",
+            "yutori-scouts",
+            "tonic-fabricate",
+            "macroscope",
+            "node.js",
+            "typescript",
+            "express.js",
+            "sqlite",
+            "vanilla-javascript",
+            "html5",
+            "css3",
+            "jwt",
+            "bcrypt",
+            "xlsx",
+            "playwright",
+            "axios",
+            "better-sqlite3",
+            "fetch"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "BriefME",
+        "url": "https://devpost.com/software/briefme-42j9kp",
+        "tagline": "BriefMe is your autonomous intelligence agent. It conducts deep research, synthesizes strategic insights, and generates interactive briefings and role-play scenarios to prep you for any meeting.",
+        "tags": [
+            "python",
+            "typescript",
+            "fastapi",
+            "next.js",
+            "react",
+            "tailwind-css",
+            "agentql",
+            "yutori",
+            "tonic-fabricate",
+            "anthropic-claude",
+            "elevenlabs",
+            "playwright",
+            "framer-motion",
+            "recharts",
+            "pydantic",
+            "jinja",
+            "fpdf2"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Caption Express Agent ",
+        "url": "https://devpost.com/software/caption-express-agent",
+        "tagline": "Caption Express Agent analyzes your content and generates platform-optimized captions instantly. Choose your platform and tone Instagram hooks, YouTube SEO, or LinkedIn polish. No prompt engineering.",
+        "tags": [
+            "webpack",
+            "react",
+            "lucide",
+            "css",
+            "html5",
+            "javascript",
+            "typescript"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "RakshaMarg",
+        "url": "https://devpost.com/software/rakshamarg-io0kfy",
+        "tagline": "\"Confidence in every step\"",
+        "tags": [
+            "react",
+            "vite",
+            "typescript",
+            "tailwind",
+            "node.js",
+            "fastify",
+            "three.js",
+            "google-directions",
+            "google-maps",
+            "google-places"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Argus - The All-Seeing Eye",
+        "url": "https://devpost.com/software/argus-salim-mohamed",
+        "tagline": "Someone made $436K betting on Maduro's capture hours before it happened. Argus would have caught it.",
+        "tags": [
+            "javascript",
+            "typescript",
+            "convex",
+            "amazon-web-services",
+            "claude",
+            "polymarket"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Interview Prep Coach",
+        "url": "https://devpost.com/software/interview-prep-coach",
+        "tagline": "Your personal AI coach that turns interview anxiety into internship-winning confidence",
+        "tags": [
+            "next.js",
+            "typescript",
+            "tailwindcss",
+            "recharts",
+            "lucidereact",
+            "webaudioapi",
+            "express.js",
+            "prisma",
+            "postgresql",
+            "supabase",
+            "googlegeminiapi",
+            "multer",
+            "bcrypt",
+            "jwt",
+            "passport.js",
+            "render",
+            "vercel"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "GymIntel",
+        "url": "https://devpost.com/software/gymintel",
+        "tagline": "GymIntel is an AI-powered personal trainer that analyzes your workout videos to provide instant form feedback, muscle activation tracking, and community benchmarking",
+        "tags": [
+            "python",
+            "typescript",
+            "next.js",
+            "react",
+            "fastapi",
+            "tailwind",
+            "gemini",
+            "twelvelabs",
+            "yolo",
+            "mongodb",
+            "git",
+            "mediapipe"
+        ],
+        "like_count": 2,
+        "comment_count": 1
+    },
+    {
+        "title": "ExtendAble - AI Robotic Arm Project",
+        "url": "https://devpost.com/software/robotic-arm-j4fmbq",
+        "tagline": "A voice-controlled 6-DoF robotic arm that uses computer vision, LLMs, and feedback-based control to locate, align with, and grasp objects from natural language commands.",
+        "tags": [
+            "python",
+            "opencv",
+            "lerobot",
+            "yolo",
+            "fastapi",
+            "uvicorn",
+            "grok",
+            "node.js",
+            "react",
+            "3dprinting",
+            "so-101",
+            "typescript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Avocado",
+        "url": "https://devpost.com/software/avocado-c6vkps",
+        "tagline": "Scroll with confidence. Fact-check with a click.",
+        "tags": [
+            "fastapi",
+            "python",
+            "javascript",
+            "gemini",
+            "supadata",
+            "chrome",
+            "html",
+            "css3"
+        ],
+        "like_count": 3,
+        "comment_count": 1
+    },
+    {
+        "title": "Protosynthesis",
+        "url": "https://devpost.com/software/protosynthesis",
+        "tagline": "Protosynthesis is a production-grade visual workflow automation platform that combines a React-based canvas editor with an intelligent AI-powered backend.",
+        "tags": [
+            "auth)",
+            "mongodb",
+            "atlas",
+            "integrations",
+            "openai",
+            "gpt-4)",
+            "gemini",
+            "elevenlabs",
+            "voice)",
+            "productivity",
+            "apis",
+            "stripe",
+            "twilio",
+            "maps",
+            "calendar",
+            "sheets"
+        ],
+        "like_count": 11,
+        "comment_count": 0
+    },
+    {
+        "title": "EcoSage",
+        "url": "https://devpost.com/software/ecosage-so7nkb",
+        "tagline": "AI-Powered Sustainability Companion",
+        "tags": [
+            "react",
+            "vite",
+            "typescript",
+            "tailwindcss",
+            "node.js",
+            "express.js",
+            "gemini-api",
+            "overpass-openstreetmap",
+            "leaflet.js",
+            "pwa"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "GoFish",
+        "url": "https://devpost.com/software/gofish-csronz",
+        "tagline": "The AI Assistant and Social Media Platform for the World's Favourite Pastime: Fishing",
+        "tags": [
+            "python",
+            "fastapi",
+            "pytorch",
+            "mongodb",
+            "atlas",
+            "moorche",
+            "ontario-habitat-geojson",
+            "maplibre",
+            "open-meteo-api",
+            "next.js",
+            "typescript",
+            "tailwind-css"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Coherence",
+        "url": "https://devpost.com/software/coherence-jga4uw",
+        "tagline": "~75% fear public speaking. Most tools count filler words. We catch what matters: the moment your confident words clash with anxious body language. Practice with truth.",
+        "tags": [
+            "react",
+            "twelvelabs",
+            "deepgram",
+            "gemini",
+            "fastapi"
+        ],
+        "like_count": 2,
+        "comment_count": 1
+    },
+    {
+        "title": "Barracua",
+        "url": "https://devpost.com/software/baracua",
+        "tagline": "AI Agent that helps blind people use the internet",
+        "tags": [
+            "javascript",
+            "gemini",
+            "deepgram",
+            "python",
+            "playwright",
+            "chrome"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "ZipAndSip",
+        "url": "https://devpost.com/software/zipandsip",
+        "tagline": "Zip &amp; Sip is a social matcha app that tracks and celebrates your daily matcha moments. Users log drinks, see real-time trends, and build streaks, all while earning badges and annual recognition. ",
+        "tags": [
+            "mongodb",
+            "react"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Buildr",
+        "url": "https://devpost.com/software/ezpc",
+        "tagline": "PC building made easy — ask questions, identify parts, and build confidently",
+        "tags": [
+            "python",
+            "typescript",
+            "next.js",
+            "deepgram",
+            "twelvelabs",
+            "sam",
+            "yolov11",
+            "react",
+            "lancedb",
+            "livekit",
+            "chatgpt"
+        ],
+        "like_count": 8,
+        "comment_count": 1
+    },
+    {
+        "title": "TedTalks",
+        "url": "https://devpost.com/software/tedtalks",
+        "tagline": "What if the future of kids’ tech was fewer screens and calmer companions? In a world of iPad kids, our AI teddy is a screen-free friend kids talk to naturally, while parents get privacy-safe insights.",
+        "tags": [
+            "typescript",
+            "css",
+            "python",
+            "numpy",
+            "kokoro",
+            "faster-whisper",
+            "pymongo",
+            "monogodb",
+            "certifi"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Reel-To-Real",
+        "url": "https://devpost.com/software/reel-to-real",
+        "tagline": "Reel2Real cuts 10hr planning to 2mins. We aggregate 30+ sources via NLP, validate with Gemini, and use a custom TSP algorithm to build a fully optimized, route-perfect itinerary from just a vibe.",
+        "tags": [
+            "react.js",
+            "tailwindcss",
+            "typescript",
+            "beautiful-soup",
+            "geminiapi",
+            "geoapify",
+            "openstreetmap",
+            "python",
+            "fastapi",
+            "twelvelabs",
+            "spacy",
+            "ddgs"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "ReelJobs",
+        "url": "https://devpost.com/software/reeljobs",
+        "tagline": "Why apply to jobs when you can just watch some reels?",
+        "tags": [
+            "python",
+            "typescript",
+            "react-native",
+            "expo.io",
+            "mongodb-atlas",
+            "digitalocean-spaces",
+            "vultr-object-storage",
+            "vultr-vm",
+            "google-gemini",
+            "fish.audio",
+            "docker",
+            "playwright",
+            "ffmpeg",
+            "whisper",
+            "hls",
+            "expo-video",
+            "motor",
+            "boto3",
+            "jwt",
+            "bcrypt"
+        ],
+        "like_count": 13,
+        "comment_count": 0
+    },
+    {
+        "title": "GradeMeIn",
+        "url": "https://devpost.com/software/grademein",
+        "tagline": "Catch Cheaters. Build Trust.",
+        "tags": [
+            "deepgram",
+            "geminiapi",
+            "mongodb",
+            "javascript",
+            "typescript",
+            "react",
+            "python",
+            "mongoose",
+            "next.js",
+            "cursor",
+            "vultr"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "Librarian Love: Fantasy Tycoon 3",
+        "url": "https://devpost.com/software/librarian-love-fantasy-tycoon-3",
+        "tagline": "Struggling to find motivation to read? Dive into a fantasy library of love and mystery.... Collect characters through your reading journey to aid you in this labyrinth of novels....",
+        "tags": [
+            "cursor",
+            "react",
+            "procreate",
+            "gemini"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Search History Court",
+        "url": "https://devpost.com/software/search-history-court",
+        "tagline": "Two truths and one lie — but with your browser history!",
+        "tags": [
+            "digitalocean",
+            "cloudflare",
+            "react",
+            "tailwind",
+            "openrouteservice",
+            "gemini",
+            "flask",
+            "sqlite",
+            "chrome"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "PoliTalk",
+        "url": "https://devpost.com/software/politalk-6digfl",
+        "tagline": "\\With 85% of youth getting news from social media, PoliTalk's extension detects political bias in real-time so you can think critically about what you watch. Scroll smarter, not blinder. ",
+        "tags": [
+            "high-accuracy-transcription-of-social-media-audio-content.-hugging-face-roberta-ideology-classifier",
+            "a-pre-trained-model-trained-on-a-dataset-of-10",
+            "used-to-infer-ideological-themes-and-belief-patterns-from-transcribed-audio.-gemini-2.5-api-serves-as-the-core-reasoning-engine",
+            "roberta-ideology-classifier",
+            "javascript",
+            "typescript",
+            "node.js",
+            "express.js",
+            "react",
+            "vite",
+            "tailwind-css",
+            "chrome-extension-api",
+            "capturestream-api",
+            "elevenlabs-api",
+            "gemini2.5-api"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Focus Friend",
+        "url": "https://devpost.com/software/focus-friend-0ryftc",
+        "tagline": "Focus Friend turns your study focus into data, analyzes it with Gemini, and shows patterns so you can improve how you concentrate.",
+        "tags": [
+            "python",
+            "opencv",
+            "vultr",
+            "gemini",
+            "react",
+            "sql"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "bloomguard",
+        "url": "https://devpost.com/software/bloomguard",
+        "tagline": "Bloomguard is a water acidification prevention system that prevents algal blooms in lake Erie. It uses data from satellites to determine the best path for drones to take when targeting the algae.  ",
+        "tags": [
+            "react",
+            "typescript",
+            "python-(fastapi)",
+            "sentinel-hub",
+            "gemini",
+            "next.js14",
+            "openrouter",
+            "mapboxgl",
+            "weatherapi",
+            "tailwind",
+            "css"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Team 13 - Jeonger",
+        "url": "https://devpost.com/software/team-13-jeonger",
+        "tagline": "In Korean \"jeong\" is a deep emotional connection across generations. \r\nWe have a growing senior population and slowing entry job market, to provide elders access to community care through gig workers.",
+        "tags": [
+            "rag",
+            "html"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "SkySAR",
+        "url": "https://devpost.com/software/skysar",
+        "tagline": "Every year, thousands of people go missing in forests and national parks. Today, search and rescue operations are conducted primarily by human rescuers and volunteers.",
+        "tags": [
+            "streamlit",
+            "python",
+            "gemini"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "SmartBin",
+        "url": "https://devpost.com/software/smartbin-39uvdx",
+        "tagline": "SmartBin uses Gemini AI to auto-sort waste into trash, recycling, or compost. It eliminates confusion and contamination to boost recycling rates for cleaner cities.",
+        "tags": [
+            "gemini"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Communico",
+        "url": "https://devpost.com/software/communico-i5opvc",
+        "tagline": "All in one augmented and alternative communication app allowing nonverbal and ASD users to communicate through symbols, emotions, drawings, and transcriptions, turning thoughts into communication",
+        "tags": [
+            "typescript",
+            "openrouter",
+            "gemini",
+            "elevenlabs",
+            "opensymbols",
+            "face-api.js"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "LumenAI",
+        "url": "https://devpost.com/software/streetlight-projection",
+        "tagline": "In the Puget Sound and beyond, we aim to eliminate the \"Information Blind Spot\" by evolving beyond digital-only alerts to ensure seniors and travelers are never left behind during a power outage.",
+        "tags": [
+            "python",
+            "numpy",
+            "scikit-learn",
+            "googlegeminiapi",
+            "googlecolab",
+            "weatherforecastapi",
+            "pugetsoundenergy",
+            "ai"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Air Mouse",
+        "url": "https://devpost.com/software/air-mouse-9zt6is",
+        "tagline": "The mouse you already own. This project turn your phone into a wireless mouse with no extra hardware in seconds. ",
+        "tags": [
+            "python",
+            "pyautogui",
+            "next.js",
+            "css",
+            "html",
+            "websockets"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Quota",
+        "url": "https://devpost.com/software/quota-fg4pzi",
+        "tagline": "The first linter for your budget. Real-time cost intelligence for your IDE and a predictive sandbox for your architecture.",
+        "tags": [
+            "typescript",
+            "vscode",
+            "gemini",
+            "next.js",
+            "react",
+            "tailwind",
+            "tree-sitter",
+            "ast",
+            "langchain",
+            "html",
+            "javascript",
+            "python",
+            "mongodb",
+            "react-flow"
+        ],
+        "like_count": 13,
+        "comment_count": 1
+    },
+    {
+        "title": "B(AI)MAX",
+        "url": "https://devpost.com/software/b-ai-max-m406t9",
+        "tagline": "Biometric &amp; AI-Driven Medical Assistance eXchange. BAIMAX!",
+        "tags": [
+            "xcode",
+            "swift",
+            "arduino",
+            "esp32"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Hey Host!",
+        "url": "https://devpost.com/software/hey-host",
+        "tagline": "An interactive supplement to podcasts.",
+        "tags": [
+            "python",
+            "typescript",
+            "porcupine",
+            "flash-whisper",
+            "elevenlabs",
+            "llm"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Lumenta",
+        "url": "https://devpost.com/software/lumenta",
+        "tagline": "Intelligent video monitoring that acts on what it sees",
+        "tags": [
+            "gemini",
+            "next.js",
+            "yolov8",
+            "mcp",
+            "onnx"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "flow",
+        "url": "https://devpost.com/software/flow-8pgm1k",
+        "tagline": "speak a concept, step inside it in 3d",
+        "tags": [
+            "typescript",
+            "javascript",
+            "html",
+            "css",
+            "react",
+            "express.js",
+            "node.js",
+            "three.js",
+            "sparkjs",
+            "vite",
+            "socket.io",
+            "framer",
+            "motion",
+            "tailwind",
+            "webgl",
+            "websocket",
+            "mongodb",
+            "firebase",
+            "vultr",
+            "deepgram",
+            "google",
+            "gemini",
+            "elevenlabs",
+            "worldlabsmarble"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Leo",
+        "url": "https://devpost.com/software/leo-wgtfsb",
+        "tagline": "Own the court.\r\nInside and Outside.",
+        "tags": [
+            "tailwind",
+            "react",
+            "python",
+            "css3",
+            "java",
+            "loaveable",
+            "ai"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "colorstackwinterhack2025-wintrides",
+        "url": "https://devpost.com/software/wintrides",
+        "tagline": "WintRides is a centralized ridesharing platform that makes transportation safer, more affordable, and more accessible for students on rural and suburban college campuses. ",
+        "tags": [
+            "vercel",
+            "github",
+            "next.js",
+            "react",
+            "typescript",
+            "prisma",
+            "postgresql",
+            "tailwindcss",
+            "bcrypt",
+            "codex",
+            "chatgpt",
+            "vscode",
+            "git"
+        ],
+        "like_count": 42,
+        "comment_count": 5
+    },
+    {
+        "title": "AI learning Assistant",
+        "url": "https://devpost.com/software/ai-learning-assistant-10qbd6",
+        "tagline": "AI can help students save time for there work, and they can learn anything with our AI in minutes",
+        "tags": [
+            "python",
+            "ai",
+            "streamlit",
+            "geminiapi"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "EcoSage",
+        "url": "https://devpost.com/software/ecosage-1imgu0",
+        "tagline": "AI-Powered Sustainability Companion",
+        "tags": [
+            "react",
+            "vite",
+            "typescript",
+            "tailwindcss",
+            "node.js",
+            "express.js",
+            "gemini-api",
+            "overpass-openstreetmap",
+            "react-lealfet",
+            "pwa"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "VoxSol",
+        "url": "https://devpost.com/software/voxsol",
+        "tagline": "VoxSol is a voice-first Solana wallet copilot. Just speak to check balances, execute swaps, and manage your portfolio. Powered by Gemini AI and ElevenLabs, with real on-chain transactions on Solana.",
+        "tags": [
+            "next.js",
+            "react",
+            "typescript",
+            "tailwind",
+            "css",
+            "elevenlabs",
+            "solana",
+            "solana/web3.js",
+            "phantom",
+            "gsap",
+            "three.js",
+            "gemini"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "RepoX",
+        "url": "https://devpost.com/software/repox",
+        "tagline": "Transform any GitHub repository into an interactive learning experience with AI-powered explanations, visual architecture maps, and personalized learning paths.",
+        "tags": [
+            "typescript",
+            "javascript",
+            "vite",
+            "d3.js",
+            "cloudflare-workers",
+            "cloudflare-pages",
+            "gemini-api",
+            "github-api",
+            "html",
+            "css",
+            "bun"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Magic Story",
+        "url": "https://devpost.com/software/magic-story",
+        "tagline": "Generate personalized bedtime stories and listen to them with a lifelike soothing voice.My name is Maelys Samson, I am 16 years old and I am in my first year of technical studies in France.",
+        "tags": [
+            "pyton",
+            "streamlit",
+            "google-gemini",
+            "edge-tts",
+            "text-to-speech",
+            "css3",
+            "markdown"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "NEURORA",
+        "url": "https://devpost.com/software/neurora",
+        "tagline": "Neurora uses mandala art and AI to detect early signs of Alzheimer’s and Parkinson’s, while delivering gentle, personalized creative therapy for aging mind with dignity.",
+        "tags": [
+            "swiftui",
+            "pencilkit",
+            "core-data",
+            "combine",
+            "python",
+            "groq"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "ComLab",
+        "url": "https://devpost.com/software/comlab-an1uem",
+        "tagline": "Convert user feedback into actionable insights for product development.",
+        "tags": [
+            "snowflake",
+            "next.js",
+            "react",
+            "mongodb",
+            "vercel",
+            "typescript",
+            "javascript"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Story.ai",
+        "url": "https://devpost.com/software/story-ai-9tl7xf",
+        "tagline": "Bring stories to life with multi-character AI narration—your PDF, your cast, your immersive audio experience!",
+        "tags": [
+            "gemini",
+            "elevenlabs",
+            "mongodb"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "DiaDoc",
+        "url": "https://devpost.com/software/diadoc",
+        "tagline": "AI-assisted code documentation tool for the file structures of in-progress and existing software projects.",
+        "tags": [
+            "react",
+            "vite",
+            "javascript",
+            "html",
+            "tailwind",
+            "css",
+            "gemini",
+            "api",
+            "vercel"
+        ],
+        "like_count": 3,
+        "comment_count": 2
+    },
+    {
+        "title": "Nexo: Turn Code into Stories You Can See and Hear",
+        "url": "https://devpost.com/software/nexo-the-audio-visual-gps-for-your-codebase",
+        "tagline": "Nexo: The audiovisual GPS for code. We use Gemini and ElevenLabs to create visual maps and voice narration for repositories. See the flow, hear the logic, and understand complex systems in seconds.",
+        "tags": [
+            "react",
+            "typescript",
+            "vite",
+            "css",
+            "python",
+            "fastapi",
+            "gemini",
+            "elevenlabs",
+            "docker",
+            "mongodb",
+            "cloudflare",
+            "github"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "EcoLens",
+        "url": "https://devpost.com/software/ecolens-vyokrh",
+        "tagline": "EcoLens turns everyday digital behavior into actionable climate impact using AI.",
+        "tags": [
+            "react",
+            "node.js",
+            "html",
+            "javascript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "NexusWatch",
+        "url": "https://devpost.com/software/pentestlab",
+        "tagline": "Global Performance Intelligence",
+        "tags": [
+            "typescript",
+            "flask",
+            "node.js",
+            "linux"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Current AI",
+        "url": "https://devpost.com/software/current-ai",
+        "tagline": "The zero-friction AI Project Management tool for Discord. It turns your natural chat into organized, actionable tasks.",
+        "tags": [
+            "typescript",
+            "python",
+            "next.js",
+            "mongodb",
+            "discord.py",
+            "google-gemini-ai",
+            "github-api",
+            "discord-api"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Helios Artistic AI Platform",
+        "url": "https://devpost.com/software/helios-mixqku",
+        "tagline": "Helios: An art platform that uses AI to scan artwork, tells a story through vocal narrative, locates local performances, facilitates collabs. Learn through games, make magic!",
+        "tags": [
+            "react",
+            "natural-language-processing",
+            "nativex",
+            "expo.io",
+            "gemini",
+            "jetson-nano",
+            "firebase",
+            "tailwind",
+            "css",
+            "motionbox",
+            "lottie"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Team Sausage",
+        "url": "https://devpost.com/software/team-sausage",
+        "tagline": "An explainable AI system that predicts Alzheimer’s disease by combining clinical data (XGBoost + SHAP) with CNN-based MRI analysis for accurate and trustworthy risk assessment.",
+        "tags": [
+            "python",
+            "tensorflow",
+            "cnn",
+            "shap",
+            "xgboost",
+            "ml"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "AI Farm Water Management System",
+        "url": "https://devpost.com/software/ai-farm-water-management-system-ycbugr",
+        "tagline": "An intelligent water cooling system for AI farms using machine learning to predict heat spikes and proactively manage cooling.",
+        "tags": [
+            "python",
+            "flask",
+            "scikit-learn",
+            "javascript",
+            "three.js",
+            "netlify"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "NanaSprout",
+        "url": "https://devpost.com/software/nanasprout",
+        "tagline": "A gamified journey to sustainable living.",
+        "tags": [
+            "react",
+            "vite",
+            "javascript",
+            "tailwind-css",
+            "framer-motion",
+            "supabase",
+            "cloudflare-ai-workers",
+            "unsplash"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "SEOTube",
+        "url": "https://devpost.com/software/seotube",
+        "tagline": "SEOTube is an automated YouTube SEO optimizer that analyzes your channel and helps optimize videos for higher rankings.",
+        "tags": [
+            "react",
+            "express.js",
+            "node.js",
+            "node-cron",
+            "youtube",
+            "resend-api",
+            "youtube-analytics-api",
+            "gemini-api",
+            "mongodb",
+            "typescript",
+            "recoil-state-management-library",
+            "css",
+            "javascript",
+            "aes-256-gcm-algorithm",
+            "vite"
+        ],
+        "like_count": 6,
+        "comment_count": 3
+    },
+    {
+        "title": "EcoSage",
+        "url": "https://devpost.com/software/ecosage-3pf790",
+        "tagline": "AI-Powered Sustainability Companion",
+        "tags": [
+            "react",
+            "vite",
+            "typescript",
+            "tailwindcss",
+            "node.js",
+            "express.js",
+            "gemini-api",
+            "overpass-openstreetmap",
+            "react-leaflet",
+            "pwa"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "ViT4Alzheimers",
+        "url": "https://devpost.com/software/vit4alzheimer",
+        "tagline": "Using Vision Transformers to achieve 94.5% accuracy in Alzheimer's detection from brain MRI scans, our solution handles class imbalance, trains in 50 mins, and provides reproducible coding environment",
+        "tags": [
+            "huggingface",
+            "python",
+            "vision-transformers",
+            "pytorch"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "Auralysis",
+        "url": "https://devpost.com/software/auralysis",
+        "tagline": "Auralysis is an AI medical imaging system that diagnoses MRI/X-ray scans, generates reports, explains results with ElevenLabs voice output, and is fully monitored with Datadog.",
+        "tags": [
+            "metrics",
+            "latency-&-error-tracking-railway-?-llm-+-tts-pipeline-deployment-&-environment-variables-render-?-ml-model-inference-hosting-android-/-mobile-app-?-frontend-for-uploading-scans-&-receiving-results-dotenv-?-requests-?-pil-?-numpy-?-preprocessing",
+            "api-handling",
+            "tensorflow",
+            "efficientnetv2b0",
+            "fastapi",
+            "uvicorn",
+            "groq",
+            "llama",
+            "google",
+            "gemini",
+            "elevenlabs",
+            "datadog",
+            "railway",
+            "llm",
+            "render",
+            "flutter"
+        ],
+        "like_count": 6,
+        "comment_count": 6
+    },
+    {
+        "title": "ImpactQuest - Gamify Social Good for Gen Z",
+        "url": "https://devpost.com/software/impactquest-gamify-social-good-for-gen-z",
+        "tagline": "Gamified platform turning local problems into 15-min \"quests\" for teens. Complete challenges, earn XP, unlock badges, and change your neighborhood—one quest at a time.",
+        "tags": [
+            "next.js",
+            "typescript",
+            "tailwind",
+            "css",
+            "supabase",
+            "postgresql",
+            "leaflet.js",
+            "hugging",
+            "face",
+            "vercel",
+            "node.js",
+            "react",
+            "map",
+            "openstreetmap"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "GreenPromptsOptimizer",
+        "url": "https://devpost.com/software/greenpromptsoptimizer",
+        "tagline": "GreenPromptsOptimizer is a website that reduces the carbon emissions and energy consumption of today's AI models through the token count of prompts.",
+        "tags": [
+            "python",
+            "javascript",
+            "html5",
+            "css3",
+            "sql",
+            "flask",
+            "pytorch",
+            "transformers",
+            "flask-cors",
+            "flask-limiter",
+            "t5-small",
+            "sentencepiece",
+            "datasets",
+            "sqlite",
+            "github",
+            "gunicorn",
+            "render"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "LabelSafe AI: A Beginner-Friendly Ingredient Safety Analyzer",
+        "url": "https://devpost.com/software/labelsafe-ai-a-beginner-friendly-ingredient-safety-analyzer-kwrvf4",
+        "tagline": "LabelSafe AI scans food labels, detects harmful ingredients, and shows a Safe Meter score to help users instantly understand how healthy a product is.",
+        "tags": [
+            "flutter",
+            "dart",
+            "gemini"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "ThreadLens",
+        "url": "https://devpost.com/software/threadlens",
+        "tagline": "Stop drowning in Reddit threads. Get AI-powered TL;DRs, sentiment scores, and the insights that matter in seconds.\r\n",
+        "tags": [
+            "next.js",
+            "react",
+            "typescript",
+            "tailwind-css",
+            "shadcn-ui",
+            "google-gemini",
+            "vercel-ai-sdk",
+            "foru.ms-api",
+            "chrome"
+        ],
+        "like_count": 1,
+        "comment_count": 2
+    },
+    {
+        "title": "ForumPulse",
+        "url": "https://devpost.com/software/forumpulse",
+        "tagline": "AI-powered insights and summaries for forum discussions, built on a headless backend.",
+        "tags": [
+            "nextjs",
+            "tailwindcss",
+            "foru.ms"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Class Memory Rooms",
+        "url": "https://devpost.com/software/class-memory-rooms",
+        "tagline": "Turn every lecture into a shared, living knowledge space where students collaborate and AI compiles the perfect notes",
+        "tags": [
+            "typescript",
+            "react",
+            "vercel",
+            "next.js",
+            "tailwindcss",
+            "foru.ms",
+            "v0",
+            "gemini",
+            "grok"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "NeuroNotes",
+        "url": "https://devpost.com/software/minuteflow-0q25b3",
+        "tagline": "An AI-driven meeting intelligence layer for real-time reasoning, task extraction, and visualization.",
+        "tags": [
+            "node.js",
+            "firebase",
+            "groq",
+            "google-notebook",
+            "react",
+            "websockets",
+            "express.js",
+            "n8n",
+            "mongodb",
+            "mermaid.js"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Mental Health Chatbot",
+        "url": "https://devpost.com/software/mental-health-chatbot-nbpki3",
+        "tagline": "A 24/7 AI companion that listens, understands, and supports mental well-being instantly.",
+        "tags": [
+            "html",
+            "css",
+            "javascript",
+            "claude",
+            "python",
+            "node.js",
+            "php",
+            "flask",
+            "express.js"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Ugonz Alzheimers AI prediction model",
+        "url": "https://devpost.com/software/ugonz-alzheimers-ai-prediction-model",
+        "tagline": "Explainable AI for early Alzheimer's detection—fusing cognitive, imaging, and genetic biomarkers to identify at-risk patients before symptoms progress.",
+        "tags": [
+            "python",
+            "pytorch",
+            "xgboost",
+            "scikit-learn",
+            "shap",
+            "pandas",
+            "numpy",
+            "matplotlib",
+            "seaborn",
+            "conda"
+        ],
+        "like_count": 33,
+        "comment_count": 6
+    },
+    {
+        "title": "AR-Bazaar: AI-Powered AR/VR Shopping Revolution",
+        "url": "https://devpost.com/software/ar-bazaar-ai-powered-ar-vr-shopping-revolution",
+        "tagline": "AI-powered shopping revolution with Google Gemini: Upload room photos, get intelligent recommendations, visualize products in AR/VR, compare with AI insights, and shop hands-free using voice commands.",
+        "tags": [
+            "react",
+            "javascript",
+            "html5",
+            "react-router",
+            "css3",
+            "google-gemini-api",
+            "computer-vision",
+            "natural-language-processing",
+            "tensorflow",
+            "three.js",
+            "webxr",
+            "model-viewer",
+            "gltf",
+            "usdz",
+            "glb",
+            "web-speech-api",
+            "react-icons",
+            "font-awesome",
+            "framer-motion",
+            "github",
+            "webpack",
+            "ar/vr",
+            "aygmented-reality",
+            "virtual-reality"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Truth_Chain",
+        "url": "https://devpost.com/software/truth_chain-23hqyw",
+        "tagline": "Deepfakes spread faster than we can debunk them. AI can't reliably detect AI. So I built TruthChain—a protocol that cryptographically proves images are real at capture. Stop playing catch-up.",
+        "tags": [
+            "java",
+            "springboot",
+            "android",
+            "kotlin",
+            "react",
+            "pinata",
+            "mysql"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "CalmBeforeChristmas",
+        "url": "https://devpost.com/software/calmbeforechristmas",
+        "tagline": "“CalmBeforeChristmas helps students reduce anxiety and sleep better during stressful holidays using calming audio, AI emotional support, and festive wellness tools.”",
+        "tags": [
+            "html5",
+            "html5-please",
+            "css",
+            "css3",
+            "javascript",
+            "api"
+        ],
+        "like_count": 1,
+        "comment_count": 1
+    },
+    {
+        "title": "Alaqan Pay",
+        "url": "https://devpost.com/software/alaqan-pay",
+        "tagline": "Alaqan Pay turns your palm into a universal wallet. No lost cards or dead phones. Pay securely by waving your hand using AI vision. Hygienic, device-free, and safer than FaceID. Pay with your hand!",
+        "tags": [
+            "python",
+            "docker",
+            "opencv",
+            "mediapipe",
+            "javascript",
+            "json",
+            "html",
+            "css",
+            "vite",
+            "github"
+        ],
+        "like_count": 1,
+        "comment_count": 2
+    },
+    {
+        "title": "Serra",
+        "url": "https://devpost.com/software/serra",
+        "tagline": "Transforming prompts into presentations, Automate your deck creation with Next JS and AI, Speed meets professional design, Stop staring at blank slides, Generate your future in seconds.",
+        "tags": [
+            "nextjs",
+            "gemini"
+        ],
+        "like_count": 12,
+        "comment_count": 3
+    },
+    {
+        "title": "LMChess Arena",
+        "url": "https://devpost.com/software/lmchess-arena",
+        "tagline": "Challenge Beyond Human thinking and Intelligence",
+        "tags": [
+            "tailwind",
+            "typescript",
+            "openrouter",
+            "gemini",
+            "firebase"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Onpost",
+        "url": "https://devpost.com/software/onpost",
+        "tagline": "A community-driven marketplace where posts turn into live market insights.",
+        "tags": [
+            "react",
+            "tailwind",
+            "next-js",
+            "typescript",
+            "foru.ms",
+            "kolosal.ai",
+            "minimax",
+            "v0"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "PlantBuddy",
+        "url": "https://devpost.com/software/plantbuddy-utayom",
+        "tagline": "🌱 PlantBuddy - Talk With Plants. PlantBuddy is an AI-powered, IoT-based device that wraps around a plant stem and transforms real plant electrical signals into emotional conversations &amp; music.",
+        "tags": [
+            "move",
+            "typescript",
+            "css",
+            "html"
+        ],
+        "like_count": 7,
+        "comment_count": 0
+    },
+    {
+        "title": "AI DEBATERS",
+        "url": "https://devpost.com/software/ai-debaters",
+        "tagline": "“An AI debate where ideas argue through voice, motion, and personality — not just text.”",
+        "tags": [
+            "three.js",
+            "puter",
+            "gsap",
+            "html",
+            "css",
+            "vanilla",
+            "javascript"
+        ],
+        "like_count": 2,
+        "comment_count": 1
+    },
+    {
+        "title": "NeuroXplain: Alzheimer’s Detection via Spatial Radiomics",
+        "url": "https://devpost.com/software/neuroxplain-alzheimer-s-detection-via-spatial-radiomics",
+        "tagline": "Fuses Genetics &amp; MRI Radiomics to detect Alzheimer’s. Unlike CNNs, our XGBoost engine provides clinical rationale via SHAP, achieving 97.53% accuracy on blind external data.",
+        "tags": [
+            "python",
+            "scikit-learn",
+            "shap",
+            "xgboost",
+            "pandas",
+            "numpy",
+            "gradio",
+            "pillow"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "The Renal-AI Wellness Challenge",
+        "url": "https://devpost.com/software/the-renal-ai-wellness-challenge",
+        "tagline": "Bridge the gap between clinical safety and holistic healing. Design your personalized 3-day roadmap to experience the solution",
+        "tags": [
+            "python",
+            "typescript",
+            "geminiapi",
+            "react"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "10xCoders-Education Platform &amp; Career Guideline.",
+        "url": "https://devpost.com/software/10xcoders-education-platform-career-guideline",
+        "tagline": "An AI-powered personalized learning and career guidance platform that analyzes student skills, tracks progress, and generates adaptive roadmaps, quizzes, and interview preparation in real time.",
+        "tags": [
+            "express.js",
+            "javascript",
+            "mongodb",
+            "node.js",
+            "react",
+            "tailwinnscss",
+            "postman",
+            "iloveapi",
+            "convertapi",
+            "judge0",
+            "oauth2",
+            "geminiapi",
+            "googleconsole",
+            "youtubev3api",
+            "jwt",
+            "netlify",
+            "render"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "NutrientDriftAI",
+        "url": "https://devpost.com/software/nutrientdriftai-l5pow8",
+        "tagline": "Personalized AI-powered nutrition analyzer detecting hidden nutrient gaps caused by modern lifestyle stress. Combines sleep, screen time, and activity data to reveal what your body actually needs.",
+        "tags": [
+            "html5",
+            "css3",
+            "javascript",
+            "dom-api",
+            "web-audio-api",
+            "deepseek",
+            "emergent",
+            "comet",
+            "gpt-5"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Path Find\"Her\"",
+        "url": "https://devpost.com/software/path-find-her-wg189j",
+        "tagline": "Navigation tool built on a 'Women Safety First' philosophy to find the safest route, not just fastest route.",
+        "tags": [
+            "react",
+            "typescript",
+            "gemini",
+            "css",
+            "leaflet.js",
+            "google-maps",
+            "firebase"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "PLANit",
+        "url": "https://devpost.com/software/planit-t15h9e",
+        "tagline": "An AI Platform that gets a student through a phase of getting to plan things better....",
+        "tags": [
+            "javascript",
+            "css",
+            "html",
+            "api"
+        ],
+        "like_count": 2,
+        "comment_count": 2
+    },
+    {
+        "title": "Visually Impaired Helper",
+        "url": "https://devpost.com/software/visually-impaired-helper",
+        "tagline": "Real-time AI vision that guides, protects, and empowers the visually impaired",
+        "tags": [
+            "python",
+            "flask",
+            "pygame",
+            "opencv",
+            "google-cloud-ai",
+            "pydantic",
+            "requests",
+            "schedule",
+            "numpy",
+            "scipy",
+            "pyyaml",
+            "tqdm",
+            "tkinter"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Path Find\"Her\"",
+        "url": "https://devpost.com/software/path-find-her",
+        "tagline": "Navigation tool built on a 'Women Safety First' philosophy to find the safest route, not just fastest route.",
+        "tags": [
+            "react",
+            "typescript",
+            "css",
+            "leaflet.js",
+            "google-maps",
+            "gemini",
+            "ai-studio",
+            "firebase"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "UNSENT AI",
+        "url": "https://devpost.com/software/unsent-c0kfwu",
+        "tagline": "Catharsis in 60 seconds. UNSENT AI uses sentiment-driven orchestration to turn your heaviest secrets into beautiful, disappearing rituals.",
+        "tags": [
+            "react19",
+            "tailwindcss",
+            "framermotion",
+            "lucidereact",
+            "gemini",
+            "gemini3flash",
+            "webspeechapi",
+            "atomicpersistanceengine",
+            "zero-trace-architecture",
+            "vite",
+            "aistudio",
+            "indexeddb",
+            "zustland"
+        ],
+        "like_count": 14,
+        "comment_count": 0
+    },
+    {
+        "title": "Renal Wellness:  3-Day Student Detox",
+        "url": "https://devpost.com/software/renal-wellness-3-day-student-detox",
+        "tagline": "Renal Wellness is a 3-day AI-guided student health journey using simple meals, sleep tips, and light activity to support kidney-friendly, holistic wellness in a practical way.",
+        "tags": [
+            "renal-ai",
+            "artificialintelligence",
+            "healthcare",
+            "wellness",
+            "nutrition",
+            "preventivecare",
+            "studenthealth",
+            "ai"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Chime",
+        "url": "https://devpost.com/software/chime-qrbtgf",
+        "tagline": "\"Track Exams, Ace Notes, Spread Holiday Cheer.\"\r\n",
+        "tags": [
+            "react",
+            "postgresql",
+            "express.js",
+            "node.js",
+            "multer",
+            "tailwind"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Canvas Coach",
+        "url": "https://devpost.com/software/canvas-coach",
+        "tagline": "An AI creative coach that helps beginners learn visual art step-by-step without creating the art for them.",
+        "tags": [
+            "html",
+            "css",
+            "javascript",
+            "php",
+            "sql",
+            "gemini",
+            "api"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Chatme",
+        "url": "https://devpost.com/software/chatme-vdueys",
+        "tagline": "Execute terminal commands, launch apps, and manage processes",
+        "tags": [
+            "typescript",
+            "rust",
+            "tauri",
+            "gemini",
+            "openai",
+            "visual-studio"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "AI Desktop Companion (Glitch)",
+        "url": "https://devpost.com/software/ai-desktop-companion-glitch",
+        "tagline": "Meet Glitch: The JARVIS you dreamed of. A multimodal agent that doesn't just chat—it acts. Sees your screen, automates your OS. #AgenticAI",
+        "tags": [
+            "javascript",
+            "html5",
+            "css3",
+            "electron",
+            "pixijs",
+            "three.js",
+            "google",
+            "gemini",
+            "elevenlabs",
+            "nut.js",
+            "playwright",
+            "github",
+            "npm"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "EnviroCast",
+        "url": "https://devpost.com/software/envirocast-jgd5f9",
+        "tagline": "EnviroCast transforms live NASA satellite data into powerful climate forecasts—using AI and quantum computing to show how today’s actions can protect cities, ecosystems, and the future of our planet.",
+        "tags": [
+            "agentic",
+            "api",
+            "css",
+            "cuda",
+            "enviro",
+            "framer-motion",
+            "github",
+            "grok",
+            "html",
+            "ibm",
+            "javascript",
+            "llama",
+            "nasa",
+            "nextjs",
+            "node.js",
+            "openmeteo",
+            "python",
+            "pytorch",
+            "quantum",
+            "react",
+            "satelitedata",
+            "shadcn",
+            "streamlit",
+            "supabase",
+            "tailwindcss",
+            "tempo",
+            "three.js",
+            "typescript"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "CogniPredict",
+        "url": "https://devpost.com/software/cognipredict",
+        "tagline": "CogniPredict uses deep learning to classify Alzheimer's disease severity from brain MRI scans with 99.3% accuracy, while providing visual explanations that clinicians can actually trust and understand",
+        "tags": [
+            "python",
+            "efficientnetv2-s",
+            "git",
+            "hugging-face-spaces"
+        ],
+        "like_count": 1,
+        "comment_count": 1
+    },
+    {
+        "title": "CultureAlive ",
+        "url": "https://devpost.com/software/culturealive",
+        "tagline": "Preserving Culture Through Interactive Digital Art",
+        "tags": [
+            "css",
+            "javascript",
+            "render",
+            "dotenv",
+            "backend-python-flask",
+            "html5",
+            "bootstrap",
+            "groq",
+            "groq-llm"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Sapiens Echo - Real-time Dialogic Image Generation",
+        "url": "https://devpost.com/software/sapiens-echo",
+        "tagline": "An \"always-on\" AI creative partner that turns spoken dialogue into high-fidelity imagery. By combining Gemini’s visual intelligence with ElevenLabs' conversational speed.",
+        "tags": [
+            "elevenlabs",
+            "google-cloud",
+            "vertex-ai",
+            "google-gemini",
+            "google-cloud-run",
+            "next.js",
+            "react",
+            "typescript",
+            "tailwind-css"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "MirAI  未来: Protecting Futures with Intelligence",
+        "url": "https://devpost.com/software/mirai-fusion-model-for-alzheimer-s",
+        "tagline": "MirAI (未来): A Dual-Expert AI System for Early Alzheimer’s Detection through 3D Neuroimaging and Cognitive Analysis.",
+        "tags": [
+            "pytorch",
+            "monai",
+            "scikit-learn",
+            "tensorflow",
+            "nibabel",
+            "numpy",
+            "pandas",
+            "oasis-3",
+            "gradio",
+            "nvidia",
+            "markdown"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "EnviroCast",
+        "url": "https://devpost.com/software/envirocast-xqh4rv",
+        "tagline": "EnviroCast transforms live NASA satellite data into powerful climate forecasts—using AI and quantum computing to show how today’s actions can protect cities, ecosystems, and the future of our planet.",
+        "tags": [
+            "agentic",
+            "api",
+            "css",
+            "cuda",
+            "enviro",
+            "framer-motion",
+            "github",
+            "grok",
+            "html",
+            "ibm",
+            "javascript",
+            "llama",
+            "nasa",
+            "nextjs",
+            "node.js",
+            "openmeteo",
+            "python",
+            "pytorch",
+            "quantum",
+            "react",
+            "satelitedata",
+            "shadcn",
+            "streamlit",
+            "supabase",
+            "tailwindcss",
+            "tempo",
+            "three.js",
+            "typescript"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Portfolio- Daiyan Rahman ",
+        "url": "https://devpost.com/software/portfolio-daiyan-rahman",
+        "tagline": "I have made the portfolio using lovable ai. I used the ai because its easy to use and helped me alot to create my portfolio. In my portfolio there are hero section, skills section and my works",
+        "tags": [
+            "html",
+            "css"
+        ],
+        "like_count": 3,
+        "comment_count": 1
+    },
+    {
+        "title": "FinSight",
+        "url": "https://devpost.com/software/finsight-y213il",
+        "tagline": "FinSight: Upload a crypto whitepaper, get instant AI-powered analysis. ERNIE 4.5 reveals technical depth, tokenomics, risks &amp; competitive edge in stunning visualizations. Built for ERNIE AI Challenge.",
+        "tags": [
+            "python",
+            "vite",
+            "react",
+            "ts"
+        ],
+        "like_count": 1,
+        "comment_count": 1
+    },
+    {
+        "title": "FinAi ",
+        "url": "https://devpost.com/software/finai-nas96k",
+        "tagline": "FinAi is an AI-powered money companion that reads student transactions, spots hidden subscriptions, calculates “Can I spend?” in real time, and gives behavioral insights to stop overspending.",
+        "tags": [
+            "javascript"
+        ],
+        "like_count": 56,
+        "comment_count": 13
+    },
+    {
+        "title": "ERNIE Fine-Tune using LlamaFactory",
+        "url": "https://devpost.com/software/ernie-fine-tune-using-llamafactory",
+        "tagline": "\"The Emperor's Voice, Digitally Preserved\"",
+        "tags": [
+            "llamafactory",
+            "python",
+            "ernie-0.3b",
+            "peft",
+            "finetuning",
+            "html",
+            "css",
+            "javascript"
+        ],
+        "like_count": 3,
+        "comment_count": 1
+    },
+    {
+        "title": "EcoSage",
+        "url": "https://devpost.com/software/ecosage-wz26st",
+        "tagline": "AI-Powered Sustainability Companion",
+        "tags": [
+            "react",
+            "typescript",
+            "vite",
+            "tailwindcss",
+            "node.js",
+            "express.js",
+            "overpass-openstreetmap",
+            "gemini-api",
+            "react-leaflet",
+            "pwa"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Scholarship Finder",
+        "url": "https://devpost.com/software/scholarship-finder-59vkwp",
+        "tagline": "AI-powered system that monitors scholarships, detects changes, and sends actionable email recommendations automatically.",
+        "tags": [
+            "json",
+            "python",
+            "google-web-speech-api",
+            "html",
+            "javascript"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "Doclyst",
+        "url": "https://devpost.com/software/doclyst",
+        "tagline": "Doclyst is a purpose-built medical safety interpreter. It turns complex medical reports into clear, human-readable explanations with safety alerts in under 30 seconds.",
+        "tags": [
+            "paddleocr",
+            "ernie",
+            "typescript",
+            "flask",
+            "react"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Guidely",
+        "url": "https://devpost.com/software/guidely",
+        "tagline": "Guidely is an AI-powered career mentor app that guides users with tasks, challenges, mentors, job matching, CV building, and skill tracking to achieve their goals.",
+        "tags": [
+            "react",
+            "google-cloud",
+            "gemini"
+        ],
+        "like_count": 6,
+        "comment_count": 2
+    },
+    {
+        "title": "Roam - Plan, Map, Book: Your World Awaits.",
+        "url": "https://devpost.com/software/roam-plan-map-book-your-world-awaits",
+        "tagline": "Stop planning. Start seeing. Roam builds personalized itineraries and brings every spot to life with Instagram Reels on an interactive map. Vibe-check before you book.",
+        "tags": [
+            "nextjs",
+            "react",
+            "browseruse"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "PrepMaster AI: Slide-level Presentation Rehearsal Analysis",
+        "url": "https://devpost.com/software/prepmaster-ai-slide-level-presentation-rehearsal-analysis-rvpgiw",
+        "tagline": "PrepMaster AI is an AI-assisted presentation coaching system that performs deterministic, slide-level analysis of delivery and content alignment, and generates actionable rehearsal feedback.",
+        "tags": [
+            "python",
+            "streamlit",
+            "pymupdf",
+            "openai",
+            "firebase",
+            "libosa",
+            "ntlk",
+            "pytorch"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Portfolio-zahin",
+        "url": "https://devpost.com/software/portfolio-zahin",
+        "tagline": "My portfolio was made by replit AI agent and the detailed prompt was given by chatgpt then I got the portfolio in my device then locally changed the text by editing HTML and design by CSS ",
+        "tags": [
+            "html5",
+            "css3",
+            "javascript",
+            "replit"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "MeterMind",
+        "url": "https://devpost.com/software/metermind",
+        "tagline": "Automating manual gauge inspection for predictive maintenance at scale",
+        "tags": [
+            "python",
+            "pytorch",
+            "ernie-4.5-vl",
+            "unsloth",
+            "vllm",
+            "lora",
+            "peft",
+            "transformers",
+            "modal",
+            "huggingface",
+            "pillow",
+            "opencv",
+            "numpy",
+            "fastapi",
+            "nvidia-b200",
+            "nvidiab200",
+            "flutter",
+            "ios",
+            "android",
+            "gradio"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Pain Insights",
+        "url": "https://devpost.com/software/pain-insights",
+        "tagline": "LLM-powered analysis that clusters threads into product-ready insights with sentiment and momentum.",
+        "tags": [
+            "next.js",
+            "tailwindcss",
+            "openaiapi",
+            "node.js"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "BalaBank",
+        "url": "https://devpost.com/software/balabank",
+        "tagline": "Electronic bank for kids",
+        "tags": [
+            "python",
+            "react",
+            "tailwind-css",
+            "fast-api",
+            "google-gemini-api",
+            "faiss",
+            "jwt",
+            "figma",
+            "adobe-illustrator"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Failure-Aware ERNIE",
+        "url": "https://devpost.com/software/failure-aware-ernie",
+        "tagline": "We introduce Failure-Aware ERNIE, a safety-focused fine-tuning approach that teaches ERNIE when not to answer.",
+        "tags": [
+            "python",
+            "pytorch",
+            "ernie-4.5",
+            "llama-factory",
+            "lora",
+            "cuda-(nvidia-gpu)",
+            "matplotlib",
+            "numpy",
+            "json",
+            "git/github"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "InterLink",
+        "url": "https://devpost.com/software/interlink-md3ouz",
+        "tagline": "We're using AI to shrink the gap between neighbors. Our platform connects people who have skills with those who need them, creating a loop of resource sharing and support that strengthens everyone.",
+        "tags": [
+            "javascript",
+            "typescript",
+            "next.js",
+            "react",
+            "tailwind",
+            "css",
+            "node.js",
+            "express.js",
+            "mongodb",
+            "socket.io",
+            "gemini",
+            "radix"
+        ],
+        "like_count": 37,
+        "comment_count": 12
+    },
+    {
+        "title": "FluxDiagram",
+        "url": "https://devpost.com/software/fluxdiagram",
+        "tagline": "Create beautiful flowcharts without leaving VS Code.\r\n\r\n",
+        "tags": [
+            "antigravity",
+            "react",
+            "typescript",
+            "html5",
+            "css3"
+        ],
+        "like_count": 2,
+        "comment_count": 2
+    },
+    {
+        "title": "Reso",
+        "url": "https://devpost.com/software/reso",
+        "tagline": " Feel the Connection",
+        "tags": [
+            "kotlin-2.0",
+            "jetpack-compose-1.7",
+            "material-3",
+            "android-sdk-35",
+            "firebase-authentication",
+            "firebase-realtime-database",
+            "firebase-cloud-messaging",
+            "firebase-app-check-18.0.0",
+            "firebase-ai-(gemini)",
+            "camerax-1.4.1",
+            "ml-kit-barcode-scanning",
+            "zxing-core-3.5.3",
+            "gson-2.11.0",
+            "datastore-preferences-1.1.1",
+            "credential-manager-1.3",
+            "google",
+            "identity",
+            "services"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Weper Mental Health",
+        "url": "https://devpost.com/software/weper-mental-health",
+        "tagline": "AI powered web application with, anonymous chat, calming tools, and a community that lifts you up.\r\n",
+        "tags": [
+            "python",
+            "html",
+            "css",
+            "javascript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "JARVIS A.I ",
+        "url": "https://devpost.com/software/jarvis-a-i",
+        "tagline": "“A smart, voice-controlled AI assistant that opens apps, browses the web, controls your PC, and talks with you—just like Iron Man’s JARVIS.” 🚀🤖",
+        "tags": [
+            "speechrecognition",
+            "pyttsx3",
+            "os-module",
+            "webbrowser-module",
+            "text-to-speech-(tts)",
+            "voice-recognition",
+            "ai-assistant",
+            "automation",
+            "desktop",
+            "python"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "CatCoder",
+        "url": "https://devpost.com/software/catcoder-a5kbor",
+        "tagline": "CatCoder reimagines coding education with gamification, interactive challenges, and real-time Python execution, empowering learners to build job-ready skills through engaging, measurable progress.",
+        "tags": [
+            "vite",
+            "react",
+            "typescript",
+            "tailwindcss",
+            "supabase",
+            "netlify"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Markit",
+        "url": "https://devpost.com/software/markit-zru81a",
+        "tagline": "Marlit transforms online reading into structured knowledge",
+        "tags": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "CatCoder",
+        "url": "https://devpost.com/software/catcoder-07c62x",
+        "tagline": "CatCoder reimagines coding education with gamification, interactive challenges, and real-time Python execution, empowering learners to build job-ready skills through engaging, measurable progress.",
+        "tags": [
+            "vite",
+            "react",
+            "typescript",
+            "tailwindcss",
+            "supabase",
+            "netlify"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "HOUP APP",
+        "url": "https://devpost.com/software/houp-app-xgeq9k",
+        "tagline": "\"HOUP: Track your work hourly with automated reminders and Google Sheets backup.\"",
+        "tags": [
+            "antigravity",
+            "ai"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "RDKxPaddle-OCR Data Curation Platform",
+        "url": "https://devpost.com/software/stock-bot-0tas4o",
+        "tagline": "Curate OCR datasets on edge effortlessly",
+        "tags": [
+            "rdx",
+            "python",
+            "paddle-ocr"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "ClaimSphere AI - Automated Claim Processing Agent",
+        "url": "https://devpost.com/software/claimsphere-ai-automated-claim-processing-agent",
+        "tagline": "AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, intelligent validation, and natural language queries.",
+        "tags": [
+            "paddleocr",
+            "ernie",
+            "fastapi",
+            "python",
+            "next.js",
+            "typescript",
+            "postgresql",
+            "camel-ai",
+            "ollama"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "PulseOrb",
+        "url": "https://devpost.com/software/rpulse",
+        "tagline": "A non invasive innovative way of determining your heart rate effortlessly using just your phone",
+        "tags": [
+            "react",
+            "ppg",
+            "rppg"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Safe Space ",
+        "url": "https://devpost.com/software/safe-space-23qmac",
+        "tagline": "A place where you can connect, learn, vent out your emotions, and contact therapists for help",
+        "tags": [
+            "typescript",
+            "lovable",
+            "css",
+            "supabase",
+            "plpgsql"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Tachiwin Indigenous Languages OCR",
+        "url": "https://devpost.com/software/tachiwin-indigenous-languages-ocr",
+        "tagline": "PaddleOCR-VL finetuned for the 68 indigenous languages of Mexico, supporting their diverse character and glyph repertoire advancing a world-first step toward technological access and linguistic rights",
+        "tags": [
+            "paddleocr-vl",
+            "google-colab",
+            "erniesdk",
+            "unsloth",
+            "huggingface"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Sous Chef",
+        "url": "https://devpost.com/software/sous-chef-5czyd0",
+        "tagline": "Sous is an AI culinary tutor that never forgets you. It remembers your struggles, tracks your growth, and adapts to how YOU learn. Finally, education that actually knows its students.",
+        "tags": [
+            "memmachine",
+            "vite",
+            "typescript",
+            "claude",
+            "react"
+        ],
+        "like_count": 1,
+        "comment_count": 2
+    },
+    {
+        "title": "CleanMCP - MCP and Context Management made Easier",
+        "url": "https://devpost.com/software/clean-mcp-management-and-context",
+        "tagline": "Install and manage MCP servers and share relevant context with your team",
+        "tags": [
+            "react-19",
+            "typescript",
+            "tailwind-css-v4",
+            "framer-motion",
+            "gsap",
+            "reagraph",
+            "neo4j",
+            "cypher-query-language",
+            "websocket",
+            "shadcn/ui",
+            "radix-ui",
+            "react-hook-form",
+            "zod",
+            "tanstack/react-table",
+            "date-fns",
+            "eslint",
+            "prettier",
+            "node.js-20+",
+            "mem-machine",
+            "mcp-(model-context-protocol)",
+            "claude-code",
+            "gemini-api",
+            "vercel",
+            "next.js-16",
+            "lucide"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "LifeGraph",
+        "url": "https://devpost.com/software/lifestreak",
+        "tagline": "An AI agent with a hippocampus: it discovers hidden patterns across your health, learning &amp; creativity using Neo4j graphs, and time-travels through its own memory using MemVerge checkpoints.",
+        "tags": [
+            "neo4j",
+            "memverge",
+            "fastapi",
+            "memory-machine",
+            "neo4j-aura",
+            "python",
+            "react",
+            "recharts",
+            "tailwindcss",
+            "typescript",
+            "vercel",
+            "vite"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "ClinicAI",
+        "url": "https://devpost.com/software/clinicai",
+        "tagline": "ClinicAI: AI-powered medical consultation that runs completely offline on any laptop using Rust, React, and quantized LLMs. No internet, no cloud, pure privacy.",
+        "tags": [
+            "frontend:-react-18",
+            "typescript",
+            "vite",
+            "tailwind-css-desktop:-tauri-2.0",
+            "rust-1.75+-backend:-rust-(src-tauri)-ai/llm:-llama.cpp",
+            "gguf-quantized-models-database:-sqlite-3-platforms:-windows-(msi)",
+            "macos-(dmg)",
+            "linux"
+        ],
+        "like_count": 3,
+        "comment_count": 1
+    },
+    {
+        "title": "MyGameStudio",
+        "url": "https://devpost.com/software/mygamestudio",
+        "tagline": "Here we can collaborate and build mini multiplayer games",
+        "tags": [
+            "database",
+            "gemini",
+            "html"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Pakistan Multilingual AI Translator",
+        "url": "https://devpost.com/software/pakistan-multilingual-ai-translator-4f6z8p",
+        "tagline": "Pakistan Multilingual AI Translator is a web app that translates 70 major languages and dialects of Pakistan with Pakistan Sign Language (PSL) in textual gestures and hand movements steps.",
+        "tags": [
+            "css",
+            "gemininanoapitranslatorkey",
+            "html",
+            "tailwind",
+            "vscode"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "VecnaShield: Adaptive AI Neural Defense",
+        "url": "https://devpost.com/software/vecnashield-adaptive-ai-neural-defense",
+        "tagline": "Survival isn't a choice; it's a signal. We uses Gemini-powered AI to analyze psychic interference signals and inject core memories, keeping Eleven locked in the fight to take down Vecna.",
+        "tags": null,
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Upside down survival",
+        "url": "https://devpost.com/software/upside-down-survival",
+        "tagline": "A multi-sensor survival system for the Upside Down",
+        "tags": [
+            "react",
+            "node.js",
+            "typescript",
+            "express.js",
+            "ai",
+            "python"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Odysseyelp",
+        "url": "https://devpost.com/software/odysseyelp",
+        "tagline": "🌍 Odysseyelp is an AI-powered collaborative trip planning and discovery application that helps users create, share, and explore personalized and real-world location itineraries.",
+        "tags": [
+            "next.js",
+            "supabase",
+            "yelpaiapi",
+            "gemini",
+            "typescript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Fraud AI",
+        "url": "https://devpost.com/software/fraud-ai",
+        "tagline": "Real-time Fraud Detection System",
+        "tags": [
+            "python",
+            "react",
+            "typescript",
+            "sqlalchemy",
+            "scikit-learn",
+            "payslim",
+            "geopy",
+            "isolation-forest",
+            "one-class-svm"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "DocuMorph AI - ERNIE Multimodal Document Transformer",
+        "url": "https://devpost.com/software/documorph-ai-ernie-multimodal-document-transformer",
+        "tagline": "Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semantic injection and multimodal vision analysis.",
+        "tags": [
+            "ernie",
+            "ernie-4.5-vl",
+            "novita-ai",
+            "fastapi",
+            "python",
+            "react",
+            "typescript",
+            "paddleocr",
+            "presidio",
+            "websocket",
+            "tailwindcss"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "BusLive",
+        "url": "https://devpost.com/software/buslive",
+        "tagline": "Real-time bus tracking powered by AI. Get live locations, accurate ETAs, &amp; smart traffic insights for a stress-free commute.",
+        "tags": [
+            "nextjs",
+            "react",
+            "firebase",
+            "leaflet.js",
+            "shadcn",
+            "zod",
+            "lucid-react",
+            "tailwindcss",
+            "typescript",
+            "geminiapi",
+            "llamaapi",
+            "openrouteservice"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "PromptQuest",
+        "url": "https://devpost.com/software/promptquest",
+        "tagline": "PromptQuest is a Pygame adventure where players progress by talking to AI-powered NPCs. Dialogue drives puzzles, story, and gameplay, making each playthrough unique and dynamic.",
+        "tags": [
+            "python",
+            "pygame"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Compass",
+        "url": "https://devpost.com/software/compass-tmyfx6",
+        "tagline": "Precision maps for what truly improves your mood.",
+        "tags": [
+            "next.js",
+            "fastapi",
+            "typescript",
+            "tailwind",
+            "lucide",
+            "recharts",
+            "numpyro",
+            "scikit",
+            "pandas",
+            "numpy",
+            "transformers",
+            "supabase"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Compose3D",
+        "url": "https://devpost.com/software/compose3d",
+        "tagline": "From 3D composition to AI-generated visuals.",
+        "tags": [
+            "bria-api",
+            "three.js",
+            "react",
+            "next",
+            "react-three",
+            "typescript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "FinSense",
+        "url": "https://devpost.com/software/finsense-szq05u",
+        "tagline": "FinSense is a gamified web platform that teaches real-world financial skills through interactive games, simulations, and rewards.",
+        "tags": [
+            "html",
+            "css",
+            "html5-please",
+            "javascript"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "FireGuard AI: Wildfire Risk Assessment Platform",
+        "url": "https://devpost.com/software/fireguard-ai-wildfire-risk-assessment-platform",
+        "tagline": "An explainable machine learning system that predicts wildfire risk from meteorological conditions to support early surveillance and informed decision-making.",
+        "tags": [
+            "python",
+            "flask",
+            "scikit-learn",
+            "pandas",
+            "numpy",
+            "joblib",
+            "html",
+            "css",
+            "javascript",
+            "open-meteo",
+            "api",
+            "machine",
+            "learning",
+            "rest",
+            "git",
+            "github"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Quantum AI Emergency Vehicle Routing",
+        "url": "https://devpost.com/software/quantum-ai-emergency-vehicle-routing",
+        "tagline": "Because every second counts — Quantum makes it faster.",
+        "tags": [
+            "machine",
+            "learning",
+            "python",
+            "scikit?learn",
+            "genai",
+            "quantum-inspired",
+            "optimization",
+            "qiskit",
+            "cirq",
+            "simulation)",
+            "custom",
+            "model",
+            "solver",
+            "qaoa-inspired",
+            "logic",
+            "backend",
+            "fastapi",
+            "flask",
+            "testing",
+            "rest",
+            "apis",
+            "frontend",
+            "streamlit",
+            "dashboard",
+            "plotly",
+            "visualizations",
+            "ui",
+            "components",
+            "json",
+            "datasets",
+            "numpy",
+            "pandas",
+            "github",
+            "antigravity"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "10xCoders",
+        "url": "https://devpost.com/software/10xcoders-yx83dt",
+        "tagline": "An E learning platform where you can learn anything from tech for free.",
+        "tags": [
+            "react.js",
+            "javascript",
+            "tailwind",
+            "mongodb",
+            "express.js",
+            "node.js"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "EcoSage",
+        "url": "https://devpost.com/software/ecosage-bozx79",
+        "tagline": "Your AI-Powered Companion For Making Eco-Friendly Choices",
+        "tags": [
+            "react",
+            "typescript",
+            "vite",
+            "tailwindcss",
+            "node.js",
+            "express.js",
+            "overpass-openstreetmap",
+            "gemini-api",
+            "react-leaflet",
+            "pwa"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Qylo.ai",
+        "url": "https://devpost.com/software/qylo-ai",
+        "tagline": "Better choices, when it matters.",
+        "tags": [
+            "html5",
+            "css3",
+            "javascript"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "CiviLink Global",
+        "url": "https://devpost.com/software/civilink-global-mlvpqd",
+        "tagline": "Connecting Citizens To Welfare Opportunities",
+        "tags": [
+            "react",
+            "typescript",
+            "vite",
+            "tailwindcss"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "NeuroVisa –AI-Driven Cognitive Readiness for Global Mobility",
+        "url": "https://devpost.com/software/neurovisa-ai-driven-cognitive-readiness-for-global-mobility",
+        "tagline": "🌍 NeuroVisa is an AI-powered cognitive readiness passport that uses brain-signal intelligence to help people cross borders with confidence 💼✨, resilience 🧘‍♂️, and fairness ⚖️—not just paperwork 📄",
+        "tags": [
+            "flutter",
+            "react",
+            "tensorflow",
+            "python",
+            "firebase",
+            "postgresql",
+            "eeg",
+            "xai",
+            "transformers",
+            "cnn"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "FarmCare",
+        "url": "https://devpost.com/software/farmcare-n9qyuv",
+        "tagline": "What Farmers can’t SEE or NOTICE early has been so DEVASTATING.\r\nFarmCare is an AI-based crop monitoring and pest detection platform that provides real-time alerts to support proactive farm management",
+        "tags": [
+            "supabase",
+            "wokwi",
+            "lovable",
+            "yolo11s",
+            "github",
+            "google-web-speech-api",
+            "google-maps",
+            "visual-studio",
+            "open-meteo-forecast",
+            "twilio",
+            "typescript",
+            "iot",
+            "openai",
+            "elevenlabs-api",
+            "plpgsql",
+            "react-native"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Wastewise",
+        "url": "https://devpost.com/software/wastewise-eaws74",
+        "tagline": "AI-powered waste management for everyone. WasteWise helps you classify items, estimate value, and schedule eco-friendly pickups—making recycling smarter, faster, and more rewarding.",
+        "tags": [
+            "html",
+            "css",
+            "javascript",
+            "ai",
+            "gemini"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Location Scout",
+        "url": "https://devpost.com/software/location-scout",
+        "tagline": "Yelp AI-powered neighborhood scouting for winning business locations",
+        "tags": [
+            "nextjs",
+            "typescript",
+            "yelp"
+        ],
+        "like_count": 6,
+        "comment_count": 2
+    },
+    {
+        "title": "AuditShield.ai",
+        "url": "https://devpost.com/software/auditshield-ai",
+        "tagline": "We help patients access transparent and affordable healthcare by guiding them through the correct hospital, scheme eligibility, and step-by-step treatment process before they comm",
+        "tags": [
+            "react",
+            "typescript",
+            "tailwind-css",
+            "supabase",
+            "postgresql",
+            "vite",
+            "shadcn/ui",
+            "react-router",
+            "tanstack-react-query",
+            "node.js",
+            "google",
+            "gemini"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "PaddleOCR_VL_Receipt - A SFT Model Extract Info From Receipt",
+        "url": "https://devpost.com/software/paddleocr_vl_receipt-a-sft-model-extract-info-from-receipt",
+        "tagline": "PaddleOCR_VL_Receipt - A SFT Model Extract Info From Receipt To JSON, based on user defined prompt!",
+        "tags": [
+            "python",
+            "ernie",
+            "paddlepaddle",
+            "aistudio",
+            "paddlex",
+            "paddleocr",
+            "erniekit"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "NutriCare Agents",
+        "url": "https://devpost.com/software/nutricare-agents-oefn4b",
+        "tagline": "NutriCare Agents: Revolutionizing nutrition with AI-driven, personalized meal recommendations tailored to your health, tastes, and lifestyle — for a healthier, smarter tomorrow!",
+        "tags": [
+            "google",
+            "maps",
+            "javascript",
+            "places",
+            "api",
+            "next.js",
+            "react",
+            "tailwind",
+            "firebase",
+            "gemini",
+            "openai",
+            "google-cloud"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "FIBOx3D Asset Studio",
+        "url": "https://devpost.com/software/fibox3d-asset-studio",
+        "tagline": "FIBOx3D Studio uses Bria FIBO and fal.ai to provide interior designers and game developers with a full workflow from text to images to 3D models and professional renders.",
+        "tags": [
+            "html5",
+            "vue",
+            "node.js",
+            "bria",
+            "fibo",
+            "fal.ai"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "MaskVision",
+        "url": "https://devpost.com/software/maskvision-crhgqa",
+        "tagline": "Protecting people through intelligent, real-time face mask detection.",
+        "tags": [
+            "python",
+            "streamlit",
+            "tensorflow",
+            "keras",
+            "dataset",
+            "numpy",
+            "machine-learning"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Holiday Study Buddy",
+        "url": "https://devpost.com/software/holiday-study-buddy",
+        "tagline": "Where festive meets focus",
+        "tags": [
+            "typescript",
+            "javascript",
+            "sql",
+            "python",
+            "flask",
+            "next.js",
+            "react",
+            "css"
+        ],
+        "like_count": 6,
+        "comment_count": 2
+    },
+    {
+        "title": "Aegis.ai",
+        "url": "https://devpost.com/software/aegis-ai-8q3aph",
+        "tagline": "Your first line of defence against online threats",
+        "tags": [
+            "natural-language-processing",
+            "html5",
+            "css3",
+            "extension"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "campus-navigator-main",
+        "url": "https://devpost.com/software/campus-navigator-main",
+        "tagline": "Campus Navigator: Empowering students to access college info, report issues &amp; get support via AI chatbot. Admins resolve complaints efficiently, fostering a transparent campus community",
+        "tags": [
+            "frontend:-react",
+            "tailwind-css-backend:-python",
+            "supabase-ai-chatbot:-gemini-api-(google's-ai-platform)-database:-supabase-(postgresql-based)-cloud-services:-supabase-(hosting",
+            "authentication",
+            "and-real-time-database)-apis:-gemini-api-(ai-chatbot)",
+            "supabase",
+            "api"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Medha Ai",
+        "url": "https://devpost.com/software/medha-ai-mb0496",
+        "tagline": "AI chatbot , It gives instantaneous answers for University related Queries",
+        "tags": [
+            "typescript",
+            "supabase",
+            "react",
+            "tailwind",
+            "postgresql",
+            "api",
+            "github",
+            "git",
+            "vercel"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "CollegeAI Connect",
+        "url": "https://devpost.com/software/collegeai-connect",
+        "tagline": "Students struggle to get quick, accurate college info. Our platform answers queries instantly using official documents and lets students submit complaints that admins can review and respond to",
+        "tags": [
+            "react",
+            "flask",
+            "mongodb"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Inkphony",
+        "url": "https://devpost.com/software/inkphony",
+        "tagline": "Everything around you becomes an instrument that you can use to make music and learn composition.",
+        "tags": [
+            "unity",
+            "meta",
+            "quest",
+            "pca",
+            "depth"
+        ],
+        "like_count": 27,
+        "comment_count": 6
+    },
+    {
+        "title": "The Tarot Experience VR - AI Edition",
+        "url": "https://devpost.com/software/the-tarot-experience-vr-ai-edition",
+        "tagline": "A quiet space to ask, a moment to understand, and a return to the self.",
+        "tags": [
+            "unity",
+            "chatgpt",
+            "metaxr",
+            "quest",
+            "passthrough",
+            "llm",
+            "openai",
+            "vr",
+            "ai",
+            "immersive",
+            "c#",
+            "ar"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "ShikshaSoladu.ai",
+        "url": "https://devpost.com/software/shikshasoladu-ai",
+        "tagline": "ShikshaSoladu.ai is an inclusive education platform designed for students with disabilities. ",
+        "tags": [
+            "next.js",
+            "stt",
+            "reactwebspeech",
+            "openai",
+            "aiagent",
+            "mongodb",
+            "express.js",
+            "tailwindcss"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Wishy Washy",
+        "url": "https://devpost.com/software/wishy-washy",
+        "tagline": "Wishy Washy is a fast-paced climbing game where you tap your way up a skyscraper, dodging hazards to keep climbing. Clean windows for points, clear floors for bonuses, and see how high you can go.",
+        "tags": [
+            "horizon-desktop-editor",
+            "vs-code",
+            "blender",
+            "zbrush",
+            "substance-painter",
+            "photoshop",
+            "noesis"
+        ],
+        "like_count": 25,
+        "comment_count": 6
+    },
+    {
+        "title": "Fluxglove and VR",
+        "url": "https://devpost.com/software/fluxglove-and-vr",
+        "tagline": "Turn your hand into the ultimate controller. FluxGlove offers affordable, precise motion capture and haptics for gaming, design, and robotics.",
+        "tags": [
+            "arduino",
+            "python",
+            "mpu6050",
+            "flex",
+            "html5",
+            "css",
+            "javascript"
+        ],
+        "like_count": 8,
+        "comment_count": 1
+    },
+    {
+        "title": "Hardy World Poker",
+        "url": "https://devpost.com/software/hardy-world-poker",
+        "tagline": "Hardy World Poker:  Texas Hold'em mobile experience. Play against intelligent AI, climb global leaderboards, and compete across 6 world cities.",
+        "tags": [
+            "typescript"
+        ],
+        "like_count": 18,
+        "comment_count": 4
+    },
+    {
+        "title": "The Nanauts",
+        "url": "https://devpost.com/software/nanauts",
+        "tagline": "Connect with AI explorers from a distant galaxy in mixed reality as they survey our world using hands, voice, scene understanding and Llama 3.3",
+        "tags": [
+            "iwsdk",
+            "webxr",
+            "handtracking",
+            "hittest",
+            "llama3.3",
+            "webaudioapi",
+            "passthroughcameraaccess"
+        ],
+        "like_count": 10,
+        "comment_count": 0
+    },
+    {
+        "title": "Falcon",
+        "url": "https://devpost.com/software/falcon-shgxn9",
+        "tagline": "FALCON lets you fly drones and wild machines in MR or on VR levels. Turn your room into an airfield or dive into virtual worlds. Take on thrilling challenges solo or with friends-anytime.",
+        "tags": [
+            "unreal-engine",
+            "c++",
+            "blueprints",
+            "eos",
+            "meta"
+        ],
+        "like_count": 9,
+        "comment_count": 0
+    },
+    {
+        "title": "AccessBridge",
+        "url": "https://devpost.com/software/accessbridge-esqcwn",
+        "tagline": "Turning crisis into clarity : one family at a time",
+        "tags": [
+            "word"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "CodeAI",
+        "url": "https://devpost.com/software/codeai-h8u91s",
+        "tagline": "Instantly understand, debug, and improve any code snippet with AI-powered insights.",
+        "tags": [
+            "chrome",
+            "html5",
+            "css3",
+            "javascript",
+            "openi",
+            "firebase"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "Boopi ",
+        "url": "https://devpost.com/software/boopi",
+        "tagline": "Hop nonstop. Don’t become dinner!",
+        "tags": [
+            "typescript",
+            "noesis",
+            "horizon-apis",
+            "genai",
+            "ai"
+        ],
+        "like_count": 145,
+        "comment_count": 27
+    },
+    {
+        "title": "MarketView VR",
+        "url": "https://devpost.com/software/marketview-vr",
+        "tagline": "Track and analyze your stock portfolio across VR’s infinite screens—an immersive workspace for personal investors.",
+        "tags": [
+            "kotlin",
+            "compose",
+            "android",
+            "android-studio",
+            "mcp"
+        ],
+        "like_count": 4,
+        "comment_count": 2
+    },
+    {
+        "title": "AI Storyboard Maker",
+        "url": "https://devpost.com/software/ai-storyboard-maker",
+        "tagline": "A pro-grade storyboard tool that converts scripts into consistent, editable FIBO-generated shots using JSON controls, speeding real production workflows from hours to seconds.",
+        "tags": [
+            "python",
+            "fastapi",
+            "llm",
+            "chatgpt",
+            "codex",
+            "fibo",
+            "javascript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "— Mise —",
+        "url": "https://devpost.com/software/mise-9wvaib",
+        "tagline": "Redefining the cooking experience with Augmented Reality.",
+        "tags": [
+            "openai",
+            "oculus",
+            "metaspatialsdk"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "COGNI-ADAPT",
+        "url": "https://devpost.com/software/cogni-adapt",
+        "tagline": "Transforming how neurodiverse learners access and engage with educational content through AI-powered adaptive technology.",
+        "tags": [
+            "amazon",
+            "web",
+            "services",
+            "aws)",
+            "amazon-web-services",
+            "textract",
+            "bedrock",
+            "artificial",
+            "intelligence",
+            "ai)",
+            "machine",
+            "learning",
+            "ml)",
+            "scalable"
+        ],
+        "like_count": 1,
+        "comment_count": 2
+    },
+    {
+        "title": "Surplus Serve",
+        "url": "https://devpost.com/software/surplus-serve-2volx4",
+        "tagline": "Smart Food Redistribution Platform",
+        "tags": [
+            "react",
+            "typescript",
+            "vite",
+            "tailwindcss",
+            "pwa",
+            "react-leaflet",
+            "overpass-openstreetmap"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "AptX",
+        "url": "https://devpost.com/software/aptx",
+        "tagline": "An AI-powered, accessible learning platform simplifying curriculum for students with Down syndrome.",
+        "tags": [
+            "react",
+            "google-cloud",
+            "gemini",
+            "authentication",
+            "firestore",
+            "firebase",
+            "css",
+            "javascript",
+            "node.js"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "DIGICLOSET",
+        "url": "https://devpost.com/software/digicloset-24o5qz",
+        "tagline": "AI powered Virtual Try On Software",
+        "tags": [
+            "typescript",
+            "python",
+            "javascript",
+            "script"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "IO",
+        "url": "https://devpost.com/software/io-vctuxj",
+        "tagline": "ABCs: AnyBody Can Sing",
+        "tags": [
+            "nextjs",
+            "python",
+            "torch",
+            "openai",
+            "flask"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "FItMuse",
+        "url": "https://devpost.com/software/fitmuse",
+        "tagline": "Our app turns your closet into a creative stylist, generating outfits based on your mood, sketches, or character inspo so getting dressed feels easy, personal, and fun.",
+        "tags": [
+            "java",
+            "python",
+            "html",
+            "replit",
+            "openai"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "SunShiftAI",
+        "url": "https://devpost.com/software/sunshiftai",
+        "tagline": "Cleaner energy, one choice at a time.",
+        "tags": [
+            "flutter",
+            "dart",
+            "provider",
+            "openweatherapi",
+            "geminiapi",
+            "sharedpreferences"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Learning Assistant",
+        "url": "https://devpost.com/software/learning-assistant-shkxn7",
+        "tagline": "“Your class, amplified by AI.”",
+        "tags": [
+            "fastapi",
+            "digitalocean",
+            "next.js",
+            "react",
+            "gemini",
+            "livekit"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Dear Diary",
+        "url": "https://devpost.com/software/dear-diary-u7gt6v",
+        "tagline": "Instantly write, and watch your emotions turn into living colors.",
+        "tags": [
+            "next.js",
+            "grok",
+            "sanity",
+            "framer",
+            "recharts",
+            "shadcn"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "MedLens Ai",
+        "url": "https://devpost.com/software/medlens-ai",
+        "tagline": "MedLens AI: Humanizing medical reports with AI clarity. Why it works: It focuses on the \"human\" aspect of healthcare and addresses the problem of complex jargon.",
+        "tags": [
+            "backend:-python",
+            "fastapi-ai-&-machine-learning:-paddleocr-(vision)",
+            "novita-ai-(llama-3-70b-llm)",
+            "pymupdf-frontend:-react.js",
+            "vite",
+            "tailwind-css",
+            "axios-infrastructure-&-devops:-docker",
+            "hugging-face-spaces-(gpu/ram-backend)",
+            "vercel-(frontend)-apis:-novita-ai-openai-compatible-api-data-storage:-local-json-based-persistent-storage-(history)-tools:-git",
+            "ai-&-machine-learning:-paddleocr-(vision)",
+            "fastapi",
+            "docker",
+            "novica",
+            "ernie",
+            "vercel"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "OctoSense",
+        "url": "https://devpost.com/software/octosense-af0vhw",
+        "tagline": "OctoSense is an AI-powered study buddy that summarizes notes, answers questions, organizes tasks, and creates smart study plans—helping students learn faster with less effort",
+        "tags": [
+            "dart",
+            "flutter",
+            "api",
+            "gemni",
+            "supabase",
+            "android-studio"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Campus Event Calendar",
+        "url": "https://devpost.com/software/campus-event-calendar",
+        "tagline": "Ever had difficulty with keeping up on campus? With all the events going on, it's hard to keep track of them all. Our event calendar uses AI to organize all the events you want to attend on campus!",
+        "tags": [
+            "python",
+            "gemini"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "AI Code Mentor",
+        "url": "https://devpost.com/software/ai-code-mentor-ghpdf7",
+        "tagline": "AI Code Mentor is your intelligent coding companion that instantly detects bugs, identifies security, optimizes performance, and refactors code all powered by cutting edge AI across multiple languages",
+        "tags": [
+            "flutter",
+            "dart",
+            "material-design-3",
+            "riverpod",
+            "groq",
+            "gemini",
+            "openrouter",
+            "sharedpreferences",
+            "flutter-dotenv",
+            "android",
+            "website",
+            "ios",
+            "windows",
+            "macos",
+            "cross-platform"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "700-SF15 SWANS",
+        "url": "https://devpost.com/software/700-sf15-jae-z",
+        "tagline": "SWANS: Vision co-pilot for service staff to deliver engaging, VIP service effortlessly anywhere.",
+        "tags": [
+            "unity",
+            "wit.ai",
+            "whisper",
+            "openai",
+            "c#",
+            "ngrok",
+            "python",
+            "flask",
+            "depthapi",
+            "responseapi",
+            "https",
+            "json",
+            "google-drive",
+            "claudecode",
+            "cursor",
+            "insightface"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "1508-SF20 ZOOMR",
+        "url": "https://devpost.com/software/placeholder-7rw1qv",
+        "tagline": "Join the zoomrs and navigate supernatural layers to find ghosts",
+        "tags": [
+            "c#",
+            "unity",
+            "meta",
+            "quest",
+            "shader",
+            "mr",
+            "passthrough",
+            "mruk"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Staxel",
+        "url": "https://devpost.com/software/staxel",
+        "tagline": "Interactive XR shopping experience for robotic store",
+        "tags": [
+            "openai",
+            "python",
+            "webxr",
+            "iwsdk"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "PathfinderXR",
+        "url": "https://devpost.com/software/pathfinderxr",
+        "tagline": "PathfinderXR is an MR triage and navigation tool that helps people exiting homelessness or addiction find stability and purpose by turning complex problems into clear, real-world quests.",
+        "tags": [
+            "unity",
+            "tbd",
+            "fastapi",
+            "render.com",
+            "supabase",
+            "moondream"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "1201-SF17 ThatsMyJam",
+        "url": "https://devpost.com/software/that-s-my-jam",
+        "tagline": "Turn any object into an instrument",
+        "tags": [
+            "digitalocean",
+            "openrouter",
+            "gpt5.1chat",
+            "node.js",
+            "express.js",
+            "unity",
+            "metasdk",
+            "metapca"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "1609-SF21-Hygge",
+        "url": "https://devpost.com/software/16thfloor-views",
+        "tagline": "Don't just plan for a set of furniture, plan for the complete vibe of your space.",
+        "tags": [
+            "unity",
+            "c#",
+            "wit.ai",
+            "openai",
+            "normcore",
+            "figma",
+            "aftereffects",
+            "hyper3d",
+            "veo",
+            "sora"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "GeoPortal",
+        "url": "https://devpost.com/software/geoportal",
+        "tagline": "GeoFlightVR: Don't just track your flight—experience it.",
+        "tags": [
+            "kotlin",
+            "jetpackcompose",
+            "canvasapi",
+            "bluetooth",
+            "exoplayer",
+            "aviationstackapi"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "EcoSage",
+        "url": "https://devpost.com/software/ecosage-pfdcrg",
+        "tagline": "Your AI-Powered Companion For Making Eco-Friendly Choices",
+        "tags": [
+            "react",
+            "typescript",
+            "vite",
+            "tailwindcss",
+            "node.js",
+            "overpass-openstreetmap",
+            "gemini-api",
+            "express.js",
+            "react-leaflet",
+            "pwa"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "D-Day Simulator",
+        "url": "https://devpost.com/software/d-day-simulator",
+        "tagline": "Survive the largest amphibious assault in human history and GET OFF THE BEACH. The fate of Europe is on your shoulders, soldier.",
+        "tags": [
+            "horizon"
+        ],
+        "like_count": 9,
+        "comment_count": 1
+    },
+    {
+        "title": "jackqr",
+        "url": "https://devpost.com/software/jackqr",
+        "tagline": "studying enhanced with on device ai",
+        "tags": [
+            "swift",
+            "gemma"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "KidneyCare: AI-Powered CKD Awareness &amp; Early Detection",
+        "url": "https://devpost.com/software/kidneycare-ai-powered-ckd-awareness-early-detection",
+        "tagline": "KidneyCare is an offline AI app for iPads that helps users in Sri Lanka learn, detect, and prevent Chronic Kidney Disease through interactive education and real-time risk assessment.",
+        "tags": [
+            "react",
+            "reactnative",
+            "swift",
+            "swiftui",
+            "tailwind",
+            "node.js",
+            "xcode",
+            "coreml",
+            "onnx",
+            "metal",
+            "sqlite",
+            "git",
+            "python",
+            "typescript",
+            "javascript",
+            "json",
+            "html",
+            "css",
+            "transformer",
+            "quantization",
+            "ane",
+            "ipados"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "DyslexiCore",
+        "url": "https://devpost.com/software/dyslexicore",
+        "tagline": "Empowering neurodivergent learners through personalized skill-quests and intelligent screening tools",
+        "tags": [
+            "next.js",
+            "react",
+            "typescript",
+            "tailwind",
+            "framer",
+            "fastapi",
+            "python",
+            "uvicorn",
+            "sqlite",
+            "sqlalchemy",
+            "jwt",
+            "passlib"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Lumos",
+        "url": "https://devpost.com/software/corematrix",
+        "tagline": "Clarity in a World of Deception",
+        "tags": [
+            "javascript",
+            "express.js",
+            "tesseract",
+            "ocr",
+            "openai",
+            "axios",
+            "node.js",
+            "github",
+            "google-safe-browsing",
+            "twilio-lookup-api",
+            "xgboost"
+        ],
+        "like_count": 11,
+        "comment_count": 3
+    },
+    {
+        "title": "K1",
+        "url": "https://devpost.com/software/orbitops",
+        "tagline": "As data centers move to orbit, developers will soon choose where to run AI jobs: on Earth or in space. K1 helps to decide how much to run in orbital data centers vs terrestrial ones.",
+        "tags": [
+            "next.js-14",
+            "typescript",
+            "three.js",
+            "azure"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "The Merchant",
+        "url": "https://devpost.com/software/shop-simulator",
+        "tagline": "Craft items. Sell them to customers. Hire workers. Customize your shop. Become The Merchant",
+        "tags": [
+            "typescript",
+            "ts",
+            "horizon",
+            "horizonworlds",
+            "genai",
+            "meta"
+        ],
+        "like_count": 33,
+        "comment_count": 8
+    },
+    {
+        "title": "Safe2Go",
+        "url": "https://devpost.com/software/safe2go",
+        "tagline": "Turning ordinary helmets into life-saving devices with instant accident detection and emergency alerts",
+        "tags": [
+            "arduino",
+            "esp32",
+            "gps",
+            "c++",
+            "react",
+            "node.js"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "BloomCube AI",
+        "url": "https://devpost.com/software/horrifind",
+        "tagline": "BloomCube AI turns office CCTV cameras into a wellness coach, reading posture and well-being cues to gently nudge healthier habits at work!",
+        "tags": [
+            "react",
+            "python",
+            "fastapi",
+            "sqlalchemy",
+            "pydantic",
+            "opencv",
+            "mediapipe",
+            "slack-sdk",
+            "python-jose",
+            "passlib/bcrypt",
+            "alembic",
+            "ai",
+            "render",
+            "vercel",
+            "amazon-web-services",
+            "kiro",
+            "typescript",
+            "postgresql"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Sprint Focus",
+        "url": "https://devpost.com/software/sprint-focus",
+        "tagline": "Productivity Chrome extension!!",
+        "tags": [
+            "typescript",
+            "javascript",
+            "html5",
+            "css3",
+            "react",
+            "vite"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Style Swipe",
+        "url": "https://devpost.com/software/style-swipe-7h2zak",
+        "tagline": "A smart tool that turns customer style preferences into targeted product searches, instantly finding the top matching items whilst using you as a model.",
+        "tags": [
+            "postgresql",
+            "gemini",
+            "frasers"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "DND Companion",
+        "url": "https://devpost.com/software/dnd-companion-y35lbm",
+        "tagline": "Your companion on a fantastical odyssey",
+        "tags": [
+            "python",
+            "flask",
+            "sqlalchemy",
+            "postgresql",
+            "react",
+            "next",
+            "javascript",
+            "typescript",
+            "gemini"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "SupplyTrace",
+        "url": "https://devpost.com/software/supply-trace",
+        "tagline": "From raw materials to finished good – now visualised.",
+        "tags": [
+            "html",
+            "css",
+            "javascript",
+            "openai"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Clash Royale Deck Analyzer",
+        "url": "https://devpost.com/software/clash-royale-deck-simulator",
+        "tagline": "Instantly identify your Clash Royale deck's archetype and key stats visually by using the built in deck builder or via a deck link, giving you the strategic insight to play smarter and counter better.",
+        "tags": [
+            "python",
+            "torch",
+            "tkinter",
+            "matplotlib"
+        ],
+        "like_count": 18,
+        "comment_count": 0
+    },
+    {
+        "title": "2025: A Beer Odyssey ",
+        "url": "https://devpost.com/software/2025-a-beer-odyssey",
+        "tagline": "Go on a long journey and don't forget to get drunk.",
+        "tags": [
+            "python",
+            "javascript",
+            "css",
+            "google",
+            "gpt4o-mini"
+        ],
+        "like_count": 11,
+        "comment_count": 0
+    },
+    {
+        "title": "Chronos-VL: The 1545 Resurrection Engine",
+        "url": "https://devpost.com/software/chronos-vl-the-1545-resurrection-engine",
+        "tagline": "A specialized PaddleOCR-VL fine-tune that achieves 1.6% CER on historical Gothic script, featuring a custom engine to modernize and translate 16th-century text.",
+        "tags": [
+            "paddlepaddle",
+            "paddlepaddle-gpu)paddleocr",
+            "erniekit",
+            "google",
+            "colab",
+            "huggingface",
+            "vast.aiinstance",
+            "gradio",
+            "opencv",
+            "git"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Space Odyssey",
+        "url": "https://devpost.com/software/space-odyssey-8orav5",
+        "tagline": "Space Odyssey, a first-person game where you try to land your spaceship with the help of your comrades. However, not all information your comrades give will help you... Good Luck you have 5 minutes...",
+        "tags": [
+            "azure",
+            "cosmos",
+            "python",
+            "fastapi",
+            "openai",
+            "openai-agents",
+            "html",
+            "javascript",
+            "css",
+            "github",
+            "github-actions",
+            "grafana",
+            "prometheus",
+            "mp3"
+        ],
+        "like_count": 9,
+        "comment_count": 0
+    },
+    {
+        "title": "TripSync",
+        "url": "https://devpost.com/software/mu-u86lhg",
+        "tagline": "Multi Agent group chat with your friends to plan a trip or holiday",
+        "tags": [
+            "react",
+            "python",
+            "supabase",
+            "vercel"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "erm.ai",
+        "url": "https://devpost.com/software/erm-io",
+        "tagline": "AI Slack agent that watches chats and adds timely insights, auto-summarising progress into n8n for LinkedIn posts. Expandable with domain-tuned agents for law, tech, finance.",
+        "tags": [
+            "python",
+            "typescript",
+            "next.js",
+            "javascript",
+            "react"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "FAKE_IT_TILL_YOU_MAKE_IT-02",
+        "url": "https://devpost.com/software/fake-it-till-you-make-it-02",
+        "tagline": "Cure the cause of scamming, not symptoms",
+        "tags": [
+            "python",
+            "javascript",
+            "n8n",
+            "gmailapi",
+            "openaisdk",
+            "twilio",
+            "redis",
+            "postgresql",
+            "supabase"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "OneShot",
+        "url": "https://devpost.com/software/null-checked-3",
+        "tagline": "Develop ready-to-use solutions in 5 minutes. One shot – one hit.",
+        "tags": [
+            "langchain",
+            "langgraph",
+            "react",
+            "fastapi"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "LES-01",
+        "url": "https://devpost.com/software/what2eat-etv6d0",
+        "tagline": "What2Eat is an AI assistant that tells you exactly what to eat based on your goals, preferences, and what's in your fridge. It provides personalized meals, recipes, and grocery lists instantly.",
+        "tags": [
+            "nextjs",
+            "typescript",
+            "tailwindcss",
+            "supabase",
+            "ai-sdk",
+            "shadcn/ui",
+            "react-hook-form",
+            "zod",
+            "vercel"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "CropGuard",
+        "url": "https://devpost.com/software/cropguard",
+        "tagline": "Farmers greatest threat isn't a STORM or a BAD MARKET; it is WHAT THEY CANNOT SEE. ∴ CropGuard is an AI-POWERED AGRICULTURE PLATFORM FOR CROP MONITORING AND PEST DETECTION WITH REAL-TIME ALERTS.",
+        "tags": [
+            "supabase",
+            "openai-api",
+            "typescript",
+            "plpgsql",
+            "react-native",
+            "fastapi",
+            "google-maps",
+            "google-web-speech-api",
+            "google-colab",
+            "github",
+            "open-meteo-forecast",
+            "weatherapi",
+            "iot",
+            "wokwi",
+            "yolo11s",
+            "roboflow",
+            "visual-studio",
+            "vercel"
+        ],
+        "like_count": 4,
+        "comment_count": 2
+    },
+    {
+        "title": "AURA — Autonomous Unified Review Agent",
+        "url": "https://devpost.com/software/aura-autonomous-unified-review-agent",
+        "tagline": "AURA is an autonomous AI assistant that continuously reviews code, generates tests, detects issues, predicts regressions, and triggers automated actions — all with near-zero human intervention.",
+        "tags": [
+            "python",
+            "javascript",
+            "react",
+            "openi",
+            "postgress",
+            "node.js"
+        ],
+        "like_count": 4,
+        "comment_count": 3
+    },
+    {
+        "title": "Spell Sword",
+        "url": "https://devpost.com/software/spell-sword",
+        "tagline": "Wield your words as weapons against waves of monsters. Defeat numerous foes, gather loot, upgrade your gear, and complete daily quests as you push deeper into battle in this turn-based RPG experience.",
+        "tags": [
+            "horizonworldsdesktopeditor",
+            "typescript",
+            "adobe-illustrator",
+            "photoshop",
+            "premiere",
+            "flaticon-license",
+            "sunoai-license"
+        ],
+        "like_count": 16,
+        "comment_count": 2
+    },
+    {
+        "title": "NabuOCR: Teaching AI to Read the World's Oldest Writing",
+        "url": "https://devpost.com/software/ocr-finetuning-for-ancient-cuneiform-tablets",
+        "tagline": "NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from images to unicode, built to assist assyriologists in cataloging artifacts.",
+        "tags": [
+            "python",
+            "unsloth",
+            "runpod",
+            "transformers",
+            "cdli"
+        ],
+        "like_count": 7,
+        "comment_count": 1
+    },
+    {
+        "title": "Cargigo - AI for Cars",
+        "url": "https://devpost.com/software/cargigo-ai-for-cars",
+        "tagline": " A comprehensive AI web application that empowers car buyers and owners with data-driven insights to make informed decisions.",
+        "tags": [
+            "vite",
+            "gemini",
+            "firebase",
+            "react",
+            "tailwind",
+            "lucide"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "FocusAI",
+        "url": "https://devpost.com/software/focusai-bf18dx",
+        "tagline": "Get Fortune 500 market research in minutes. Focus Group AI simulates your target audience to debate features and pricing, generating rigorous validation reports instantly.",
+        "tags": [
+            "typescript",
+            "python",
+            "supabase",
+            "next.js",
+            "gemini",
+            "n8n",
+            "camuda",
+            "vercel",
+            "css",
+            "html"
+        ],
+        "like_count": 51,
+        "comment_count": 6
+    },
+    {
+        "title": "FowazzAI",
+        "url": "https://devpost.com/software/fowazzai-s7hvao",
+        "tagline": "Describe your idea. Get a live website. Fowazz is the first AI web developer that doesn’t stop at design.",
+        "tags": [
+            "tailwind",
+            "anthropic",
+            "claude",
+            "flask",
+            "supabase",
+            "cloudflare",
+            "node.js",
+            "dnsimple",
+            "bullmq",
+            "railway",
+            "ionos",
+            "upstash",
+            "redis"
+        ],
+        "like_count": 4,
+        "comment_count": 2
+    },
+    {
+        "title": "EcoGuard AI",
+        "url": "https://devpost.com/software/ecoguard-ai-efq32a",
+        "tagline": "Transform Citizens Into Environmental Guardians",
+        "tags": [
+            "base44"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Tailysis",
+        "url": "https://devpost.com/software/tailysis",
+        "tagline": "Tailysis is a biometric dog collar that detects stress, anxiety, and overheating using heart rate, temperature, and movement, helping owners understand their dog before issues escalate.",
+        "tags": [
+            "lovable",
+            "natively",
+            "canva",
+            "c++",
+            "javascript",
+            "antigravity",
+            "max30100-pulseoximeter",
+            "mpu6050",
+            "onewire",
+            "dallastemperature",
+            "softwareserial",
+            "wire"
+        ],
+        "like_count": 2,
+        "comment_count": 2
+    },
+    {
+        "title": "Shakti",
+        "url": "https://devpost.com/software/shakti-v7lnk6",
+        "tagline": "Shakti: Her Vision . Her Voice . Her VictoryEmpowering Rural Women Entrepreneurs",
+        "tags": [
+            "base44",
+            "gemini",
+            "whatsapp",
+            "google-pay",
+            "chat-gpt",
+            "open-ai",
+            "openai-(through-base44-ai-layer)",
+            "figma",
+            "notion-/-google-docs",
+            "google",
+            "slack"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Chuck'it",
+        "url": "https://devpost.com/software/chuck-it",
+        "tagline": "Save anything, find everything—100% offline, 100% private, 0% effort.",
+        "tags": [
+            "flutter",
+            "kotlin",
+            "swift",
+            "onnx",
+            "huggingface",
+            "nomic"
+        ],
+        "like_count": 4,
+        "comment_count": 1
+    },
+    {
+        "title": "KiKi Color!",
+        "url": "https://devpost.com/software/penfight-world-id-is-in-details",
+        "tagline": "Expand your territory, color the map, eliminate others! An infinite competitive arena.   ",
+        "tags": [
+            "blender",
+            "typescript",
+            "vr"
+        ],
+        "like_count": 28,
+        "comment_count": 5
+    },
+    {
+        "title": "AI Transfer Evaluation Tool",
+        "url": "https://devpost.com/software/ai-transfer-evaluation-tool",
+        "tagline": "AI tool that reads your transcript and instantly predicts how your credits transfer to UW, with clear course matches, elective credits, and advisor review flags.",
+        "tags": [
+            "node.js",
+            "claude",
+            "next.js",
+            "typescript",
+            "react",
+            "jspdf"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "SafeLink",
+        "url": "https://devpost.com/software/safelink-eplbcd",
+        "tagline": "SafeLink, Communication that never dies, even when the world goes silent",
+        "tags": [
+            "javascript",
+            "react",
+            "node.js",
+            "express.js",
+            "ble",
+            "uuid",
+            "sqlite",
+            "react-native",
+            "svg",
+            "rest-api",
+            "mesh-networking",
+            "render",
+            "axios",
+            "p2p",
+            "firebase",
+            "vite",
+            "jsx"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Rocket Ball: Holiday Season",
+        "url": "https://devpost.com/software/rocket-ball",
+        "tagline": "Rocket Ball delivers fast, high-energy 4v4 arcade soccer where every player is strapped into a giant rolling ball. It’s all momentum, teamwork, and pure arcade fun.",
+        "tags": [
+            "typescript",
+            "vscode",
+            "3ds-max",
+            "metahorizon",
+            "substancepainter"
+        ],
+        "like_count": 15,
+        "comment_count": 6
+    },
+    {
+        "title": " CivicPulse",
+        "url": "https://devpost.com/software/civicpulse-3oe9vr",
+        "tagline": "CivicPulse turns citizens into real-time sensors for their city, providing verified local alerts for shortages and crises on a live map.",
+        "tags": [
+            "css",
+            "html",
+            "javascript",
+            "python"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Project αlpha",
+        "url": "https://devpost.com/software/project-lpha",
+        "tagline": "Live weekend brain for race series and teams: ranks pace and consistency, replays races with AI commentary, and surfaces standout drivers, trends, and anomalies in real time.",
+        "tags": [
+            "javascript",
+            "vite",
+            "python",
+            "openlayers"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "HealAI",
+        "url": "https://devpost.com/software/healai-nuqvrz",
+        "tagline": "HealAI: The future of first-aid response, on device.",
+        "tags": [
+            "flet",
+            "raindrop",
+            "numpy",
+            "flet-video",
+            "yolo",
+            "pillow",
+            "opencv"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Epictetus",
+        "url": "https://devpost.com/software/epictetus",
+        "tagline": "Get practical Stoic advice from Epictetus for your daily problems. Your chats stay fully private with a 100% offline, blazingly-fast ARM-optimized local model.",
+        "tags": [
+            "python",
+            "arm",
+            "kleidiai",
+            "mediapipe",
+            "xnnpack",
+            "android",
+            "litert"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "CityBuild Simulator",
+        "url": "https://devpost.com/software/civic-learn",
+        "tagline": "CityBuild Simulator is a game in which players get a change to design their own cities. It aims to solve problems in the fields of Education and Infrastructure.",
+        "tags": [
+            "godot",
+            "c#",
+            ".net"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    }
+]

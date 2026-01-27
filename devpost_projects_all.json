@@ -1,0 +1,1502 @@
+[
+    {
+        "title": "TapRoot",
+        "url": "https://devpost.com/software/taproot",
+        "tagline": "Find Your Path To Wellness... Connecting clinical and community wellness resources"
+    },
+    {
+        "title": "Talkio",
+        "url": "https://devpost.com/software/talkio",
+        "tagline": "Talkio helps sales reps keep context across multiple calls by organizing post-call insights into a clear client history, so every conversation builds on the last and moves deals forward."
+    },
+    {
+        "title": "i18n meet",
+        "url": "https://devpost.com/software/i18n-meet",
+        "tagline": "Your personal translation agent for video calls. Speak any language, everyone hears their own."
+    },
+    {
+        "title": "CaseForwardAI",
+        "url": "https://devpost.com/software/caseforwardai",
+        "tagline": "CaseForward uses an AI round table orchestrator to process uploads, emails, and transcripts. Specialists deliberate to generate action cards, bridging AI analysis and human legal expertise."
+    },
+    {
+        "title": "BeePrepared",
+        "url": "https://devpost.com/software/beeprepared",
+        "tagline": "Transform 2h lectures into elite study kits in 3 mins. Get AI notes, cards, and mock exams on a node-based canvas. Watch bee agents build your knowledge &amp; earn Honey Points. Learn with intention!"
+    },
+    {
+        "title": "Nexus",
+        "url": "https://devpost.com/software/nexus-g349ko",
+        "tagline": "Nexus is an AI-native, vertically built platform designed specifically for student clubs to make event planning easy through integrations with many tools such as slack, google sheets, github and more!"
+    },
+    {
+        "title": "MarketMind",
+        "url": "https://devpost.com/software/marketmind-vlobg1",
+        "tagline": "Sandbox world of financial AI agents to help you learn trading."
+    },
+    {
+        "title": "Reachround",
+        "url": "https://devpost.com/software/roundreach",
+        "tagline": "AI that finds investors who fund companies like yours and writes personalized outreach that gets responses."
+    },
+    {
+        "title": "Entropy",
+        "url": "https://devpost.com/software/entropy-36yt4l",
+        "tagline": "Entropy is an AI security tester with no setup. All you do is paste a website URL, and an AI agent navigates your website in front of you, testing for security issues like XSS and SQL injection."
+    },
+    {
+        "title": "NeuRizz",
+        "url": "https://devpost.com/software/neurizz",
+        "tagline": "NeuRizz is a date-preparation and mentorship platform designed to help neurodivergent and autistic users navigate social interactions through real-time feedback and AI coaching."
+    },
+    {
+        "title": "Smart Appetite manager",
+        "url": "https://devpost.com/software/smart-appetite-manager",
+        "tagline": "An AI-powered food inventory and appetite management system that scans grocery receipts, tracks fridge inventory, and helps users reduce food waste while making smarter eating decisions."
+    },
+    {
+        "title": "FirstWaveAI",
+        "url": "https://devpost.com/software/firstwaveai",
+        "tagline": "AI-powered emergency intake with human oversight for dispatchers"
+    },
+    {
+        "title": "Predictify",
+        "url": "https://devpost.com/software/oracle-news-project",
+        "tagline": "From global volatility to merchant certainty."
+    },
+    {
+        "title": "NestFinder",
+        "url": "https://devpost.com/software/nestfinder",
+        "tagline": "\"AI-powered apartment finder that calculates real commute times for all transport modes and optimizes for couples. Stop juggling tabs—let our agents find your perfect nest.\""
+    },
+    {
+        "title": "Salus",
+        "url": "https://devpost.com/software/salus-9javs3",
+        "tagline": "Salus: Protecting identity, restoring health. We stack insurance &amp; aid locally to cut medical bills to $0. A zero-trust engine where your data never leaves your device."
+    },
+    {
+        "title": "PhishGuard",
+        "url": "https://devpost.com/software/phishguard-qxkr2l",
+        "tagline": "91% of cyberattacks start with phishing. PhishGuard uses 4 AI agents to analyze emails instantly—detecting typosquatting, manipulation tactics, and malicious URLs. Transparent AI you can trust."
+    },
+    {
+        "title": "Spectra",
+        "url": "https://devpost.com/software/s-e-n-t-r-a",
+        "tagline": "Spectra is a real-time AI agent monitoring solution for DeFi and crypto markets. It offers anomaly detection, kill switches, and compliance, ensuring safe, efficient, and transparent agent deployment."
+    },
+    {
+        "title": "LawSync.io",
+        "url": "https://devpost.com/software/law-sync-io",
+        "tagline": "Agents that monitor, submit, and analyze—so you stay compliant."
+    },
+    {
+        "title": "NGenesis ",
+        "url": "https://devpost.com/software/ngenesis",
+        "tagline": "NGenesis is an intelligent multi-tool AI orchestration platform that automatically coordinates different AI services to accomplish complex tasks from a single natural language prompt."
+    },
+    {
+        "title": "BriefME",
+        "url": "https://devpost.com/software/briefme-42j9kp",
+        "tagline": "BriefMe is your autonomous intelligence agent. It conducts deep research, synthesizes strategic insights, and generates interactive briefings and role-play scenarios to prep you for any meeting."
+    },
+    {
+        "title": "Protosynthesis",
+        "url": "https://devpost.com/software/protosynthesis",
+        "tagline": "Protosynthesis is a production-grade visual workflow automation platform that combines a React-based canvas editor with an intelligent AI-powered backend."
+    },
+    {
+        "title": "VoxSol",
+        "url": "https://devpost.com/software/voxsol",
+        "tagline": "VoxSol is a voice-first Solana wallet copilot. Just speak to check balances, execute swaps, and manage your portfolio. Powered by Gemini AI and ElevenLabs, with real on-chain transactions on Solana."
+    },
+    {
+        "title": "NexusWatch",
+        "url": "https://devpost.com/software/pentestlab",
+        "tagline": "Global Performance Intelligence"
+    },
+    {
+        "title": "Chatme",
+        "url": "https://devpost.com/software/chatme-vdueys",
+        "tagline": "Execute terminal commands, launch apps, and manage processes"
+    },
+    {
+        "title": "AI Desktop Companion (Glitch)",
+        "url": "https://devpost.com/software/ai-desktop-companion-glitch",
+        "tagline": "Meet Glitch: The JARVIS you dreamed of. A multimodal agent that doesn't just chat—it acts. Sees your screen, automates your OS. #AgenticAI"
+    },
+    {
+        "title": "EnviroCast",
+        "url": "https://devpost.com/software/envirocast-jgd5f9",
+        "tagline": "EnviroCast transforms live NASA satellite data into powerful climate forecasts—using AI and quantum computing to show how today’s actions can protect cities, ecosystems, and the future of our planet."
+    },
+    {
+        "title": "Sapiens Echo - Real-time Dialogic Image Generation",
+        "url": "https://devpost.com/software/sapiens-echo",
+        "tagline": "An \"always-on\" AI creative partner that turns spoken dialogue into high-fidelity imagery. By combining Gemini’s visual intelligence with ElevenLabs' conversational speed."
+    },
+    {
+        "title": "EnviroCast",
+        "url": "https://devpost.com/software/envirocast-xqh4rv",
+        "tagline": "EnviroCast transforms live NASA satellite data into powerful climate forecasts—using AI and quantum computing to show how today’s actions can protect cities, ecosystems, and the future of our planet."
+    },
+    {
+        "title": "Scholarship Finder",
+        "url": "https://devpost.com/software/scholarship-finder-59vkwp",
+        "tagline": "AI-powered system that monitors scholarships, detects changes, and sends actionable email recommendations automatically."
+    },
+    {
+        "title": "ClaimSphere AI - Automated Claim Processing Agent",
+        "url": "https://devpost.com/software/claimsphere-ai-automated-claim-processing-agent",
+        "tagline": "AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, intelligent validation, and natural language queries."
+    },
+    {
+        "title": "CleanMCP - MCP and Context Management made Easier",
+        "url": "https://devpost.com/software/clean-mcp-management-and-context",
+        "tagline": "Install and manage MCP servers and share relevant context with your team"
+    },
+    {
+        "title": "LifeGraph",
+        "url": "https://devpost.com/software/lifestreak",
+        "tagline": "An AI agent with a hippocampus: it discovers hidden patterns across your health, learning &amp; creativity using Neo4j graphs, and time-travels through its own memory using MemVerge checkpoints."
+    },
+    {
+        "title": "AuditShield.ai",
+        "url": "https://devpost.com/software/auditshield-ai",
+        "tagline": "We help patients access transparent and affordable healthcare by guiding them through the correct hospital, scheme eligibility, and step-by-step treatment process before they comm"
+    },
+    {
+        "title": "NutriCare Agents",
+        "url": "https://devpost.com/software/nutricare-agents-oefn4b",
+        "tagline": "NutriCare Agents: Revolutionizing nutrition with AI-driven, personalized meal recommendations tailored to your health, tastes, and lifestyle — for a healthier, smarter tomorrow!"
+    },
+    {
+        "title": "The Nanauts",
+        "url": "https://devpost.com/software/nanauts",
+        "tagline": "Connect with AI explorers from a distant galaxy in mixed reality as they survey our world using hands, voice, scene understanding and Llama 3.3"
+    },
+    {
+        "title": "DND Companion",
+        "url": "https://devpost.com/software/dnd-companion-y35lbm",
+        "tagline": "Your companion on a fantastical odyssey"
+    },
+    {
+        "title": "Space Odyssey",
+        "url": "https://devpost.com/software/space-odyssey-8orav5",
+        "tagline": "Space Odyssey, a first-person game where you try to land your spaceship with the help of your comrades. However, not all information your comrades give will help you... Good Luck you have 5 minutes..."
+    },
+    {
+        "title": "TripSync",
+        "url": "https://devpost.com/software/mu-u86lhg",
+        "tagline": "Multi Agent group chat with your friends to plan a trip or holiday"
+    },
+    {
+        "title": "erm.ai",
+        "url": "https://devpost.com/software/erm-io",
+        "tagline": "AI Slack agent that watches chats and adds timely insights, auto-summarising progress into n8n for LinkedIn posts. Expandable with domain-tuned agents for law, tech, finance."
+    },
+    {
+        "title": "OneShot",
+        "url": "https://devpost.com/software/null-checked-3",
+        "tagline": "Develop ready-to-use solutions in 5 minutes. One shot – one hit."
+    },
+    {
+        "title": "FocusAI",
+        "url": "https://devpost.com/software/focusai-bf18dx",
+        "tagline": "Get Fortune 500 market research in minutes. Focus Group AI simulates your target audience to debate features and pricing, generating rigorous validation reports instantly."
+    },
+    {
+        "title": "FowazzAI",
+        "url": "https://devpost.com/software/fowazzai-s7hvao",
+        "tagline": "Describe your idea. Get a live website. Fowazz is the first AI web developer that doesn’t stop at design."
+    },
+    {
+        "title": "Xploit",
+        "url": "https://devpost.com/software/xploit",
+        "tagline": "Xploit automates red-teaming for AI agents. We deploy attacker bots to expose vulnerabilities before hackers do, securing your automated workforce, allowing companies test their frontier agents."
+    },
+    {
+        "title": "HI-FI: Human Intelligence for Financial Independence",
+        "url": "https://devpost.com/software/hi-fi-human-intelligence-for-financial-independence",
+        "tagline": "Meet HI-FI, your Financial Ed buddy app that seals your holed pockets, while letting you go to parties. It's like your new dad but AI powered - raw &amp; powerful."
+    },
+    {
+        "title": "Gov AI: Decentralized Polling System",
+        "url": "https://devpost.com/software/gov-ai-decentralized-polling-system",
+        "tagline": "We built a voting system you never have to trust, because you can verify it yourself. Every vote is signed, public, and tamper-proof. No admins, no rigging, no hidden results"
+    },
+    {
+        "title": "HackProd",
+        "url": "https://devpost.com/software/hackprod",
+        "tagline": "We make the hackathon judging better and easy with agent steps automated for you. Go find out how you Sponsor tool was used with our project."
+    },
+    {
+        "title": "CaraKube",
+        "url": "https://devpost.com/software/carakube",
+        "tagline": "Find and fix Kubernetes misconfigurations using AI agents, integrated with your GitOps workflow."
+    },
+    {
+        "title": "Urban",
+        "url": "https://devpost.com/software/urban",
+        "tagline": "Urban is a privacy-first AI agent for cities: it triages citizen issues, pulls live policy + web data, recommends actions, schedules follow-ups, and tracks KPIs in a real-time dashboard."
+    },
+    {
+        "title": "Briefly - Stay Smart in Minutes",
+        "url": "https://devpost.com/software/briefly-stay-smart-in-minutes",
+        "tagline": "Briefly delivers personalized daily audio summaries 5, 10, or 15 minutes, turning your interests into effortless, AI-powered podcasts."
+    },
+    {
+        "title": "API Self Healer",
+        "url": "https://devpost.com/software/api-self-healer",
+        "tagline": "A self-healing agent that fixes broken API requests by reading docs, repairing the request, retrying, and updating Postman automatically. Debugging requests without human intervention"
+    },
+    {
+        "title": "StudyBuddy",
+        "url": "https://devpost.com/software/studybuddy-vzefio",
+        "tagline": "Notes and videos are messy and time-consuming to study. StudyBuddy turns them into clean slides, quizzes, and flashcards, and auto-saves organized content to Notion."
+    },
+    {
+        "title": "AI enterprise platform",
+        "url": "https://devpost.com/software/ai-enterprise-platform",
+        "tagline": "AI agent for Small business to handle HR, finance and documentation"
+    },
+    {
+        "title": "LeetCourt",
+        "url": "https://devpost.com/software/leetcourt-unej6r",
+        "tagline": "Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law."
+    },
+    {
+        "title": "AUTO-OPS: AI DevOps Agent",
+        "url": "https://devpost.com/software/auto-ops-ai-devops-agents",
+        "tagline": "An AI DevOps agent that catches crashes, spins up Daytona sandboxes, tests Claude-generated fixes, and ships CodeRabbit-reviewed PRs with ElevenLabs voice summaries."
+    },
+    {
+        "title": "Opera Neon",
+        "url": "https://devpost.com/software/opera-neon",
+        "tagline": "The launch film for Opera’s new AI-driven browser sets a new standard for hybrid production, combining a full live-action shoot with AI that delivers seamless, production-grade VFX."
+    },
+    {
+        "title": "ss",
+        "url": "https://devpost.com/software/scholarstream",
+        "tagline": "Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarships, hackathons, bounties), with AI that actually understands your situation. And helps you win them."
+    },
+    {
+        "title": "LeetCourt",
+        "url": "https://devpost.com/software/leetcourt",
+        "tagline": "Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law."
+    },
+    {
+        "title": "BOBUX BARGAINS",
+        "url": "https://devpost.com/software/bobux-bargains",
+        "tagline": "Are YOU a finance bro!? Do YOU want to learn how to negotiate!? We created a realistic agentic negotiation simultor accessible to ANYONE who is addicted to Roblox."
+    },
+    {
+        "title": "Syntra.ai",
+        "url": "https://devpost.com/software/syntra-ai",
+        "tagline": "Teams waste 3 hours/day on standups, coordination, and context switching.Syntra.ai’s MCP Agentic Brain automates standups, parses blockers, learns expertise, and routes help instantly.Save 3Hours/day"
+    },
+    {
+        "title": "BuckBounty",
+        "url": "https://devpost.com/software/buckbounty",
+        "tagline": "Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, maximizes rewards, and builds your path to financial freedom."
+    },
+    {
+        "title": "Communiqué",
+        "url": "https://devpost.com/software/communique",
+        "tagline": "Coordinate communities. Make contact links to enable anyone to express themselves to decision-makers, right in their email inboxes."
+    },
+    {
+        "title": "EduCo",
+        "url": "https://devpost.com/software/educo-b4z593",
+        "tagline": "EduCo is a self-evolving tutor built on Fastino’s long-term memory and Airia’s seamless agent orchestration. Together, they let the system learn the learner and adapt every session with purpose."
+    },
+    {
+        "title": "CodeForge Labs",
+        "url": "https://devpost.com/software/codeforge-labs",
+        "tagline": "AI-driven experimental platform that auto-tests, optimizes, and improves code in real time using autonomous agents and intelligent analytics."
+    },
+    {
+        "title": "EduReel.AI",
+        "url": "https://devpost.com/software/edureel-ai",
+        "tagline": "EduReel.AI creates personalized video lessons using Airia, Fastino, and Freepik. It adapts to your learning style in real time, and the agent uses your background to tailor every lesson."
+    },
+    {
+        "title": "EasyAds",
+        "url": "https://devpost.com/software/easyads",
+        "tagline": "Video ads are expensive and slow to produce. We've automated it. Our platform finds trending products and generates professional AI video ads in minutes. Zero effort required."
+    },
+    {
+        "title": "Cortex",
+        "url": "https://devpost.com/software/cortex-acb7jp",
+        "tagline": "Cortex turns any website or GitHub repo into a polished pitch deck and cinematic demo video. Drop a link to transform your product into a story judges, investors and even your friends can understand."
+    },
+    {
+        "title": "StrategyEvolve",
+        "url": "https://devpost.com/software/strategyevolve",
+        "tagline": "StrategyEvolve is a self-learning trading agent that adapts to you and the market—optimizing strategies through AI-driven evolution, behavioral insight, and real-time market intelligence."
+    },
+    {
+        "title": "DealScout",
+        "url": "https://devpost.com/software/deals-scout",
+        "tagline": "An AI-powered marketplace that uses autonomous agents to negotiate prices on your behalf—finding you the best deals automatically."
+    },
+    {
+        "title": "ChronOS",
+        "url": "https://devpost.com/software/chronos-rf0vix",
+        "tagline": "ChronOS - [Chronos: Time] x [OS: Operating System]\r\n2025 SOTA AI meets Retro Microsoft '95 - \r\nWorld's collide to make learning much more productive while enjoyable for anyone."
+    },
+    {
+        "title": "Eco-Nexus",
+        "url": "https://devpost.com/software/eco-nexus-pluwok",
+        "tagline": "Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions."
+    },
+    {
+        "title": "ImsoATL",
+        "url": "https://devpost.com/software/imsoatl",
+        "tagline": "Atlas True Link gives city leaders the superpower to deliver digital equity, economic opportunity, and smart city efficiency—faster and fairer, with data to back every decision."
+    },
+    {
+        "title": "CarMommy",
+        "url": "https://devpost.com/software/carmommy",
+        "tagline": "Never haggle for a car again."
+    },
+    {
+        "title": "AURA (Adaptive Unbiased Reality Agents)",
+        "url": "https://devpost.com/software/aura-adaptive-unbiased-reality-agents",
+        "tagline": "AURA is an unbiased XR speaking and presentation app for communication disorders. We move beyond static drills, using adaptive AI 'role-players' to help our users practice real, dynamic conversations."
+    },
+    {
+        "title": "Storytopia",
+        "url": "https://devpost.com/software/storytopia-bu917p",
+        "tagline": "Making screen time less passive - and more creative."
+    },
+    {
+        "title": "Doorwai",
+        "url": "https://devpost.com/software/doorwai",
+        "tagline": "AI assistants that streamline outreach to resources for youth experiencing homelessness."
+    },
+    {
+        "title": "MBAi",
+        "url": "https://devpost.com/software/mbai",
+        "tagline": "MBAi converts your business operations into visual AI workflows. \r\n"
+    },
+    {
+        "title": "Kairos",
+        "url": "https://devpost.com/software/kairos-3qnji4",
+        "tagline": "A personalized one stop agentic workflow for markets. Kairos syncs Polymarket, Nevua, Adjacent, &amp; Claude to find mispricing, manage alerts, and prove outcomes."
+    },
+    {
+        "title": "Pocket Garden",
+        "url": "https://devpost.com/software/pocket-garden-mxda7q",
+        "tagline": "A multi-agent system running on multiple Arm devices to help gardeners."
+    },
+    {
+        "title": "VisionForge",
+        "url": "https://devpost.com/software/visionforge-hukvsz",
+        "tagline": "Instantly design powerful neural networks with zero code. Drag, drop, and visually build Deep Learning models then export clean, production-ready PyTorch or TensorFlow code in minutes."
+    },
+    {
+        "title": "PermitScan AI",
+        "url": "https://devpost.com/software/permitflow-ai",
+        "tagline": "PermitScan Ai automates hazard discovery → permit creation → permit validation → permit refinement for oil &amp; gas Work Orders (WOs)."
+    },
+    {
+        "title": "ViralWave.ai",
+        "url": "https://devpost.com/software/viralwave-ai",
+        "tagline": "AI workflows for creator economy — transforming trending insights into lyrics, beats, and videos in minutes"
+    },
+    {
+        "title": "Dielectric",
+        "url": "https://devpost.com/software/dielectric",
+        "tagline": "Dielectric uses computational geometry and xAI Api and multimodal agentic ai to automate PCB workfllows"
+    },
+    {
+        "title": "Protein Architect",
+        "url": "https://devpost.com/software/protein-architect",
+        "tagline": "AI-Powered Molecular Discovery"
+    },
+    {
+        "title": "Messenger AI",
+        "url": "https://devpost.com/software/messenger-ai",
+        "tagline": "We teach AI to use your group chat."
+    },
+    {
+        "title": "Forexery",
+        "url": "https://devpost.com/software/forexery",
+        "tagline": "An RL model that democratizes Forex trading algorithms"
+    },
+    {
+        "title": "Cropit",
+        "url": "https://devpost.com/software/cropit",
+        "tagline": "Cropit empowers farmers to future-proof their land while growing profits by using AI to guide decisions instantly revealing the impact of every choice."
+    },
+    {
+        "title": "Lume - Your tech-savvy guide.",
+        "url": "https://devpost.com/software/lume-zrlypk",
+        "tagline": "A voice-activated, on-screen tutor that shows seniors exactly where to click with highlights, simple steps, and natural speech."
+    },
+    {
+        "title": "DataDriver",
+        "url": "https://devpost.com/software/datadriver",
+        "tagline": "DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step work plans, inspect real time inventory availability, and replan tasks when issues arise. "
+    },
+    {
+        "title": "PropheSea",
+        "url": "https://devpost.com/software/prophesea",
+        "tagline": "A personal AI trading guide that simplifies the complex world of predictive markets with top data-backed trades in a sleek, swipeable card experience."
+    },
+    {
+        "title": "Toyotron",
+        "url": "https://devpost.com/software/toyotron",
+        "tagline": "Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron."
+    },
+    {
+        "title": "Amelia",
+        "url": "https://devpost.com/software/amelia-b815hi",
+        "tagline": "Cursor for Air Traffic Controllers"
+    },
+    {
+        "title": "AutoPM",
+        "url": "https://devpost.com/software/autopm-2tjzu8",
+        "tagline": "automate everything"
+    },
+    {
+        "title": "PoyoLabs",
+        "url": "https://devpost.com/software/poyolabs-47n0fz",
+        "tagline": "All the potions, all the time! We provide a gamified dashboard for you to explore the data analytics of potion collection and depletion rate, and potential thievery. "
+    },
+    {
+        "title": "Cura",
+        "url": "https://devpost.com/software/tbd-58ftpr",
+        "tagline": "When Zapier Meets Zillow."
+    },
+    {
+        "title": "TrustIssues.AI",
+        "url": "https://devpost.com/software/coffee-overflow",
+        "tagline": "TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract data, verify identity, and score risk, blending AI speed with human approval for secure, fast compliance."
+    },
+    {
+        "title": "Virtuoso",
+        "url": "https://devpost.com/software/virtuoso-2oxn5u",
+        "tagline": "Play any song, on any instrument, with anyone, instantly"
+    },
+    {
+        "title": "Cimic",
+        "url": "https://devpost.com/software/cimic",
+        "tagline": "Simulate urban policy and watch cities react in real time."
+    },
+    {
+        "title": "Foundaura",
+        "url": "https://devpost.com/software/neofoundr",
+        "tagline": "Do you have a business idea but no clue where to begin? Foundaura provides you with the intricate details of starting a business with clear steps, smart insights, and personalized guidance."
+    },
+    {
+        "title": "ProdPlex",
+        "url": "https://devpost.com/software/prodify-94vbpk",
+        "tagline": "Simplify product management. Amplify problem-solving."
+    },
+    {
+        "title": "ProDuh! - The “duh” way to ship smarter",
+        "url": "https://devpost.com/software/produh",
+        "tagline": "ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discovery→Operate, works with Jira/ADO, automates busywork, and turns strategy into shippable stories—fast."
+    },
+    {
+        "title": "terrar.ai",
+        "url": "https://devpost.com/software/terrar-ai",
+        "tagline": "AI agents in Terraria to assist with building, mining, and boss fights. Share your health with them more agents, more risk. AI adapts to every situation, making every choice crucial."
+    },
+    {
+        "title": "Jigsaw: Make your PCB boards click together",
+        "url": "https://devpost.com/software/jigsaw-make-your-pcb-board-click",
+        "tagline": "Jigsaw compresses days of part hunting and spec-checking into minutes, without removing humans from the loop. This tool is perfect for professionals and hobbyists to speed up PCB development."
+    },
+    {
+        "title": "TextFly",
+        "url": "https://devpost.com/software/textfly",
+        "tagline": "Text Hey Flub to flub@textfly.tech! Flub is your AI flight agent that monitors real-time events to predict delays and cancellations before they happen"
+    },
+    {
+        "title": "Brahma",
+        "url": "https://devpost.com/software/brahma",
+        "tagline": "Revolutionizing Preclinical Research with Synthetic Mice"
+    },
+    {
+        "title": "Ulka",
+        "url": "https://devpost.com/software/ulka",
+        "tagline": "Igniting young minds with the fire of falling stars."
+    },
+    {
+        "title": "Alchemetrics",
+        "url": "https://devpost.com/software/abc-xapnio",
+        "tagline": "Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets, and forecasts overflows, bringing automation and clarity to Poyo’s Potion Factory’s magical chaos."
+    },
+    {
+        "title": "ProdigyPM",
+        "url": "https://devpost.com/software/prodigypm-kaqe09",
+        "tagline": "ProdigyPM automates product docs- upload a PDF, and it extracts details, creates department subprojects with effort estimates, syncs to Jira, and tracks progress automatically"
+    },
+    {
+        "title": "Lucid",
+        "url": "https://devpost.com/software/lucid-nijx3r",
+        "tagline": "Using vision to prevent truck crashes by anticipating long haul fatigue."
+    },
+    {
+        "title": "Beacon",
+        "url": "https://devpost.com/software/na-504rkg",
+        "tagline": "A real-time, cross-domain Customer Happiness Index that detects, tracks, and helps act on customer sentiment for T-Mobile."
+    },
+    {
+        "title": "PathFindr",
+        "url": "https://devpost.com/software/pathfindr-lg5syt",
+        "tagline": "An AI co-pilot that turns real-time spatial data into clear and trusted guidance, allowing blind and low-vision users to navigate the world independently and confidently.\r\n"
+    },
+    {
+        "title": "Watt's Up",
+        "url": "https://devpost.com/software/watt-s-up",
+        "tagline": "An AI-driven sustainability platform that transforms rooftops into renewable power insights: revealing untapped solar potential, energy savings, and carbon reduction opportunities in seconds."
+    },
+    {
+        "title": "Discer.io",
+        "url": "https://devpost.com/software/discer-io",
+        "tagline": "Learn Agentic AI through play. Discer.io is a MMO sandbox where you build and deploy agentic AI workflows using drag-and-drop blocks—like Scratch, but for AI agents.\r\n"
+    },
+    {
+        "title": "HeyAI",
+        "url": "https://devpost.com/software/heyai-dgbk7j",
+        "tagline": "Making it possible for you to call AI Agents. A universal voice layer that lets anyone talk to any AI agent directly through a phone call. No apps, no typing; just your voice."
+    },
+    {
+        "title": "DocDoctor",
+        "url": "https://devpost.com/software/docdoctor",
+        "tagline": "DocDoctor turns wasted lookup time into real-time insight by blending AI precision with human intuition to instantly surface the right document in context, keeping troubleshooting fast and effortless."
+    },
+    {
+        "title": "MindPad",
+        "url": "https://devpost.com/software/mindpad",
+        "tagline": "Reignite the wonder of learning - one gesture at a time."
+    },
+    {
+        "title": "Wings",
+        "url": "https://devpost.com/software/wingpay",
+        "tagline": "Finance is a dynamic equilibrium. Our credit and spending advisory layer supports sustainable borrowing and proactive guidance - so you feel supported, not stretched or stressed."
+    },
+    {
+        "title": "MorphMind",
+        "url": "https://devpost.com/software/morphmind",
+        "tagline": "MorphMind a multimodal memory layer that helps AI remember, connect, and reason across everything it sees, hears, and reads."
+    },
+    {
+        "title": "FairStart - AI Resume ",
+        "url": "https://devpost.com/software/edugap-h0b8zu",
+        "tagline": "FairStart — Make Your Resume Smarter!"
+    },
+    {
+        "title": "OMEGA — The Universal Problem-Solving Engine ",
+        "url": "https://devpost.com/software/omega-the-universal-problem-solving-engine",
+        "tagline": "OMEGA — When AI stops answering questions… and starts discovering."
+    },
+    {
+        "title": "Skyrchitect",
+        "url": "https://devpost.com/software/skyrchitect-6d37yf",
+        "tagline": "An nemotron-nano-8B-v1 Model autonomously designs production-ready cloud architectures, generates infrastructure code, and calculates costs—turning ideas into deployable AWS infrastructure in seconds"
+    },
+    {
+        "title": "Agent Builder",
+        "url": "https://devpost.com/software/agent-builder",
+        "tagline": "Build powerful AI agent workflows through natural conversation. Simply describe what you need, and watch as intelligent agents, tools, and connections come together—no coding required."
+    },
+    {
+        "title": "bAI Watch",
+        "url": "https://devpost.com/software/bai-watch",
+        "tagline": "We're bAI Watch: Smarter monitoring. Safer community. Preparing Corpus Christi, One Alert at a Time."
+    },
+    {
+        "title": "Solisa lite",
+        "url": "https://devpost.com/software/solisa-lite",
+        "tagline": "AI-powered insurance sales and retention platform that autonomously qualifies leads, books meetings, nurtures prospects through sales cycles, and proactively prevents churn. "
+    },
+    {
+        "title": "Uncookd",
+        "url": "https://devpost.com/software/uncookd",
+        "tagline": "Ready to Uncook Learning? Experience agents that reason, debate, and discover alongside you."
+    },
+    {
+        "title": "Delego",
+        "url": "https://devpost.com/software/delego",
+        "tagline": "Managing your software engineering team at scale."
+    },
+    {
+        "title": "Leaf Link",
+        "url": "https://devpost.com/software/leaf-link-dpb7h0",
+        "tagline": "Growing Plants Together"
+    },
+    {
+        "title": "AI-Powered Carbon Credit Verifier",
+        "url": "https://devpost.com/software/ai-powered-carbon-credit-verifier",
+        "tagline": "“Code for Energy. Tokenize the Future.”"
+    },
+    {
+        "title": "History Imposter",
+        "url": "https://devpost.com/software/tbd-c8uzd0",
+        "tagline": "Find the imposter style game with historical characters. Fight against AI to "
+    },
+    {
+        "title": "ESG Copilot",
+        "url": "https://devpost.com/software/esg-copilot-4h9zx0",
+        "tagline": "AI-powered ESG compliance automation for SMBs—cutting $50K manual reporting costs to near-zero via autonomous data collection, regulation research, emissions tracking, and report generation."
+    },
+    {
+        "title": "CalorieChase",
+        "url": "https://devpost.com/software/caloriechase-xfbhz9",
+        "tagline": "Chase the calorie, burn the fat."
+    },
+    {
+        "title": "Cloudwise: AI Agents for AWS Cost &amp; Compliance Optimization",
+        "url": "https://devpost.com/software/cloudwise-ai-agents-for-aws-cost-compliance-optimization-rz410f",
+        "tagline": "Your intelligent AWS co‑pilot for cost and security optimization\r\n"
+    },
+    {
+        "title": "legendIDE",
+        "url": "https://devpost.com/software/legendide",
+        "tagline": "An AI-powered Web IDE where you can vibe code with your team and share context effortlessly in real time."
+    },
+    {
+        "title": "Otter",
+        "url": "https://devpost.com/software/otter",
+        "tagline": "Decentralizing how humans communicate using SUI"
+    },
+    {
+        "title": "Cryptoagent - CFO",
+        "url": "https://devpost.com/software/cryptoagent-cfo",
+        "tagline": "Analyzes crypto portfolios and generates smart liquidation strategies based on risk tolerance.Uses real-time Gemini Exchange data and Fetch.ai agents to help decisions about converting crypto to cash"
+    },
+    {
+        "title": "SpaceRanchers",
+        "url": "https://devpost.com/software/spaceranchers",
+        "tagline": "The aim of our project is to highlight the beauty and wonder of the starry night sky through our miniature 3d model of our entire solar system and how it changes over millions of years."
+    },
+    {
+        "title": "Orbit",
+        "url": "https://devpost.com/software/orbit-n97hqz",
+        "tagline": "From “I should” to “I did.”Our workflow listens, understands, and drives real progress from every conversation."
+    },
+    {
+        "title": "MarketMind",
+        "url": "https://devpost.com/software/marketmind-b6cy2q",
+        "tagline": "Real-time stock market visualization application with AI-powered agent analysis."
+    },
+    {
+        "title": "PointerAI",
+        "url": "https://devpost.com/software/pointerai",
+        "tagline": "Imagine your mouse pointer, but upgraded and with agentic capabilities"
+    },
+    {
+        "title": "CivitasX",
+        "url": "https://devpost.com/software/dhdhtfgh",
+        "tagline": "CivitasX turns cities into autonomous digital ecosystems—AI agents that understand intent, trigger complex civic workflows, and log every verified action immutably on the XRP Ledger."
+    },
+    {
+        "title": "Harmoniq",
+        "url": "https://devpost.com/software/harmoniq-06o1e9",
+        "tagline": "Regulatory intelligence for clinical trials."
+    },
+    {
+        "title": "MonitorMachine",
+        "url": "https://devpost.com/software/monitormachine",
+        "tagline": "Automating clinical trial verification to cut costs, save time, bring life-saving treatments to patients faster, and spark more innovation in clinical research."
+    },
+    {
+        "title": "Cura",
+        "url": "https://devpost.com/software/cura-kthowx",
+        "tagline": "AI Medical Assistant: Intelligent Symptom Checker and Care Connector"
+    },
+    {
+        "title": "PitchLab",
+        "url": "https://devpost.com/software/pitchlab-clxhuj",
+        "tagline": "PitchLab generates catered mock sales pitch calls for sales reps to learn, practice, and apply before the real deal. Help reps get their reps in"
+    },
+    {
+        "title": "Cyber Net",
+        "url": "https://devpost.com/software/cyber-net",
+        "tagline": "An AI-leveraged cybersecurity attack and response playbook"
+    },
+    {
+        "title": "ChatRealm",
+        "url": "https://devpost.com/software/chatrealm",
+        "tagline": "ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation."
+    },
+    {
+        "title": "Calendera",
+        "url": "https://devpost.com/software/clarity-joixz0",
+        "tagline": "AI-powered organizational tool for your communication platforms"
+    },
+    {
+        "title": "KnightSource",
+        "url": "https://devpost.com/software/knightsource",
+        "tagline": "Agentic AI-Driven Financial Advisor for UCF Students"
+    },
+    {
+        "title": "Clanker Town",
+        "url": "https://devpost.com/software/clanker-town",
+        "tagline": "Clanker Town is a simulation / web-browser video game which lets player enter the town filled with other autonomous AI agents communicating between each other, gathering resources and trading."
+    },
+    {
+        "title": "FinScope",
+        "url": "https://devpost.com/software/finscope-02o4qt",
+        "tagline": "Get daily financial news and insights tailored to your interests"
+    },
+    {
+        "title": "HeliosAI",
+        "url": "https://devpost.com/software/heliosai",
+        "tagline": "Helios fights rising electricity costs. We educate communities on solar energy and advocate for eliminating the solar sales tax, building a brighter, more accessible future."
+    },
+    {
+        "title": "Argus",
+        "url": "https://devpost.com/software/argus-w6i0pv",
+        "tagline": "Argus combines AI, computer vision, and real-time streaming to deliver intelligent, low-latency surveillance with instant threat detection, reporting, and search across all your video networks."
+    },
+    {
+        "title": "AtlasTalk",
+        "url": "https://devpost.com/software/atlastalk",
+        "tagline": "Learn languages by talking to simulated locals."
+    },
+    {
+        "title": "Agora",
+        "url": "https://devpost.com/software/agora-165spb",
+        "tagline": "Autonomous AI marketplace for agents: save time, money, and trees by working with specialized SLMs on Agora &gt; GPT or any large transformer model. Uses Claude, Lava, SUI, and more for agent comms!"
+    },
+    {
+        "title": "GhostManager",
+        "url": "https://devpost.com/software/ghostmanager",
+        "tagline": "Using agentic AI to reinvent compliance."
+    },
+    {
+        "title": "Mantis",
+        "url": "https://devpost.com/software/mantis-nie02d",
+        "tagline": "Mantis provides real time threat detection to help retail businesses identify and prevent shoplifting as it occurs, protecting your inventory and reducing loss."
+    },
+    {
+        "title": "EDFlow AI",
+        "url": "https://devpost.com/software/edflowai",
+        "tagline": "EDFlow AI: A Mixture of Expert AI Agents auto-coordinate ER emergencies in &lt;30s. Each specialist agent—beds, labs, pharmacy—works in parallel to save lives."
+    },
+    {
+        "title": "Systema",
+        "url": "https://devpost.com/software/systema",
+        "tagline": "Transforming system design interviews from holistic, expensive evaluations into consistent, automated assessments."
+    },
+    {
+        "title": "RecallMe",
+        "url": "https://devpost.com/software/temp-031caq",
+        "tagline": "A smart AI lecture chatbot that follows along in class, lets you ask questions live, gives immediate answers, and keeps track of context across lectures and uploaded recordings."
+    },
+    {
+        "title": "Emergent",
+        "url": "https://devpost.com/software/emergent-b2t1fl",
+        "tagline": "AI Agents for complex human disaster dynamics simulation"
+    },
+    {
+        "title": "Money Mentor AI",
+        "url": "https://devpost.com/software/moneymentor-ai",
+        "tagline": "Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.\r\n"
+    },
+    {
+        "title": "Expungo",
+        "url": "https://devpost.com/software/clearpathai",
+        "tagline": "Making expungement simple and accessible for all."
+    },
+    {
+        "title": "Lawgorithm",
+        "url": "https://devpost.com/software/lawgorithm-815k2x",
+        "tagline": "AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that listen, learn, research, and help lawyers litigate smarter, faster, and more accurately."
+    },
+    {
+        "title": "FinTerra",
+        "url": "https://devpost.com/software/finterra",
+        "tagline": "Meet Elowen, your AI financial advisor. She tracks all your finances and provides expert tips, portfolio analysis, and budget optimizations in plain English. Democratizing financial planning!!!"
+    },
+    {
+        "title": "CareLink",
+        "url": "https://devpost.com/software/carelink-mf4qvr",
+        "tagline": "AI-powered discharge coordination connecting hospitals, shelters, and social workers to ensure safe patient transitions"
+    },
+    {
+        "title": "Briefly",
+        "url": "https://devpost.com/software/briefly-lx5dce",
+        "tagline": "An AI assistant to help Lawyers manage clients"
+    },
+    {
+        "title": "trialmatch.ai",
+        "url": "https://devpost.com/software/trial-match-ai",
+        "tagline": "Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own."
+    },
+    {
+        "title": "ServiceLater",
+        "url": "https://devpost.com/software/servicelater",
+        "tagline": "ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to spot patterns and recommend next-gen products with business justification."
+    },
+    {
+        "title": "Haven",
+        "url": "https://devpost.com/software/haven-536r1q",
+        "tagline": "Hospital command center powered by context-aware agentic AI that alerts nurses, unifies EHR data, and answers patient questions, improving understanding and reducing response delays and clinical error"
+    },
+    {
+        "title": "DIAL(*)",
+        "url": "https://devpost.com/software/dial-4rqzc3",
+        "tagline": "How we booked an SF Luxury Hotel for $158 "
+    },
+    {
+        "title": "Bob",
+        "url": "https://devpost.com/software/bob-vj43mq",
+        "tagline": "AR glasses for physical work. It sees what you see, hears what you hear, and gives real-time responses to help you build anything."
+    },
+    {
+        "title": "FaceTimeOS: AI Mac Agent",
+        "url": "https://devpost.com/software/facetime-macos-ai-agent",
+        "tagline": "FaceTime to talk, see, and control your Macbook with AI Agents"
+    },
+    {
+        "title": "Agent Santa",
+        "url": "https://devpost.com/software/agent-santa",
+        "tagline": "Agent Santa is a multi-agent system where personality-based agents connect, understand relationships, and deliver perfect personalized gifts end-to-end with payments, intelligently and effortlessly."
+    },
+    {
+        "title": "Synapse",
+        "url": "https://devpost.com/software/knight-hacks",
+        "tagline": "Synapse isn’t another assistant — it’s the nervous system of AI itself, where specialized agents think together to power the next era of intelligent collaboration."
+    },
+    {
+        "title": "PowerLegal",
+        "url": "https://devpost.com/software/eagleeye-powerlegal",
+        "tagline": "What if AI agents could work together like a real legal team? Our multi-agent system can process a complex legal case that would take hours manually."
+    },
+    {
+        "title": "Brydge",
+        "url": "https://devpost.com/software/brydge",
+        "tagline": "Presenting Brydge: the AI orchestration platform that turns scattered engineering knowledge into automated workflows, transforming hours of context-switching into just minutes of autonomous execution"
+    },
+    {
+        "title": "Hardware Context Protocol (MCP for Hardware)",
+        "url": "https://devpost.com/software/hardware-context-protocol",
+        "tagline": "Giving AI a physical embodiment for the world. Control multiple hardware platforms cooperatively via LLM prompts. Deployed with a custom voice-activated autonomous chef robot."
+    },
+    {
+        "title": "Curserve",
+        "url": "https://devpost.com/software/curserve",
+        "tagline": "Introducing Curserve: a fast and scalable server-side engine for agentic coding."
+    },
+    {
+        "title": "Homi",
+        "url": "https://devpost.com/software/homi-5mxbnw",
+        "tagline": "Let AI build the listing and you enjoy the stay."
+    },
+    {
+        "title": "darwin.",
+        "url": "https://devpost.com/software/darwin-w6fez0",
+        "tagline": "evolve coding agents through pvp and reinforcement on web3."
+    },
+    {
+        "title": "Orion",
+        "url": "https://devpost.com/software/orion-p5ayks",
+        "tagline": "AI-powered wildfire operations dashboard with autonomous agents, live video streaming, and voice control—transforming emergency response through real-time intelligence."
+    },
+    {
+        "title": "EduFlow AI",
+        "url": "https://devpost.com/software/eduflow-ai",
+        "tagline": "Turn 2-hour lectures into flashcards in minutes! AI agents auto-generate quizzes, notes, and summaries from any material."
+    },
+    {
+        "title": "PrivAds",
+        "url": "https://devpost.com/software/aura-e1marq",
+        "tagline": "The Privacy-First AI Ad Network"
+    },
+    {
+        "title": "Project No Cap",
+        "url": "https://devpost.com/software/project-no-cap",
+        "tagline": "Project NoCap: Bringing clarity to the chaos of misinformation through real-time AI verification."
+    },
+    {
+        "title": "MIFY",
+        "url": "https://devpost.com/software/mify",
+        "tagline": "Medical Insights For You!"
+    },
+    {
+        "title": "Hermes",
+        "url": "https://devpost.com/software/hermes-hm4o9l",
+        "tagline": "See the world. Speak its stories."
+    },
+    {
+        "title": "MediSnap",
+        "url": "https://devpost.com/software/medsnap-2ysgxk",
+        "tagline": "Voice-activated AR vision for clinical precision"
+    },
+    {
+        "title": "Remixify",
+        "url": "https://devpost.com/software/remixify",
+        "tagline": "Don't scroll Reels, scroll Remixify.\r\n"
+    },
+    {
+        "title": "Simply Law",
+        "url": "https://devpost.com/software/lexiloop",
+        "tagline": "Simply Law automates the legal workflow with AI agents that extract key information, draft client responses, and streamline case management empowering attorneys to focus on strategy, not paperwork."
+    },
+    {
+        "title": "Research Paper",
+        "url": "https://devpost.com/software/research-paper",
+        "tagline": "This is paper is on Multi Agent Reinforcement learning"
+    },
+    {
+        "title": "Product Optimizer – AI-Powered SEO &amp; Media Agent",
+        "url": "https://devpost.com/software/product-optimizer-ai-powered-seo-media-agent",
+        "tagline": "An AI-powered AgentCore system that helps Amazon sellers boost visibility by automating SEO optimization, keyword analysis, and media enhancement using AWS Bedrock and serverless AI agents."
+    },
+    {
+        "title": "FinMate",
+        "url": "https://devpost.com/software/finmate-gj93c8",
+        "tagline": "Just started your career? FinMate is your AI-powered advisor for choosing healthcare, savings, and retirement benefits, all personalized to help you achieve your financial goals. \r\n"
+    },
+    {
+        "title": "TaskFlow",
+        "url": "https://devpost.com/software/taskflow-qv6z7m",
+        "tagline": "TaskFlow is a smart productivity copilot that turns screenshots into organized Jira tasks, extracting due dates, descriptions, and labels instantly to simplify your workflow."
+    },
+    {
+        "title": "Spendify",
+        "url": "https://devpost.com/software/spendify",
+        "tagline": "Smarter spending, brighter future."
+    },
+    {
+        "title": "Province",
+        "url": "https://devpost.com/software/province",
+        "tagline": "An AI-native tax filing agent system that turns complex tax prep into a natural conversation by extracting data from W2 and 1099s, auto-filling 1040 forms, and explaining calculations naturally."
+    },
+    {
+        "title": "Vulkan",
+        "url": "https://devpost.com/software/vulkan-rtjsup",
+        "tagline": "AI DevOps agent that auto-fixes production issues in real-time. Tests solutions in sandbox, deploys verified fixes. Human approval for critical ops."
+    },
+    {
+        "title": " Hybrid Grid Balancing using MARL ",
+        "url": "https://devpost.com/software/hybrid-grid-balancing-using-marl-lkiva0",
+        "tagline": "Moving Beyond SCADA: Decentralized AI Agents for Optimal Renewable Integration and Fair Power Allocation."
+    },
+    {
+        "title": "Piatto",
+        "url": "https://devpost.com/software/piatto",
+        "tagline": "Meet Piatto - the AI chef that designs recipes just for you and cooks along, step by step."
+    },
+    {
+        "title": "Echo - An AI powered Support Assistant",
+        "url": "https://devpost.com/software/echo-an-ai-powered-support-assistant",
+        "tagline": "Your website’s smartest support assistant."
+    },
+    {
+        "title": "ReviveAgent",
+        "url": "https://devpost.com/software/reviveagent",
+        "tagline": "Stop wasting time on dependency hell and legacy drag. Our ReviveAgent, a self-improving AI, resolves conflicts, refactors code, and eliminates technical debt, instantly unlocking 100% feature velocity"
+    },
+    {
+        "title": "ERA (ERA Replicating Agents)",
+        "url": "https://devpost.com/software/era-era-replicating-agents",
+        "tagline": "ERA is a self-improving AI that builds other AIs — generating, testing, and refining agents that evolve into reusable tools, expanding its intelligence with every iteration."
+    },
+    {
+        "title": "the convergence",
+        "url": "https://devpost.com/software/the-convergence",
+        "tagline": " Where cutting-edge AI infrastructure meets autonomous learning - agents that improve through experience, collaboration, and evolution."
+    },
+    {
+        "title": "DocuLytics",
+        "url": "https://devpost.com/software/doculytics",
+        "tagline": "An Intelligent Analytics Tool which generates complex Insights from Docusign E-Signature API data."
+    },
+    {
+        "title": "Agent Unblind",
+        "url": "https://devpost.com/software/agent-unblind",
+        "tagline": "Agent Unblind handles sending email to customer, generating invoice, and take a photo and analyze the photo along with prompt, auto photo capturing system of thief upon our motion detection.\r\n"
+    },
+    {
+        "title": "Iris",
+        "url": "https://devpost.com/software/iris-289wtl",
+        "tagline": "A better, agentic Siri."
+    },
+    {
+        "title": "VoyAIge",
+        "url": "https://devpost.com/software/voyaige-1ag3oq",
+        "tagline": "VoyAIge turns corporate chaos into calm. Our AI agent books flights, stores receipts, and streamlines reimbursements; your smart companion for business travel."
+    },
+    {
+        "title": "Good Studio",
+        "url": "https://devpost.com/software/good-studio",
+        "tagline": "AI-powered microsite builder for small nonprofits and community organizations"
+    },
+    {
+        "title": "SafeDrive",
+        "url": "https://devpost.com/software/safedrive-a25tel",
+        "tagline": "An AI-powered system for detecting hazardous driving behavior such as fatigue to enhance road safety through real-time driver monitoring."
+    },
+    {
+        "title": "UniPilot - Study Abroad AI App",
+        "url": "https://devpost.com/software/unipilot-study-abroad-ai-app",
+        "tagline": "UniPilot is an AI Copilot for international students. Using a visa Interview simulator, it gives students a confidence score and critique for flawless journey. Reducing the stress of studying abroad."
+    },
+    {
+        "title": "FoodConnect",
+        "url": "https://devpost.com/software/foodlink-lknif8",
+        "tagline": "Connecting surplus to sustenance—AI agents powering every plate saved."
+    },
+    {
+        "title": "Darwin",
+        "url": "https://devpost.com/software/darwin-cmfysv",
+        "tagline": "Darwin evolves better tool-writing AI. Models compete to generate tools. Semgrep scans. Weak code dies. Strong code survives. Over generations, the system learns which species excel at which tools."
+    },
+    {
+        "title": "Lexiq ",
+        "url": "https://devpost.com/software/lexiq-5ib8xr",
+        "tagline": "Secure AI assistant for legal case analysis and discovery"
+    },
+    {
+        "title": "TidyShot",
+        "url": "https://devpost.com/software/tidyshot",
+        "tagline": "Guard every pixel. Secure every secret."
+    },
+    {
+        "title": "The Turing Werewolf",
+        "url": "https://devpost.com/software/the-turing-werewolf",
+        "tagline": "The Turing Werewolf turns the classic social deduction game Werewolf into a solo experience powered. Each player you meet is a Chrome Prompt API that debates, and deceives, all running locally."
+    },
+    {
+        "title": "BitYield Protocol",
+        "url": "https://devpost.com/software/bityield-protocol",
+        "tagline": "A Bitcoin Native Yield Optimization protocol with automated optimization through AI Agents across multiple protocols on Starknet .\r\n\r\n"
+    },
+    {
+        "title": "AegisAgent - An insurance-claim app fully developed by Kiro",
+        "url": "https://devpost.com/software/aegisagent-an-insurance-claim-app-fully-developed-by-kiro",
+        "tagline": "AegisAgent transforms manual insurance claim reviews into an automated, explainable multi-agent process, combining evidence curation, policy interpretation, and compliance reasoning through AWS-Kiro."
+    },
+    {
+        "title": "Forget Me Not",
+        "url": "https://devpost.com/software/forget-me-not-pqkj7y",
+        "tagline": "Forget Me Not is an AI platform letting dementia patients relive memories through personalized virtual experiences while giving caregivers insights into engagement."
+    },
+    {
+        "title": "FastFacts",
+        "url": "https://devpost.com/software/fast-fact",
+        "tagline": "We verify claims  live with Agentic AI"
+    },
+    {
+        "title": "D-RAG",
+        "url": "https://devpost.com/software/d-rag",
+        "tagline": "The GitHub for AI teams and agents. A collaborative platform that lets your LLMs share, version, and build context together. Enhance your LLM's abilities by sharing context over multiple clients.  "
+    },
+    {
+        "title": "DataBridge",
+        "url": "https://devpost.com/software/databridge-riu1ek",
+        "tagline": "Your Data, Our Bridge!"
+    },
+    {
+        "title": "Doodle World",
+        "url": "https://devpost.com/software/doodle-world",
+        "tagline": "Doodling as easy as googling.\r\nGoogle indexed the known world. We let you rebuild its past and imagine its future."
+    },
+    {
+        "title": "Dash",
+        "url": "https://devpost.com/software/tbd-3kf6mh",
+        "tagline": "Preventative AI driver monitoring with Arduino sensors and instant alerts."
+    },
+    {
+        "title": "Yumi",
+        "url": "https://devpost.com/software/yumi",
+        "tagline": "The agentic social food network. You bring your taste. Your friends bring the vibe. AI agents orchestrate the rest. You, Me, and Food."
+    },
+    {
+        "title": "GuardianEye",
+        "url": "https://devpost.com/software/guardianeye",
+        "tagline": "The Guardian for Real-Time Elderly Emergency Response"
+    },
+    {
+        "title": "Market Mayhem",
+        "url": "https://devpost.com/software/market-mayhem",
+        "tagline": "Play the Market and outsmart the Villain in an agent-powered investing game that stress-tests your strategy."
+    },
+    {
+        "title": "RedBot (The Autonomous Security System)",
+        "url": "https://devpost.com/software/the-redbot-autonomous-security-system",
+        "tagline": "RedBot is an autonomous AI red team that runs 24/7, simulating attacks, learning from each one, and generating instant fixes—turning reactive security into proactive defense."
+    },
+    {
+        "title": "Bugzooka",
+        "url": "https://devpost.com/software/united-hackers",
+        "tagline": "Meet BugZooka; the AI agent that brings a bazooka to your bug fight. It hunts, clicks, and breaks your app like a real user, firing back detailed bug reports with the receipts you need."
+    },
+    {
+        "title": "Global Pathfinder",
+        "url": "https://devpost.com/software/talktomytabs-ai-reading-research-assistant",
+        "tagline": "An Agentic AI that turns complex immigration PDFs into real-time voice conversations using Gemini 3, ElevenLabs, and Mistral OCR."
+    },
+    {
+        "title": "Edify AI",
+        "url": "https://devpost.com/software/edify-ai-9jhvdi",
+        "tagline": "Edify AI revolutionizes education with AI-powered courses, immersive AR classrooms, and AI-inspired career tools that prepare you for success. Unlock personalized, future-ready learning today!"
+    },
+    {
+        "title": "Sahayak AI",
+        "url": "https://devpost.com/software/sahayak-ai-uok95q",
+        "tagline": "Vertical Copilot for Education - AI for the Next Generation of Indian Teacher"
+    },
+    {
+        "title": "StyleMyStudy",
+        "url": "https://devpost.com/software/stylemystudy",
+        "tagline": "StyleMyStudy is an AI-powered learning assistant that adapts explanations into storytelling, analogies, or step-by-step formats to match each student’s learning style."
+    },
+    {
+        "title": "clickless AI ",
+        "url": "https://devpost.com/software/clickless-ai",
+        "tagline": "it searches and applies for jobs on your behalf by automating the web browser.not only jobs but it also automates your daily tasks."
+    },
+    {
+        "title": "Trader's Co-Pilot",
+        "url": "https://devpost.com/software/trader-s-co-pilot",
+        "tagline": "Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 pro tools for safe blockchain interaction, MEV defense, signals, and agent payments."
+    },
+    {
+        "title": "FloodGuard",
+        "url": "https://devpost.com/software/floodguard-okgzty",
+        "tagline": "FloodGuard turns rising tides into early alerts—an AI-powered system that predicts, detects, and coordinates responses to floods, protecting lives, property, and cities in real time."
+    },
+    {
+        "title": "memoray",
+        "url": "https://devpost.com/software/memoray",
+        "tagline": "Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memoray builds a second version of your life through smart glasses—one that never fades."
+    },
+    {
+        "title": "Grindstone",
+        "url": "https://devpost.com/software/grindstone",
+        "tagline": "A Mastra AI-Agent powered goal tracker that gamifies your goals."
+    },
+    {
+        "title": "The Brickyard",
+        "url": "https://devpost.com/software/the-brickyard",
+        "tagline": "A Cloudfare hosted website where AI agents (Gemini, Claude, LLaMA, Grok, etc.) compete to design LEGO builds via Snowflake APIs, cached in a SQLite database, rendered in 3D, and ranked by user voters."
+    },
+    {
+        "title": "Seekho (सीखो)",
+        "url": "https://devpost.com/software/seekho",
+        "tagline": "AI that makes education truly accessible - transforming any video into personalized learning experiences that adapt to every student's unique way of learning."
+    },
+    {
+        "title": "Conversenses",
+        "url": "https://devpost.com/software/conversenses",
+        "tagline": "Real-time AR &amp; AI coach for better conversations and addressing the fear of public speaking"
+    },
+    {
+        "title": "VL-ADK",
+        "url": "https://devpost.com/software/vl-adk",
+        "tagline": "A \"psuedo\" VLA model leveraging a fleet of autonomous ADK agents."
+    },
+    {
+        "title": "CityRoots.ai",
+        "url": "https://devpost.com/software/cityroots",
+        "tagline": "CityRoots: Understand proposals that affect your parks. See the impact, shape the future."
+    },
+    {
+        "title": "Health Guardian AI",
+        "url": "https://devpost.com/software/health-guardian-ai",
+        "tagline": "Health Guardian AI helps users make smarter food choices by combining food recognition, medical report parsing, and real-time alerts to track health risks and the environmental impact of purchases."
+    },
+    {
+        "title": "Atlas",
+        "url": "https://devpost.com/software/atlas-tlfpkz",
+        "tagline": "Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management."
+    },
+    {
+        "title": "Agent Zero",
+        "url": "https://devpost.com/software/agentzero-tnh9p3",
+        "tagline": "False and duplicate invoices cost AP teams money. By routing extraction, matching, and anomaly checks to our best fit model, our benchmark-driven AI provides proof/confidence for acceptance review."
+    },
+    {
+        "title": "HR Audit",
+        "url": "https://devpost.com/software/the-hr-audit",
+        "tagline": "Complete AI agent ecosystem for fraud detection &amp; banking. Multiple specialized agents handle alerts, voice calls, account protection, and transactions. Dreaming to serve 1.7B without smartphones."
+    },
+    {
+        "title": "Caladrius",
+        "url": "https://devpost.com/software/caladrius",
+        "tagline": "The Privacy-First AI Triage Assistant"
+    },
+    {
+        "title": "A11y Tools",
+        "url": "https://devpost.com/software/a11y-b8xg5i",
+        "tagline": "A Google Chrome extension that elevates the limitations of people with disabilities and makes web pages accessible to a wider audience."
+    },
+    {
+        "title": "Exploding Kittens : Arcade Edition",
+        "url": "https://devpost.com/software/exploding-kittens-arcade-edition",
+        "tagline": "The card game, rebuilt with arcade energy."
+    },
+    {
+        "title": "CUSSBOT ( Skip the wait, even when you're late)",
+        "url": "https://devpost.com/software/cussbot-skip-the-wait-even-when-you-re-late",
+        "tagline": "Frustrated of waiting on call with customer support and not spending time with your girlfriend? Want to surprise her on a date. CUSSBOT an AI powered agent does it all in just a few clicks."
+    },
+    {
+        "title": "BrainSafe",
+        "url": "https://devpost.com/software/brainsafe-browser",
+        "tagline": "AI-powered browser extension that protects infant brain development by detecting, modifying and filtering harmful digital content in real time across different video platforms like YouTube, etc."
+    },
+    {
+        "title": "Alzora",
+        "url": "https://devpost.com/software/alzora-ai",
+        "tagline": "Empowering families with AI-driven Alzheimer’s care"
+    },
+    {
+        "title": "PrepWise",
+        "url": "https://devpost.com/software/prepwise-ypw1gv",
+        "tagline": "Practice. Perfect. Perform — with AI-driven interviews."
+    },
+    {
+        "title": "Marionette - The On-Device Multimodal Al Agent",
+        "url": "https://devpost.com/software/marionette-the-on-device-multimodal-ai-agent",
+        "tagline": "Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrome’s built-in AI APIs — Prompt, Summarizer, Rewriter, and Writer."
+    },
+    {
+        "title": "CardOS",
+        "url": "https://devpost.com/software/cardos",
+        "tagline": "Applying for a credit card is painful &amp; most rewards don’t fit individual needs. We’re solving this with AI agents that analyze transaction history, tailor terms &amp; perks, &amp; balance bank profitability."
+    },
+    {
+        "title": "Agent Evan",
+        "url": "https://devpost.com/software/agent-evan",
+        "tagline": "Is this AGI? The ultimate desktop agent that takes action - do anything, from anywhere."
+    },
+    {
+        "title": "Superhuman",
+        "url": "https://devpost.com/software/superhuman",
+        "tagline": "Swarm of AI-Agents for Rapid Suspect Search - Making Cold Case Investigation 10x More Efficient "
+    },
+    {
+        "title": "dosed",
+        "url": "https://devpost.com/software/health-2b0eay",
+        "tagline": "Demystifying Prescriptions"
+    },
+    {
+        "title": "Terminator",
+        "url": "https://devpost.com/software/terminator-g02u6t",
+        "tagline": "A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to simulation that you can control and experiment or play with."
+    },
+    {
+        "title": "OwlConnect",
+        "url": "https://devpost.com/software/owlconnect",
+        "tagline": "A smart mentorship matchmaking platform for Rice students. Instead of random pairing or manual browsing, the platform uses multi-agent negotiation to match mentees with the most suitable mentors."
+    },
+    {
+        "title": "Powwow! your personal conference chief-of-staff",
+        "url": "https://devpost.com/software/powwow-your-personal-conference-chief-of-staff",
+        "tagline": "Make the most of you conference experience with a personalised schedule, just-in-time context, relevant connections, and more!"
+    },
+    {
+        "title": "AgentShell: From Model Context to Control",
+        "url": "https://devpost.com/software/agent-shell",
+        "tagline": "AgentShell redefines the Model Context Protocol (MCP) from \"information retrieval\" to \"body control,\" enabling a cloud-based AI agent to inhabit cameras as its physical embodiment."
+    },
+    {
+        "title": "The Cart-to-Kitchen AI Assistant on GKE",
+        "url": "https://devpost.com/software/cart-to-kitchen-gke-ai-assistant",
+        "tagline": "An AI assistant to spice up your online grocery shopping experience!"
+    },
+    {
+        "title": "Vigil AI",
+        "url": "https://devpost.com/software/vigil-ai",
+        "tagline": "Vigil AI: Securing financial microservices with autonomous, real-time fraud mitigation."
+    },
+    {
+        "title": "Tunnel",
+        "url": "https://devpost.com/software/tunnel-dqv1k4",
+        "tagline": "AI Agents for Simulated Market Research"
+    },
+    {
+        "title": "LangSketch",
+        "url": "https://devpost.com/software/langsketch",
+        "tagline": "LangSketch is a visual agent builder that leverages Databricks for data processing and Martian rule routing for affordable drag-and-drop agent creation, making agentic workflows accessible for all."
+    },
+    {
+        "title": "ChessMate",
+        "url": "https://devpost.com/software/chessmate-nwygvq",
+        "tagline": "ChessMate is a smart chess companion: play on a web app or real board with motorized pieces, get instant coaching, and voice controls for accessibility, making chess inclusive and interactive."
+    },
+    {
+        "title": "Vraille",
+        "url": "https://devpost.com/software/vraille",
+        "tagline": "Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gemini-Powered Glasses &amp; Dynamic Braille"
+    },
+    {
+        "title": "Evident AI",
+        "url": "https://devpost.com/software/evident-ai",
+        "tagline": "Automatically transforms bodycam footage into professional evidence reports using AI."
+    },
+    {
+        "title": "socialCRM",
+        "url": "https://devpost.com/software/socialcrm",
+        "tagline": "Turning creators into data-driven businesses through the power of AI."
+    },
+    {
+        "title": "Tango",
+        "url": "https://devpost.com/software/tango-q37d4z",
+        "tagline": "Siri if it actually worked on your Mac. \r\n\r\n"
+    },
+    {
+        "title": "Stacy",
+        "url": "https://devpost.com/software/stacy-g7zptj",
+        "tagline": "Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and dispatches to the police. Built to keep you safe, for the moments when every second matters."
+    },
+    {
+        "title": "LeafPilot",
+        "url": "https://devpost.com/software/leafpilot",
+        "tagline": "LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concept, upload rough notes or record your lecture's audio, and you'll receive clean PDF results with embedded animations!"
+    },
+    {
+        "title": "Lavoe",
+        "url": "https://devpost.com/software/lavoe",
+        "tagline": "Cursor for Music Production"
+    },
+    {
+        "title": "Lookout",
+        "url": "https://devpost.com/software/lookout-9aeqrb",
+        "tagline": "Multi-agent AI system that coordinates security cameras to detect unusual behaviors"
+    },
+    {
+        "title": "Puppeteer",
+        "url": "https://devpost.com/software/puppeteer-7429qv",
+        "tagline": "Bring your code to life. Orchestrate your code in the runtime."
+    },
+    {
+        "title": "ElitOrcAI",
+        "url": "https://devpost.com/software/elitorcai",
+        "tagline": "AI-powered clinical decision support that chains vector search, medical imaging, and expert reasoning to provide instant diagnostic assistance for healthcare professionals."
+    },
+    {
+        "title": "PetFit Ai",
+        "url": "https://devpost.com/software/petfit-ai",
+        "tagline": "Compassion Meets AI, Accessible Pet Care for All."
+    },
+    {
+        "title": "RaiderClaim",
+        "url": "https://devpost.com/software/cool-project-jbd71v",
+        "tagline": "RaiderClaim reinvents lost and found with a twist — report or recover items, earn Solana rewards, and even use a smart lock system for safe returns. Made for students by students."
+    },
+    {
+        "title": "Cartmate",
+        "url": "https://devpost.com/software/cartmate-mygdtk",
+        "tagline": "An Ai-powered shopping experience"
+    },
+    {
+        "title": "RepoStory",
+        "url": "https://devpost.com/software/placeholder-it3zq7",
+        "tagline": "Learn about the process of how any GitHub project came to be! Get a timeline of the project construction process, learn about the technologies used, and gain insights to the development process."
+    },
+    {
+        "title": "Drishti AI Navigator",
+        "url": "https://devpost.com/software/drishti-ai-navigator",
+        "tagline": "Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore and Nova models to break down accessibility barriers for millions."
+    },
+    {
+        "title": "Dental Assessment GPT",
+        "url": "https://devpost.com/software/dental-assessment-gpt",
+        "tagline": "Dental GPT that generates evidence-based dental assessments and treatment plans from case data. Treatment planning is critical for patient care provided + revenue generation for dental clinics."
+    },
+    {
+        "title": "Bridge Agent: Lightning-Powered Transcripts",
+        "url": "https://devpost.com/software/bridge-agent-lightning-powered-transcripts",
+        "tagline": "Send a YouTube link, pay 21 sats over Lightning, and get an instant transcript + summary — while automatically donating to the Human Rights Foundation."
+    },
+    {
+        "title": "Official Storyblok MCP Server",
+        "url": "https://devpost.com/software/official-storyblok-mcp-server-production-ready",
+        "tagline": "Remote MCP server for Storyblok with OAuth authentication, enterprise security, and encrypted token management. Bridges the gap between community vs official servers, accessible for any AI agent."
+    },
+    {
+        "title": "Compliance Sentinel",
+        "url": "https://devpost.com/software/compliance-sentinel",
+        "tagline": "An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection"
+    },
+    {
+        "title": "Flow Marketplace",
+        "url": "https://devpost.com/software/the-haggle",
+        "tagline": "An AI marketplace where personalized agents negotiate deals on behalf of buyers and sellers"
+    },
+    {
+        "title": "Heydesk",
+        "url": "https://devpost.com/software/heydesk",
+        "tagline": "Heydesk is an Agentic customer support platform that lets companies provide instant assistance via chat, manage tickets efficiently, and deliver 24/7 support without a large team."
+    },
+    {
+        "title": "NeroFashion",
+        "url": "https://devpost.com/software/neroai",
+        "tagline": "Bringing online shopping closer to reality with AI."
+    },
+    {
+        "title": "Scolarmatch",
+        "url": "https://devpost.com/software/scolarmatch",
+        "tagline": "Billions in scholarships go unclaimed. ScholarMatch’s AI agents match students to the right opportunities and even draft applications for them.”"
+    },
+    {
+        "title": "Hive",
+        "url": "https://devpost.com/software/hive-140hcn",
+        "tagline": "Too many students study alone. Hive helps connect students across borders and language barriers, offering a solution to students in environments lacking support needing to chase their dreams alone."
+    },
+    {
+        "title": "Agentic Analytics Readiness",
+        "url": "https://devpost.com/software/agentic-analytics-readiness",
+        "tagline": "Agentic-ready analytics starts here: Tableau Next becomes your hub to triage, take action, and continuously improve the analytics assets in Tableau Cloud your team already relies on."
+    },
+    {
+        "title": "Castanea",
+        "url": "https://devpost.com/software/castanea",
+        "tagline": "Three AI agents working in sync to research, analyze, and create — freeing you to focus on ideas that matter."
+    },
+    {
+        "title": "Raincheck",
+        "url": "https://devpost.com/software/raincheck-gw1fbp",
+        "tagline": "For businesses who have to cancel activities due to bad weather. This agentic workflow calls and reschedules customers using voice ai"
+    },
+    {
+        "title": "agentic-chessmaster",
+        "url": "https://devpost.com/software/agentic-chessmaster",
+        "tagline": "Agentic-ChessMaster is an AI-driven chess platform with voice, move tracking, and smart agents—enhancing play, learning, and analysis in human vs AI and multiplayer modes."
+    },
+    {
+        "title": "FleetAgents",
+        "url": "https://devpost.com/software/fleetagents",
+        "tagline": "An AI-powered HR help desk that lets managers create custom voice agents to handle employee questions 24/7"
+    },
+    {
+        "title": "Productive x - @ by Anthropic, VAPI &amp; Composio  ",
+        "url": "https://devpost.com/software/productive-x-kyb615",
+        "tagline": "About ProductiveX AI The Spark Watching friends drown in email chaos and calendar conflicts inspired this AI-powered productivity orchestrator."
+    },
+    {
+        "title": "Resonance AI",
+        "url": "https://devpost.com/software/resonance-ai-1hjbf0",
+        "tagline": "AI-powered political intelligence that creates culturally authentic campaign messaging"
+    },
+    {
+        "title": "Real Search Australia",
+        "url": "https://devpost.com/software/real-search-australia-cd381g",
+        "tagline": "Explore Real Estate Like Never Before"
+    },
+    {
+        "title": "Dispatch AI",
+        "url": "https://devpost.com/software/dispatch-ai-rcd10m",
+        "tagline": "Dispatch AI powers precise, real-time delivery routing with AI and Google Maps—turning every address into a smart, adaptive promise kept."
+    },
+    {
+        "title": "AgenSupport",
+        "url": "https://devpost.com/software/agensupport",
+        "tagline": "Goodbye Long Customer Service Calls, Hello Agen"
+    },
+    {
+        "title": "Healthcare Worker Burnout Prevention &amp; Wellness Platform",
+        "url": "https://devpost.com/software/healthcare-worker-burnout-prevention-wellness-platform",
+        "tagline": "AI-driven platform that predicts healthcare worker burnout risk, sends early alerts to managers, and prevents costly turnover - saving hospitals millions in retention costs."
+    }
+]

@@ -1,0 +1,598 @@
+[
+    {
+        "title": "NeuroDetect",
+        "url": "https://devpost.com/software/neurodetect-rst574",
+        "tagline": "“Neuro Detect is an AI-powered assistant that helps radiologists analyze brain MRI scans faster with clear, explainable insights.”",
+        "tags": [
+            "render",
+            "fastapi",
+            "html",
+            "css",
+            "javascript",
+            "kaggle",
+            "geminiapi",
+            "tensorflow"
+        ],
+        "like_count": 4,
+        "comment_count": 4
+    },
+    {
+        "title": "i18n meet",
+        "url": "https://devpost.com/software/i18n-meet",
+        "tagline": "Your personal translation agent for video calls. Speak any language, everyone hears their own.",
+        "tags": [
+            "next.js",
+            "drizzle"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "BeePrepared",
+        "url": "https://devpost.com/software/beeprepared",
+        "tagline": "Transform 2h lectures into elite study kits in 3 mins. Get AI notes, cards, and mock exams on a node-based canvas. Watch bee agents build your knowledge &amp; earn Honey Points. Learn with intention!",
+        "tags": [
+            "next.js-16.1",
+            "react-19.2",
+            "typescript-5.7",
+            "tailwindcss-4.0",
+            "gsap-3.14",
+            "framer-motion-11.15",
+            "react-flow-12.3",
+            "tanstack-query-5.62",
+            "zustand-5.0",
+            "radix-ui",
+            "lucide-react",
+            "fastapi",
+            "python-3.11",
+            "supabase-postgresql",
+            "google-gemini-2.0",
+            "pymupdf",
+            "python-pptx",
+            "ffmpeg",
+            "vercel"
+        ],
+        "like_count": 4,
+        "comment_count": 0
+    },
+    {
+        "title": "MarketMind",
+        "url": "https://devpost.com/software/marketmind-vlobg1",
+        "tagline": "Sandbox world of financial AI agents to help you learn trading.",
+        "tags": [
+            "python",
+            "gemini",
+            "typescript",
+            "react",
+            "fastapi",
+            "recharts",
+            "openrouter",
+            "lovable"
+        ],
+        "like_count": 10,
+        "comment_count": 0
+    },
+    {
+        "title": "SpeakCode",
+        "url": "https://devpost.com/software/speakcode-mxv98c",
+        "tagline": "SpeakCode helps developers practice technical interviews by evaluating both how they code and how they communicate.",
+        "tags": [
+            "node.js",
+            "passport-js"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Entropy",
+        "url": "https://devpost.com/software/entropy-36yt4l",
+        "tagline": "Entropy is an AI security tester with no setup. All you do is paste a website URL, and an AI agent navigates your website in front of you, testing for security issues like XSS and SQL injection.",
+        "tags": [
+            "react",
+            "firebase",
+            "gemini",
+            "python",
+            "javascript",
+            "html",
+            "css",
+            "vite",
+            "tailwind",
+            "fastapi",
+            "browser-use",
+            "langchain"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "BizBot",
+        "url": "https://devpost.com/software/bizbot-1m45lk",
+        "tagline": "A robot event photographer that captures moments, curates the best frames, and publishes them instantly so guests can relive the event in real time.",
+        "tags": [
+            "fastapi",
+            "pytorch",
+            "yolo",
+            "opencv",
+            "supabase",
+            "gemini",
+            "arduino"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Ascend",
+        "url": "https://devpost.com/software/ascend-eaiqno",
+        "tagline": "Autonomous UI Agent",
+        "tags": [
+            "fast-api",
+            "gemini",
+            "agentic-ai",
+            "react"
+        ],
+        "like_count": 4,
+        "comment_count": 1
+    },
+    {
+        "title": "NestFinder",
+        "url": "https://devpost.com/software/nestfinder",
+        "tagline": "\"AI-powered apartment finder that calculates real commute times for all transport modes and optimizes for couples. Stop juggling tabs—let our agents find your perfect nest.\"",
+        "tags": [
+            "python",
+            "solace-agent-mesh",
+            "yellowcakeapi",
+            "typescript",
+            "css",
+            "react",
+            "next.js"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "PhishGuard",
+        "url": "https://devpost.com/software/phishguard-qxkr2l",
+        "tagline": "91% of cyberattacks start with phishing. PhishGuard uses 4 AI agents to analyze emails instantly—detecting typosquatting, manipulation tactics, and malicious URLs. Transparent AI you can trust.",
+        "tags": [
+            "python",
+            "fastapi",
+            "langgraph",
+            "langchain",
+            "anthropic",
+            "claude",
+            "chromadb",
+            "sentence-transformers",
+            "next.js",
+            "react",
+            "typescript",
+            "tailwindcss",
+            "postgresql",
+            "neon",
+            "chrome",
+            "virustotal",
+            "urlhaus"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Spectra",
+        "url": "https://devpost.com/software/s-e-n-t-r-a",
+        "tagline": "Spectra is a real-time AI agent monitoring solution for DeFi and crypto markets. It offers anomaly detection, kill switches, and compliance, ensuring safe, efficient, and transparent agent deployment.",
+        "tags": [
+            "frontend:-next.js-15",
+            "react-19",
+            "three.js-backend:-node.js",
+            "fastapi-blockchain:-solana",
+            "vercel",
+            "github",
+            "github-actions-devops-&-performance:-aws",
+            "solana",
+            "typescript",
+            "tailwind-css",
+            "sqlite",
+            "webgl",
+            "shadcn/ui",
+            "postgresql",
+            "supabase"
+        ],
+        "like_count": 6,
+        "comment_count": 0
+    },
+    {
+        "title": "LawSync.io",
+        "url": "https://devpost.com/software/law-sync-io",
+        "tagline": "Agents that monitor, submit, and analyze—so you stay compliant.",
+        "tags": [
+            "react",
+            "amazon-web-services",
+            "tonic.ai",
+            "youtori.com",
+            "cline"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "BriefME",
+        "url": "https://devpost.com/software/briefme-42j9kp",
+        "tagline": "BriefMe is your autonomous intelligence agent. It conducts deep research, synthesizes strategic insights, and generates interactive briefings and role-play scenarios to prep you for any meeting.",
+        "tags": [
+            "python",
+            "typescript",
+            "fastapi",
+            "next.js",
+            "react",
+            "tailwind-css",
+            "agentql",
+            "yutori",
+            "tonic-fabricate",
+            "anthropic-claude",
+            "elevenlabs",
+            "playwright",
+            "framer-motion",
+            "recharts",
+            "pydantic",
+            "jinja",
+            "fpdf2"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "Caption Express Agent ",
+        "url": "https://devpost.com/software/caption-express-agent",
+        "tagline": "Caption Express Agent analyzes your content and generates platform-optimized captions instantly. Choose your platform and tone Instagram hooks, YouTube SEO, or LinkedIn polish. No prompt engineering.",
+        "tags": [
+            "webpack",
+            "react",
+            "lucide",
+            "css",
+            "html5",
+            "javascript",
+            "typescript"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "ExtendAble - AI Robotic Arm Project",
+        "url": "https://devpost.com/software/robotic-arm-j4fmbq",
+        "tagline": "A voice-controlled 6-DoF robotic arm that uses computer vision, LLMs, and feedback-based control to locate, align with, and grasp objects from natural language commands.",
+        "tags": [
+            "python",
+            "opencv",
+            "lerobot",
+            "yolo",
+            "fastapi",
+            "uvicorn",
+            "grok",
+            "node.js",
+            "react",
+            "3dprinting",
+            "so-101",
+            "typescript"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "GoFish",
+        "url": "https://devpost.com/software/gofish-csronz",
+        "tagline": "The AI Assistant and Social Media Platform for the World's Favourite Pastime: Fishing",
+        "tags": [
+            "python",
+            "fastapi",
+            "pytorch",
+            "mongodb",
+            "atlas",
+            "moorche",
+            "ontario-habitat-geojson",
+            "maplibre",
+            "open-meteo-api",
+            "next.js",
+            "typescript",
+            "tailwind-css"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Barracua",
+        "url": "https://devpost.com/software/baracua",
+        "tagline": "AI Agent that helps blind people use the internet",
+        "tags": [
+            "javascript",
+            "gemini",
+            "deepgram",
+            "python",
+            "playwright",
+            "chrome"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "AI learning Assistant",
+        "url": "https://devpost.com/software/ai-learning-assistant-10qbd6",
+        "tagline": "AI can help students save time for there work, and they can learn anything with our AI in minutes",
+        "tags": [
+            "python",
+            "ai",
+            "streamlit",
+            "geminiapi"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Mental Health Chatbot",
+        "url": "https://devpost.com/software/mental-health-chatbot-nbpki3",
+        "tagline": "A 24/7 AI companion that listens, understands, and supports mental well-being instantly.",
+        "tags": [
+            "html",
+            "css",
+            "javascript",
+            "claude",
+            "python",
+            "node.js",
+            "php",
+            "flask",
+            "express.js"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "AI Desktop Companion (Glitch)",
+        "url": "https://devpost.com/software/ai-desktop-companion-glitch",
+        "tagline": "Meet Glitch: The JARVIS you dreamed of. A multimodal agent that doesn't just chat—it acts. Sees your screen, automates your OS. #AgenticAI",
+        "tags": [
+            "javascript",
+            "html5",
+            "css3",
+            "electron",
+            "pixijs",
+            "three.js",
+            "google",
+            "gemini",
+            "elevenlabs",
+            "nut.js",
+            "playwright",
+            "github",
+            "npm"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Portfolio-zahin",
+        "url": "https://devpost.com/software/portfolio-zahin",
+        "tagline": "My portfolio was made by replit AI agent and the detailed prompt was given by chatgpt then I got the portfolio in my device then locally changed the text by editing HTML and design by CSS ",
+        "tags": [
+            "html5",
+            "css3",
+            "javascript",
+            "replit"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "JARVIS A.I ",
+        "url": "https://devpost.com/software/jarvis-a-i",
+        "tagline": "“A smart, voice-controlled AI assistant that opens apps, browses the web, controls your PC, and talks with you—just like Iron Man’s JARVIS.” 🚀🤖",
+        "tags": [
+            "speechrecognition",
+            "pyttsx3",
+            "os-module",
+            "webbrowser-module",
+            "text-to-speech-(tts)",
+            "voice-recognition",
+            "ai-assistant",
+            "automation",
+            "desktop",
+            "python"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "ClaimSphere AI - Automated Claim Processing Agent",
+        "url": "https://devpost.com/software/claimsphere-ai-automated-claim-processing-agent",
+        "tagline": "AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, intelligent validation, and natural language queries.",
+        "tags": [
+            "paddleocr",
+            "ernie",
+            "fastapi",
+            "python",
+            "next.js",
+            "typescript",
+            "postgresql",
+            "camel-ai",
+            "ollama"
+        ],
+        "like_count": 5,
+        "comment_count": 0
+    },
+    {
+        "title": "LifeGraph",
+        "url": "https://devpost.com/software/lifestreak",
+        "tagline": "An AI agent with a hippocampus: it discovers hidden patterns across your health, learning &amp; creativity using Neo4j graphs, and time-travels through its own memory using MemVerge checkpoints.",
+        "tags": [
+            "neo4j",
+            "memverge",
+            "fastapi",
+            "memory-machine",
+            "neo4j-aura",
+            "python",
+            "react",
+            "recharts",
+            "tailwindcss",
+            "typescript",
+            "vercel",
+            "vite"
+        ],
+        "like_count": 0,
+        "comment_count": 1
+    },
+    {
+        "title": "NutriCare Agents",
+        "url": "https://devpost.com/software/nutricare-agents-oefn4b",
+        "tagline": "NutriCare Agents: Revolutionizing nutrition with AI-driven, personalized meal recommendations tailored to your health, tastes, and lifestyle — for a healthier, smarter tomorrow!",
+        "tags": [
+            "google",
+            "maps",
+            "javascript",
+            "places",
+            "api",
+            "next.js",
+            "react",
+            "tailwind",
+            "firebase",
+            "gemini",
+            "openai",
+            "google-cloud"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "campus-navigator-main",
+        "url": "https://devpost.com/software/campus-navigator-main",
+        "tagline": "Campus Navigator: Empowering students to access college info, report issues &amp; get support via AI chatbot. Admins resolve complaints efficiently, fostering a transparent campus community",
+        "tags": [
+            "frontend:-react",
+            "tailwind-css-backend:-python",
+            "supabase-ai-chatbot:-gemini-api-(google's-ai-platform)-database:-supabase-(postgresql-based)-cloud-services:-supabase-(hosting",
+            "authentication",
+            "and-real-time-database)-apis:-gemini-api-(ai-chatbot)",
+            "supabase",
+            "api"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "Medha Ai",
+        "url": "https://devpost.com/software/medha-ai-mb0496",
+        "tagline": "AI chatbot , It gives instantaneous answers for University related Queries",
+        "tags": [
+            "typescript",
+            "supabase",
+            "react",
+            "tailwind",
+            "postgresql",
+            "api",
+            "github",
+            "git",
+            "vercel"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "Fluxglove and VR",
+        "url": "https://devpost.com/software/fluxglove-and-vr",
+        "tagline": "Turn your hand into the ultimate controller. FluxGlove offers affordable, precise motion capture and haptics for gaming, design, and robotics.",
+        "tags": [
+            "arduino",
+            "python",
+            "mpu6050",
+            "flex",
+            "html5",
+            "css",
+            "javascript"
+        ],
+        "like_count": 8,
+        "comment_count": 1
+    },
+    {
+        "title": "Learning Assistant",
+        "url": "https://devpost.com/software/learning-assistant-shkxn7",
+        "tagline": "“Your class, amplified by AI.”",
+        "tags": [
+            "fastapi",
+            "digitalocean",
+            "next.js",
+            "react",
+            "gemini",
+            "livekit"
+        ],
+        "like_count": 1,
+        "comment_count": 0
+    },
+    {
+        "title": "Staxel",
+        "url": "https://devpost.com/software/staxel",
+        "tagline": "Interactive XR shopping experience for robotic store",
+        "tags": [
+            "openai",
+            "python",
+            "webxr",
+            "iwsdk"
+        ],
+        "like_count": 0,
+        "comment_count": 0
+    },
+    {
+        "title": "TripSync",
+        "url": "https://devpost.com/software/mu-u86lhg",
+        "tagline": "Multi Agent group chat with your friends to plan a trip or holiday",
+        "tags": [
+            "react",
+            "python",
+            "supabase",
+            "vercel"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "erm.ai",
+        "url": "https://devpost.com/software/erm-io",
+        "tagline": "AI Slack agent that watches chats and adds timely insights, auto-summarising progress into n8n for LinkedIn posts. Expandable with domain-tuned agents for law, tech, finance.",
+        "tags": [
+            "python",
+            "typescript",
+            "next.js",
+            "javascript",
+            "react"
+        ],
+        "like_count": 3,
+        "comment_count": 0
+    },
+    {
+        "title": "LES-01",
+        "url": "https://devpost.com/software/what2eat-etv6d0",
+        "tagline": "What2Eat is an AI assistant that tells you exactly what to eat based on your goals, preferences, and what's in your fridge. It provides personalized meals, recipes, and grocery lists instantly.",
+        "tags": [
+            "nextjs",
+            "typescript",
+            "tailwindcss",
+            "supabase",
+            "ai-sdk",
+            "shadcn/ui",
+            "react-hook-form",
+            "zod",
+            "vercel"
+        ],
+        "like_count": 2,
+        "comment_count": 0
+    },
+    {
+        "title": "AURA — Autonomous Unified Review Agent",
+        "url": "https://devpost.com/software/aura-autonomous-unified-review-agent",
+        "tagline": "AURA is an autonomous AI assistant that continuously reviews code, generates tests, detects issues, predicts regressions, and triggers automated actions — all with near-zero human intervention.",
+        "tags": [
+            "python",
+            "javascript",
+            "react",
+            "openi",
+            "postgress",
+            "node.js"
+        ],
+        "like_count": 4,
+        "comment_count": 3
+    }
+]
