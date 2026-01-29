@@ -277,6 +277,247 @@ response = session.get(protected_url)
 - Reddit r/webscraping
 - GitHub scraping projects
 
+## Real-World Use Case: Building a Devpost Project Scraper
+
+Let's walk through a practical example that demonstrates all the concepts we've learned. We'll build a scraper to collect winning projects from Devpost.
+
+### Project Overview
+**Goal**: Scrape Devpost to find AI agent projects that have won hackathons
+**Purpose**: Market research, competitive analysis, or finding inspiration for new projects
+
+### Step 1: Discovery Phase
+First, we need to understand how Devpost works:
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+def test_devpost_api():
+    """Test how Devpost returns data"""
+    url = "https://devpost.com/software/search"
+    params = {"query": "is:winner ai agents"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    
+    response = requests.get(url, params=params, headers=headers)
+    print(f"Status: {response.status_code}")
+    print(f"Content-Type: {response.headers.get('content-type')}")
+    
+    # Check if we get JSON or HTML
+    if 'application/json' in response.headers.get('content-type', ''):
+        data = response.json()
+        print(f"Found {len(data.get('software', []))} projects")
+    else:
+        print("Got HTML response")
+```
+
+### Step 2: Building the Scraper
+```python
+import requests
+import json
+import time
+
+def scrape_devpost_projects(query, max_pages=50):
+    """
+    Comprehensive Devpost scraper that handles both JSON and HTML responses
+    """
+    base_url = "https://devpost.com/software/search"
+    projects_data = []
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+
+    for page in range(1, max_pages + 1):
+        params = {
+            "query": f"is:winner {query}".strip(),
+            "page": page
+        }
+        
+        try:
+            response = requests.get(base_url, params=params, headers=headers, timeout=10)
+            
+            if response.status_code == 403:
+                print("Rate limited - waiting 60 seconds...")
+                time.sleep(60)
+                continue
+                
+            if response.status_code != 200:
+                print(f"Error on page {page}: {response.status_code}")
+                break
+            
+            # Handle JSON response (modern Devpost API)
+            if 'application/json' in response.headers.get('content-type', ''):
+                data = response.json()
+                software_list = data.get('software', [])
+                
+                if not software_list:
+                    print(f"No more results on page {page}")
+                    break
+                    
+                for item in software_list:
+                    if item.get('winner', False):
+                        project = {
+                            "title": item.get('name', 'N/A'),
+                            "url": item.get('url', 'N/A'),
+                            "tagline": item.get('tagline', 'N/A'),
+                            "tags": item.get('tags', []),
+                            "like_count": item.get('like_count', 0),
+                            "comment_count": item.get('comment_count', 0)
+                        }
+                        projects_data.append(project)
+            
+            # Handle HTML response (fallback)
+            else:
+                soup = BeautifulSoup(response.content, 'html.parser')
+                # HTML parsing logic here...
+            
+            print(f"Page {page}: Total projects so far: {len(projects_data)}")
+            time.sleep(1)  # Be respectful to the server
+            
+        except requests.RequestException as e:
+            print(f"Request failed: {e}")
+            break
+
+    return projects_data
+```
+
+### Step 3: Data Analysis and Filtering
+```python
+def filter_ai_agents(projects):
+    """Filter projects that are specifically about AI agents"""
+    ai_agent_keywords = [
+        'agent', 'agents', 'autonomous', 'assistant', 'chatbot', 'bot',
+        'conversational', 'dialogue', 'nlp', 'natural language', 'llm',
+        'large language model', 'gpt', 'claude', 'gemini', 'ai assistant',
+        'virtual assistant', 'intelligent agent', 'multi-agent'
+    ]
+    
+    filtered_projects = []
+    
+    for project in projects:
+        title_lower = project['title'].lower()
+        tagline_lower = project['tagline'].lower()
+        
+        # Check if project mentions AI agents
+        is_ai_agent = any(keyword in title_lower or keyword in tagline_lower 
+                         for keyword in ai_agent_keywords)
+        
+        if is_ai_agent:
+            filtered_projects.append(project)
+    
+    return filtered_projects
+
+def analyze_projects(projects):
+    """Generate insights from scraped data"""
+    if not projects:
+        return "No projects to analyze"
+    
+    # Most common tags
+    all_tags = []
+    for project in projects:
+        all_tags.extend(project.get('tags', []))
+    
+    tag_counts = {}
+    for tag in all_tags:
+        tag_counts[tag] = tag_counts.get(tag, 0) + 1
+    
+    # Sort by popularity
+    popular_tags = sorted(tag_counts.items(), key=lambda x: x[1], reverse=True)[:10]
+    
+    # Most liked projects
+    most_liked = sorted(projects, key=lambda x: x.get('like_count', 0), reverse=True)[:5]
+    
+    return {
+        'total_projects': len(projects),
+        'popular_tags': popular_tags,
+        'most_liked_projects': most_liked,
+        'average_likes': sum(p.get('like_count', 0) for p in projects) / len(projects)
+    }
+```
+
+### Step 4: Running the Complete Pipeline
+```python
+def main():
+    """Complete scraping and analysis pipeline"""
+    print("=== Devpost AI Agent Project Scraper ===")
+    
+    # Scrape multiple search terms to get comprehensive results
+    search_queries = ["ai", "machine learning", "artificial intelligence", "chatbot"]
+    all_results = []
+    
+    for query in search_queries:
+        print(f"\nSearching for: {query}")
+        results = scrape_devpost_projects(query, max_pages=20)
+        print(f"Found {len(results)} projects")
+        all_results.extend(results)
+        
+        # Remove duplicates
+        seen_urls = set()
+        unique_results = []
+        for project in all_results:
+            if project['url'] not in seen_urls:
+                seen_urls.add(project['url'])
+                unique_results.append(project)
+        all_results = unique_results
+    
+    # Filter for AI agents specifically
+    ai_agent_projects = filter_ai_agents(all_results)
+    
+    # Analyze the data
+    analysis = analyze_projects(ai_agent_projects)
+    
+    # Save results
+    with open('ai_agent_projects.json', 'w', encoding='utf-8') as f:
+        json.dump(ai_agent_projects, f, indent=4, ensure_ascii=False)
+    
+    with open('analysis_report.json', 'w', encoding='utf-8') as f:
+        json.dump(analysis, f, indent=4, ensure_ascii=False)
+    
+    print(f"\n=== RESULTS ===")
+    print(f"Total AI agent projects: {len(ai_agent_projects)}")
+    print(f"Average likes per project: {analysis['average_likes']:.1f}")
+    print(f"Top tags: {analysis['popular_tags'][:5]}")
+    
+    return ai_agent_projects, analysis
+
+if __name__ == "__main__":
+    projects, analysis = main()
+```
+
+### Business Applications
+
+This scraper can be used for:
+
+1. **Market Research**: Identify trends in AI agent development
+2. **Competitive Analysis**: See what features competitors are building
+3. **Investment Research**: Find promising projects and teams
+4. **Academic Research**: Study hackathon-winning patterns
+5. **Product Inspiration**: Get ideas for new AI agent features
+
+### Lessons Learned
+
+From this real project, we learned:
+
+1. **APIs Change**: Devpost switched from HTML to JSON responses
+2. **Rate Limiting is Real**: Need delays and error handling
+3. **Data Quality**: Must clean and filter raw data
+4. **Scalability**: Multiple search terms yield better results
+5. **Ethics**: Respect server limits and terms of service
+
+### Extending the Project
+
+Future enhancements could include:
+
+1. **Database Storage**: Use PostgreSQL or MongoDB for large datasets
+2. **Scheduled Scraping**: Run daily/weekly to track changes
+3. **Machine Learning**: Classify projects by category or predict success
+4. **Web Dashboard**: Create a Flask/Django interface to explore data
+5. **API Service**: Turn the scraper into a reusable API
+
+This use case demonstrates how web scraping skills can be applied to solve real business problems and generate valuable insights from publicly available data.
+
 ## Next Steps
 
 1. **Start Simple**: Begin with static HTML sites
